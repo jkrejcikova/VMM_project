@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Prostředí a pomocné adresáře (nikdy se necommitují)
+.claude/
+.uv/
+.DS_Store
+Thumbs.db
+
+# Přednáškové PDF z VMM — autorská práva, ~45 MB
+docs/VMM-*.pdf
+docs/*.pdf
+
+# Dočasné soubory analýzy
+*.tmp
+~$*

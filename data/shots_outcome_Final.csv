@@ -1,0 +1,1001 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,year,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+378451,20,BlockedShot,NaN,0.602000007629395,0.0194789543747902,Ollie Watkins,h,8865,OpenPlay,2020,Head,14104,Aston Villa,Sheffield United,1,0,2020-09-21 17:00:00,Matthew Cash,Aerial
+378458,54,MissedShots,0.878000030517578,0.43,0.0314281918108463,Ollie Watkins,h,8865,OpenPlay,2020,Head,14104,Aston Villa,Sheffield United,1,0,2020-09-21 17:00:00,Trézéguet,Cross
+378464,77,MissedShots,0.858000030517578,0.679000015258789,0.0606961436569691,Ollie Watkins,h,8865,OpenPlay,2020,RightFoot,14104,Aston Villa,Sheffield United,1,0,2020-09-21 17:00:00,John McGinn,Pass
+379954,34,MissedShots,0.830999984741211,0.655,0.127709835767746,Ollie Watkins,a,8865,OpenPlay,2020,RightFoot,14114,Fulham,Aston Villa,0,3,2020-09-28 17:00:00,Jack Grealish,TakeOn
+379956,46,MissedShots,0.943000030517578,0.5,0.445353716611862,Ollie Watkins,a,8865,FromCorner,2020,,14114,Fulham,Aston Villa,0,3,2020-09-28 17:00:00,Conor Hourihane,Cross
+381490,3,Goal,0.915999984741211,0.524000015258789,0.510213136672974,Ollie Watkins,h,8865,OpenPlay,2020,LeftFoot,14466,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,Jack Grealish,Pass
+381496,21,Goal,0.888000030517578,0.579000015258789,0.11985644698143,Ollie Watkins,h,8865,OpenPlay,2020,RightFoot,14466,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,Jack Grealish,Pass
+381504,38,Goal,0.956999969482422,NaN,0.529748797416687,Ollie Watkins,h,8865,SetPiece,2020,Head,14466,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,Trézéguet,Pass
+381511,71,SavedShot,0.853000030517578,0.527999992370605,0.280143946409225,Ollie Watkins,h,8865,OpenPlay,2020,RightFoot,14466,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,Trézéguet,Pass
+381517,84,ShotOnPost,0.901999969482422,0.474000015258789,0.38824936747551,Ollie Watkins,h,8865,OpenPlay,2020,RightFoot,14466,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,Trézéguet,Cross
+382802,68,SavedShot,0.845999984741211,NaN,0.0629871934652328,Ollie Watkins,a,8865,OpenPlay,2020,LeftFoot,14479,Leicester,Aston Villa,0,1,2020-10-18 18:15:00,Ross Barkley,Chipped
+383017,36,BlockedShot,0.861999969482422,0.362999992370605,0.072903148829937,Ollie Watkins,h,8865,OpenPlay,2020,,14486,Aston Villa,Leeds,0,3,2020-10-23 19:00:00,Ross Barkley,Pass
+383041,89,MissedShots,0.93,0.350999984741211,0.27108159661293,Ollie Watkins,h,8865,OpenPlay,2020,RightFoot,14486,Aston Villa,Leeds,0,3,2020-10-23 19:00:00,Ross Barkley,Pass
+384969,90,SavedShot,0.974000015258789,NaN,0.0958968549966812,Ollie Watkins,h,8865,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,John McGinn,TakeOn
+384970,92,Goal,0.885,0.5,0.761168837547302,Ollie Watkins,h,8865,Penalty,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,NA,Standard
+386907,59,BlockedShot,0.904000015258789,0.643000030517578,0.124879844486713,Ollie Watkins,a,8865,OpenPlay,2020,,14505,Arsenal,Aston Villa,0,3,2020-11-08 19:15:00,Douglas Luiz,Pass
+386913,71,Goal,NaN,0.487999992370605,0.64919900894165,Ollie Watkins,a,8865,OpenPlay,2020,Head,14505,Arsenal,Aston Villa,0,3,2020-11-08 19:15:00,Ross Barkley,Chipped
+386916,74,Goal,0.910999984741211,0.64,0.298492342233658,Ollie Watkins,a,8865,OpenPlay,2020,LeftFoot,14505,Arsenal,Aston Villa,0,3,2020-11-08 19:15:00,Jack Grealish,Pass
+389825,36,MissedShots,0.895,0.502999992370605,0.422986507415771,Ollie Watkins,a,8865,OpenPlay,2020,,14526,West Ham,Aston Villa,2,1,2020-11-30 20:00:00,Trézéguet,BallTouch
+389835,65,MissedShots,0.879000015258789,0.445,0.0176285784691572,Ollie Watkins,a,8865,OpenPlay,2020,,14526,West Ham,Aston Villa,2,1,2020-11-30 20:00:00,Matthew Cash,Aerial
+389836,69,MissedShots,0.929000015258789,0.475,0.057344201952219,Ollie Watkins,a,8865,FromCorner,2020,Head,14526,West Ham,Aston Villa,2,1,2020-11-30 20:00:00,Jack Grealish,Aerial
+389837,73,ShotOnPost,0.885,0.5,0.761168837547302,Ollie Watkins,a,8865,Penalty,2020,RightFoot,14526,West Ham,Aston Villa,2,1,2020-11-30 20:00:00,NA,Standard
+17357,95,SavedShot,0.848000030517578,0.640999984741211,0.0563892684876919,Jack Grealish,a,675,OpenPlay,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,NA,BlockedPass
+19813,83,BlockedShot,0.848000030517578,0.482000007629395,0.103194124996662,Jack Grealish,h,675,OpenPlay,2014,RightFoot,4607,Aston Villa,Leicester,2,1,2014-12-07 16:00:00,Gabriel Agbonlahor,Cross
+18333,73,MissedShots,0.848000030517578,0.718000030517578,0.0318478532135487,Jack Grealish,h,675,OpenPlay,2014,RightFoot,4644,Aston Villa,Sunderland,0,0,2014-12-28 15:00:00,Leandro Bacuna,Pass
+24065,71,SavedShot,NaN,0.579000015258789,0.0630402937531471,Jack Grealish,h,675,OpenPlay,2014,RightFoot,4482,Aston Villa,West Bromwich Albion,2,1,2015-03-03 19:45:00,Alan Hutton,Cross
+24066,74,BlockedShot,0.809000015258789,0.701999969482422,0.025429978966713,Jack Grealish,h,675,OpenPlay,2014,RightFoot,4482,Aston Villa,West Bromwich Albion,2,1,2015-03-03 19:45:00,Fabian Delph,Pass
+22264,12,SavedShot,0.761999969482422,0.758000030517578,0.0385562889277935,Jack Grealish,h,675,DirectFreekick,2014,RightFoot,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,NA,Standard
+22266,15,SavedShot,0.933000030517578,0.447000007629395,0.508471310138702,Jack Grealish,h,675,OpenPlay,2014,RightFoot,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,NA,None
+22279,53,SavedShot,0.786999969482422,0.337000007629395,0.0346190370619297,Jack Grealish,h,675,OpenPlay,2014,RightFoot,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,NA,BallRecovery
+22281,60,BlockedShot,NaN,0.535999984741211,0.0489315800368786,Jack Grealish,h,675,OpenPlay,2014,RightFoot,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Christian Benteke,Pass
+21403,3,BlockedShot,NaN,0.625,0.0405005998909473,Jack Grealish,a,675,OpenPlay,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Christian Benteke,HeadPass
+22641,46,BlockedShot,0.765999984741211,0.397999992370605,0.0258383173495531,Jack Grealish,a,675,OpenPlay,2014,RightFoot,4475,Manchester City,Aston Villa,3,2,2015-04-25 17:30:00,Tom Cleverley,Pass
+20519,44,BlockedShot,0.904000015258789,0.741999969482422,0.0483905710279942,Jack Grealish,h,675,OpenPlay,2014,RightFoot,4401,Aston Villa,Everton,3,2,2015-05-02 15:00:00,Charles N&#039;Zogbia,Pass
+20294,42,MissedShots,0.754000015258789,0.47,0.0407821796834469,Jack Grealish,h,675,OpenPlay,2014,LeftFoot,4411,Aston Villa,West Ham,1,0,2015-05-09 15:00:00,Fabian Delph,LayOff
+56494,38,SavedShot,0.956999969482422,0.713000030517578,0.0467107258737087,Jack Grealish,a,675,OpenPlay,2015,LeftFoot,104,Crystal Palace,Aston Villa,2,1,2015-08-22 18:00:00,Idrissa Gueye,Pass
+56499,56,BlockedShot,0.831999969482422,0.385999984741211,0.0491250716149807,Jack Grealish,a,675,OpenPlay,2015,LeftFoot,104,Crystal Palace,Aston Villa,2,1,2015-08-22 18:00:00,Carlos Sánchez,Pass
+57882,23,SavedShot,0.865999984741211,NaN,0.0978459194302559,Jack Grealish,a,675,OpenPlay,2015,RightFoot,129,Leicester,Aston Villa,3,2,2015-09-13 19:00:00,Carles Gil,Pass
+57883,31,BlockedShot,0.798000030517578,0.665999984741211,0.0180571600794792,Jack Grealish,a,675,OpenPlay,2015,RightFoot,129,Leicester,Aston Villa,3,2,2015-09-13 19:00:00,Gabriel Agbonlahor,TakeOn
+57887,38,Goal,0.795,0.56,0.0264280252158642,Jack Grealish,a,675,FromCorner,2015,RightFoot,129,Leicester,Aston Villa,3,2,2015-09-13 19:00:00,Micah Richards,BallTouch
+58054,33,BlockedShot,0.796999969482422,0.665999984741211,0.0520530380308628,Jack Grealish,h,675,OpenPlay,2015,RightFoot,133,Aston Villa,West Bromwich Albion,0,1,2015-09-19 18:00:00,Gabriel Agbonlahor,TakeOn
+58063,63,MissedShots,0.808000030517578,0.52,0.0447398796677589,Jack Grealish,h,675,SetPiece,2015,RightFoot,133,Aston Villa,West Bromwich Albion,0,1,2015-09-19 18:00:00,Carles Gil,Pass
+58667,91,BlockedShot,NaN,0.285,0.0204119030386209,Jack Grealish,h,675,OpenPlay,2015,RightFoot,152,Aston Villa,Stoke,0,1,2015-10-03 18:00:00,Carles Gil,Pass
+58899,15,SavedShot,0.835,0.312000007629395,0.0336036682128906,Jack Grealish,a,675,OpenPlay,2015,LeftFoot,164,Chelsea,Aston Villa,2,0,2015-10-17 18:00:00,Rudy Gestede,Pass
+58907,45,MissedShots,0.868000030517578,0.746999969482422,0.0274418126791716,Jack Grealish,a,675,OpenPlay,2015,RightFoot,164,Chelsea,Aston Villa,2,0,2015-10-17 18:00:00,Carles Gil,Pass
+53246,10,MissedShots,0.86,0.745,0.0298580303788185,Jack Grealish,a,675,OpenPlay,2015,LeftFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,NA,Rebound
+53250,28,BlockedShot,0.756999969482422,NaN,0.0135447690263391,Jack Grealish,a,675,SetPiece,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,NA,None
+53257,54,BlockedShot,0.783000030517578,0.557999992370605,0.0243944618850946,Jack Grealish,a,675,SetPiece,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,NA,None
+53794,61,BlockedShot,0.808000030517578,NaN,0.0325186401605606,Jack Grealish,a,675,OpenPlay,2015,RightFoot,206,Everton,Aston Villa,4,0,2015-11-21 19:00:00,Jordan Veretout,Pass
+61093,87,MissedShots,NaN,0.665999984741211,0.0319126732647419,Jack Grealish,h,675,OpenPlay,2015,RightFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,Jordan Ayew,Cross
+51982,83,BlockedShot,0.806999969482422,0.617999992370605,0.0503732524812222,Jack Grealish,a,675,OpenPlay,2015,,451,Arsenal,Aston Villa,4,0,2016-05-15 18:00:00,Idrissa Gueye,TakeOn
+310485,52,MissedShots,0.749000015258789,NaN,0.0224695093929768,Jack Grealish,h,675,SetPiece,2019,RightFoot,11654,Aston Villa,Bournemouth,1,2,2019-08-17 15:00:00,John McGinn,Pass
+310488,62,MissedShots,NaN,0.497000007629395,0.338293015956879,Jack Grealish,h,675,OpenPlay,2019,OtherBodyPart,11654,Aston Villa,Bournemouth,1,2,2019-08-17 15:00:00,Ahmed Elmohamady,Cross
+312219,35,BlockedShot,0.769000015258789,NaN,0.0388622544705868,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11663,Aston Villa,Everton,2,0,2019-08-23 20:00:00,Wesley,Pass
+312222,44,MissedShots,0.811999969482422,NaN,0.0201109554618597,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11663,Aston Villa,Everton,2,0,2019-08-23 20:00:00,Trézéguet,Pass
+315813,62,BlockedShot,0.73,0.67,0.0139185851439834,Jack Grealish,a,675,OpenPlay,2019,,11676,Crystal Palace,Aston Villa,1,0,2019-08-31 15:00:00,Keinan Davis,Pass
+315821,71,BlockedShot,0.778000030517578,NaN,0.0202677994966507,Jack Grealish,a,675,SetPiece,2019,,11676,Crystal Palace,Aston Villa,1,0,2019-08-31 15:00:00,Conor Hourihane,Pass
+318452,87,MissedShots,0.933000030517578,0.557000007629395,0.374506890773773,Jack Grealish,h,675,OpenPlay,2019,LeftFoot,11692,Aston Villa,West Ham,0,0,2019-09-16 19:00:00,Douglas Luiz,Cross
+322561,8,MissedShots,0.794000015258789,0.402999992370605,0.0312400069087744,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11706,Aston Villa,Burnley,2,2,2019-09-28 14:00:00,John McGinn,Pass
+322572,44,SavedShot,0.818000030517578,NaN,0.0767878741025925,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11706,Aston Villa,Burnley,2,2,2019-09-28 14:00:00,John McGinn,Pass
+322579,73,MissedShots,0.763000030517578,0.532999992370605,0.0271543767303228,Jack Grealish,h,675,OpenPlay,2019,,11706,Aston Villa,Burnley,2,2,2019-09-28 14:00:00,Wesley,Pass
+322582,88,BlockedShot,0.809000015258789,NaN,0.0144161768257618,Jack Grealish,h,675,FromCorner,2019,RightFoot,11706,Aston Villa,Burnley,2,2,2019-09-28 14:00:00,Conor Hourihane,Chipped
+324159,11,SavedShot,0.740999984741211,NaN,0.0161074083298445,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11717,Norwich,Aston Villa,1,5,2019-10-05 15:00:00,Conor Hourihane,TakeOn
+324164,20,SavedShot,NaN,0.665999984741211,0.0146403647959232,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11717,Norwich,Aston Villa,1,5,2019-10-05 15:00:00,Matt Targett,Pass
+324181,48,Goal,0.875999984741211,0.490999984741211,0.46142914891243,Jack Grealish,a,675,OpenPlay,2019,,11717,Norwich,Aston Villa,1,5,2019-10-05 15:00:00,Anwar El Ghazi,Pass
+324185,56,MissedShots,0.839000015258789,0.369000015258789,0.0749280080199242,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11717,Norwich,Aston Villa,1,5,2019-10-05 15:00:00,Anwar El Ghazi,Pass
+325565,44,SavedShot,0.853000030517578,0.675,0.0473517738282681,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,Marvelous Nakamba,Pass
+325568,46,Goal,0.973000030517578,0.500999984741211,0.708749651908875,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,Frederic Guilbert,Cross
+325585,74,BlockedShot,0.899000015258789,0.579000015258789,0.090100072324276,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,Matt Targett,Cross
+333255,54,MissedShots,0.883000030517578,0.472999992370605,0.113081716001034,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11764,Aston Villa,Newcastle United,2,0,2019-11-25 20:00:00,Wesley,HeadPass
+333256,54,SavedShot,0.825999984741211,0.73,0.0262965112924576,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11764,Aston Villa,Newcastle United,2,0,2019-11-25 20:00:00,Conor Hourihane,Pass
+333258,57,MissedShots,0.861999969482422,NaN,0.108538813889027,Jack Grealish,h,675,OpenPlay,2019,,11764,Aston Villa,Newcastle United,2,0,2019-11-25 20:00:00,Anwar El Ghazi,Pass
+333260,61,MissedShots,0.861999969482422,NaN,0.108024783432484,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11764,Aston Villa,Newcastle United,2,0,2019-11-25 20:00:00,Anwar El Ghazi,Pass
+333261,68,SavedShot,0.835,0.552999992370605,0.0916875004768372,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11764,Aston Villa,Newcastle United,2,0,2019-11-25 20:00:00,John McGinn,Pass
+334492,10,Goal,0.876999969482422,0.715,0.0195009540766478,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Anwar El Ghazi,Cross
+334498,42,MissedShots,0.850999984741211,0.666999969482422,0.0220954865217209,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Frederic Guilbert,Cross
+334505,62,MissedShots,0.959000015258789,0.534000015258789,0.661715745925903,Jack Grealish,a,675,OpenPlay,2019,LeftFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,NA,Rebound
+336325,5,BlockedShot,0.94,NaN,0.0478385910391808,Jack Grealish,h,675,FromCorner,2019,RightFoot,11793,Aston Villa,Leicester,1,4,2019-12-08 14:00:00,John McGinn,TakeOn
+336338,46,Goal,0.879000015258789,0.66,0.0375269204378128,Jack Grealish,h,675,FromCorner,2019,,11793,Aston Villa,Leicester,1,4,2019-12-08 14:00:00,Ezri Konsa Ngoyo,BallTouch
+337071,56,MissedShots,0.933000030517578,0.565,0.044145192950964,Jack Grealish,a,675,OpenPlay,2019,Head,11810,Sheffield United,Aston Villa,2,0,2019-12-14 15:00:00,Anwar El Ghazi,Aerial
+337073,68,MissedShots,0.89,NaN,0.0462549552321434,Jack Grealish,a,675,OpenPlay,2019,Head,11810,Sheffield United,Aston Villa,2,0,2019-12-14 15:00:00,Matt Targett,Cross
+337075,77,ShotOnPost,0.885,0.5,0.761168837547302,Jack Grealish,a,675,Penalty,2019,RightFoot,11810,Sheffield United,Aston Villa,2,0,2019-12-14 15:00:00,NA,Standard
+337078,88,MissedShots,NaN,0.686999969482422,0.0233113132417202,Jack Grealish,a,675,OpenPlay,2019,,11810,Sheffield United,Aston Villa,2,0,2019-12-14 15:00:00,John McGinn,Pass
+338703,74,Goal,NaN,0.700999984741211,0.0142045132815838,Jack Grealish,h,675,FromCorner,2019,RightFoot,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,NA,Aerial
+338713,91,SavedShot,0.779000015258789,0.781999969482422,0.00865573342889547,Jack Grealish,h,675,OpenPlay,2019,,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,Douglas Luiz,Pass
+338715,93,BlockedShot,0.904000015258789,0.669000015258789,0.0823735892772675,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,Jonathan Kodjia,Pass
+339611,53,SavedShot,0.815,NaN,0.0300069060176611,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11823,Aston Villa,Norwich,1,0,2019-12-26 15:00:00,Marvelous Nakamba,Pass
+339617,78,MissedShots,0.873000030517578,0.539000015258789,0.0504394471645355,Jack Grealish,h,675,OpenPlay,2019,Head,11823,Aston Villa,Norwich,1,0,2019-12-26 15:00:00,Trézéguet,Cross
+339823,52,BlockedShot,0.871999969482422,NaN,0.0392442718148232,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11841,Watford,Aston Villa,3,0,2019-12-28 15:00:00,Conor Hourihane,Pass
+339834,83,MissedShots,0.751999969482422,NaN,0.0142240738496184,Jack Grealish,a,675,SetPiece,2019,RightFoot,11841,Watford,Aston Villa,3,0,2019-12-28 15:00:00,NA,None
+339835,87,MissedShots,0.779000015258789,0.641999969482422,0.0167313851416111,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11841,Watford,Aston Villa,3,0,2019-12-28 15:00:00,Frederic Guilbert,Pass
+351431,40,Goal,0.865999984741211,NaN,0.0912742465734482,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11846,Burnley,Aston Villa,1,2,2020-01-01 12:30:00,Douglas Luiz,Pass
+351852,86,MissedShots,0.95,NaN,0.138841047883034,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,NA,TakeOn
+352010,37,MissedShots,0.881999969482422,NaN,0.141150400042534,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,NA,TakeOn
+352016,74,Goal,0.875999984741211,0.595999984741211,0.0702274143695831,Jack Grealish,a,675,OpenPlay,2019,LeftFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,Douglas Luiz,Chipped
+352019,89,MissedShots,0.876999969482422,0.557000007629395,0.0515562929213047,Jack Grealish,a,675,OpenPlay,2019,,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,Conor Hourihane,Cross
+352221,88,BlockedShot,0.85,0.614000015258789,0.0755069628357887,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11873,Aston Villa,Watford,2,1,2020-01-21 19:30:00,Anwar El Ghazi,Pass
+352508,20,MissedShots,0.811999969482422,0.740999984741211,0.0207081101834774,Jack Grealish,a,675,OpenPlay,2019,,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Mbwana Samatta,BallRecovery
+352512,28,ShotOnPost,0.865999984741211,NaN,0.0294948723167181,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Douglas Luiz,Pass
+352513,31,BlockedShot,0.880999984741211,0.641999969482422,0.0691568180918694,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Anwar El Ghazi,BallRecovery
+352519,45,SavedShot,0.978000030517578,NaN,0.0528307110071182,Jack Grealish,a,675,OpenPlay,2019,,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Mbwana Samatta,TakeOn
+352528,72,MissedShots,0.91,NaN,0.0532752797007561,Jack Grealish,a,675,OpenPlay,2019,LeftFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Douglas Luiz,Pass
+352783,9,MissedShots,0.865,0.645,0.0811877697706223,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11894,Aston Villa,Tottenham,2,3,2020-02-16 14:00:00,Anwar El Ghazi,Pass
+352784,10,MissedShots,0.818000030517578,0.678000030517578,0.0402861423790455,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11894,Aston Villa,Tottenham,2,3,2020-02-16 14:00:00,Daniel Drinkwater,Pass
+352814,72,BlockedShot,0.81,NaN,0.055469885468483,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11894,Aston Villa,Tottenham,2,3,2020-02-16 14:00:00,Marvelous Nakamba,Pass
+353026,93,BlockedShot,NaN,0.654000015258789,0.0390281155705452,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11908,Southampton,Aston Villa,2,0,2020-02-22 15:00:00,José Reina,Pass
+366786,36,SavedShot,0.799000015258789,0.695,0.0215009767562151,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11954,Aston Villa,Wolverhampton Wanderers,0,1,2020-06-27 11:30:00,Neil Taylor,Pass
+366796,72,BlockedShot,0.848000030517578,0.614000015258789,0.0637884587049484,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11954,Aston Villa,Wolverhampton Wanderers,0,1,2020-06-27 11:30:00,Neil Taylor,Pass
+369034,63,BlockedShot,0.806999969482422,NaN,0.0548920519649982,Jack Grealish,a,675,OpenPlay,2019,,11966,Liverpool,Aston Villa,2,0,2020-07-05 15:30:00,Keinan Davis,Pass
+369040,90,SavedShot,0.938000030517578,NaN,0.289508908987045,Jack Grealish,a,675,OpenPlay,2019,,11966,Liverpool,Aston Villa,2,0,2020-07-05 15:30:00,Neil Taylor,Pass
+370216,17,MissedShots,0.92,NaN,0.0235606450587511,Jack Grealish,h,675,OpenPlay,2019,LeftFoot,11974,Aston Villa,Manchester United,0,3,2020-07-09 19:15:00,Ezri Konsa Ngoyo,Cross
+370230,65,MissedShots,0.898000030517578,0.705999984741211,0.0519864782691002,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11974,Aston Villa,Manchester United,0,3,2020-07-09 19:15:00,Conor Hourihane,Pass
+370747,37,SavedShot,0.899000015258789,NaN,0.0648890510201454,Jack Grealish,h,675,OpenPlay,2019,,11983,Aston Villa,Crystal Palace,2,0,2020-07-12 13:15:00,Ahmed Elmohamady,Chipped
+370759,62,SavedShot,0.803000030517578,0.477999992370605,0.0608495511114597,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11983,Aston Villa,Crystal Palace,2,0,2020-07-12 13:15:00,John McGinn,BallTouch
+371859,34,BlockedShot,0.720999984741211,0.472000007629395,0.0205790437757969,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11997,Everton,Aston Villa,1,1,2020-07-16 17:00:00,John McGinn,Pass
+371864,46,MissedShots,0.865999984741211,0.684000015258789,0.0483702458441257,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11997,Everton,Aston Villa,1,1,2020-07-16 17:00:00,John McGinn,Pass
+371862,47,BlockedShot,0.799000015258789,0.627000007629395,0.0357204861938953,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11997,Everton,Aston Villa,1,1,2020-07-16 17:00:00,Matt Targett,BallRecovery
+371865,48,MissedShots,0.815999984741211,NaN,0.0196223761886358,Jack Grealish,a,675,OpenPlay,2019,,11997,Everton,Aston Villa,1,1,2020-07-16 17:00:00,Mbwana Samatta,Pass
+371871,69,BlockedShot,0.909000015258789,NaN,0.0529110059142113,Jack Grealish,a,675,OpenPlay,2019,LeftFoot,11997,Everton,Aston Villa,1,1,2020-07-16 17:00:00,NA,None
+373041,44,MissedShots,0.760999984741211,0.75,0.0210804659873247,Jack Grealish,h,675,OpenPlay,2019,RightFoot,12003,Aston Villa,Arsenal,1,0,2020-07-21 19:15:00,Trézéguet,Pass
+373814,43,SavedShot,NaN,0.671999969482422,0.0702367424964905,Jack Grealish,a,675,OpenPlay,2019,RightFoot,12013,West Ham,Aston Villa,1,1,2020-07-26 15:00:00,Conor Hourihane,Pass
+373821,62,BlockedShot,0.760999984741211,0.33,0.0530283562839031,Jack Grealish,a,675,DirectFreekick,2019,RightFoot,12013,West Ham,Aston Villa,1,1,2020-07-26 15:00:00,NA,Standard
+373824,77,BlockedShot,0.891999969482422,0.64,0.0567674972116947,Jack Grealish,a,675,FromCorner,2019,,12013,West Ham,Aston Villa,1,1,2020-07-26 15:00:00,John McGinn,TakeOn
+373827,83,Goal,NaN,0.67,0.0670161619782448,Jack Grealish,a,675,OpenPlay,2019,LeftFoot,12013,West Ham,Aston Villa,1,1,2020-07-26 15:00:00,John McGinn,Pass
+378460,67,MissedShots,0.805,0.480999984741211,0.0601849779486656,Jack Grealish,h,675,OpenPlay,2020,RightFoot,14104,Aston Villa,Sheffield United,1,0,2020-09-21 17:00:00,Ollie Watkins,Pass
+378466,80,MissedShots,0.840999984741211,NaN,0.08635164052248,Jack Grealish,h,675,OpenPlay,2020,RightFoot,14104,Aston Villa,Sheffield United,1,0,2020-09-21 17:00:00,John McGinn,Pass
+378469,91,BlockedShot,0.864000015258789,NaN,0.128243297338486,Jack Grealish,h,675,OpenPlay,2020,LeftFoot,14104,Aston Villa,Sheffield United,1,0,2020-09-21 17:00:00,Ollie Watkins,Pass
+379946,3,Goal,0.954000015258789,NaN,0.319951355457306,Jack Grealish,a,675,OpenPlay,2020,RightFoot,14114,Fulham,Aston Villa,0,3,2020-09-28 17:00:00,John McGinn,Throughball
+379958,51,BlockedShot,0.885,0.719000015258789,0.0535057373344898,Jack Grealish,a,675,OpenPlay,2020,RightFoot,14114,Fulham,Aston Villa,0,3,2020-09-28 17:00:00,Conor Hourihane,BallTouch
+379964,65,MissedShots,0.953000030517578,0.637000007629395,0.0928793698549271,Jack Grealish,a,675,OpenPlay,2020,RightFoot,14114,Fulham,Aston Villa,0,3,2020-09-28 17:00:00,Matthew Cash,Cross
+381510,65,Goal,0.849000015258789,NaN,0.0856499224901199,Jack Grealish,h,675,OpenPlay,2020,RightFoot,14466,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,Ollie Watkins,Pass
+381512,74,Goal,0.861999969482422,0.555,0.251158773899078,Jack Grealish,h,675,OpenPlay,2020,RightFoot,14466,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,John McGinn,Pass
+381519,84,BlockedShot,0.88,NaN,0.0443733185529709,Jack Grealish,h,675,OpenPlay,2020,RightFoot,14466,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,NA,Rebound
+383013,25,BlockedShot,NaN,0.653000030517578,0.28989040851593,Jack Grealish,h,675,OpenPlay,2020,LeftFoot,14486,Aston Villa,Leeds,0,3,2020-10-23 19:00:00,Trézéguet,Rebound
+383023,51,SavedShot,0.929000015258789,NaN,0.466183453798294,Jack Grealish,h,675,OpenPlay,2020,,14486,Aston Villa,Leeds,0,3,2020-10-23 19:00:00,NA,Dispossessed
+384947,9,BlockedShot,0.885,0.699000015258789,0.0547994188964367,Jack Grealish,h,675,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Matt Targett,Pass
+384949,12,BlockedShot,0.92,0.710999984741211,0.0452981926500797,Jack Grealish,h,675,FromCorner,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Ross Barkley,Pass
+384956,51,SavedShot,0.919000015258789,0.577999992370606,0.475380003452301,Jack Grealish,h,675,OpenPlay,2020,Head,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Douglas Luiz,Aerial
+384967,87,BlockedShot,0.920999984741211,0.740999984741211,0.0334158316254616,Jack Grealish,h,675,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Matt Targett,Pass
+384971,94,BlockedShot,0.891999969482422,0.617000007629395,0.099869579076767,Jack Grealish,h,675,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Ollie Watkins,Chipped
+384972,96,Goal,0.809000015258789,0.744000015258789,0.0131031246855855,Jack Grealish,h,675,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Douglas Luiz,Chipped
+386897,34,BlockedShot,0.919000015258789,0.66,0.0828862637281418,Jack Grealish,a,675,OpenPlay,2020,LeftFoot,14505,Arsenal,Aston Villa,0,3,2020-11-08 19:15:00,John McGinn,Chipped
+386905,55,SavedShot,NaN,NaN,0.0947432592511177,Jack Grealish,a,675,OpenPlay,2020,RightFoot,14505,Arsenal,Aston Villa,0,3,2020-11-08 19:15:00,Ross Barkley,Pass
+386906,56,BlockedShot,0.829000015258789,0.39,0.03419528901577,Jack Grealish,a,675,FromCorner,2020,,14505,Arsenal,Aston Villa,0,3,2020-11-08 19:15:00,Ross Barkley,Cross
+386915,72,BlockedShot,0.89,0.64,0.0921201184391975,Jack Grealish,a,675,OpenPlay,2020,RightFoot,14505,Arsenal,Aston Villa,0,3,2020-11-08 19:15:00,Ross Barkley,Chipped
+386914,72,BlockedShot,0.905999984741211,0.61,0.125410556793213,Jack Grealish,a,675,OpenPlay,2020,RightFoot,14505,Arsenal,Aston Villa,0,3,2020-11-08 19:15:00,Ross Barkley,Pass
+387366,41,BlockedShot,NaN,0.37,0.0231858640909195,Jack Grealish,h,675,OpenPlay,2020,,14515,Aston Villa,Brighton,1,2,2020-11-21 15:00:00,NA,TakeOn
+389823,24,Goal,0.791999969482422,0.407000007629395,0.0340026058256626,Jack Grealish,a,675,OpenPlay,2020,RightFoot,14526,West Ham,Aston Villa,2,1,2020-11-30 20:00:00,Matthew Cash,Pass
+389830,49,SavedShot,0.906999969482422,0.781999969482422,0.0232348944991827,Jack Grealish,a,675,OpenPlay,2020,,14526,West Ham,Aston Villa,2,1,2020-11-30 20:00:00,Matt Targett,Chipped
+389838,86,BlockedShot,0.785999984741211,0.602999992370605,0.0267040766775608,Jack Grealish,a,675,SetPiece,2020,RightFoot,14526,West Ham,Aston Villa,2,1,2020-11-30 20:00:00,Matt Targett,TakeOn
+16289,3,MissedShots,0.790999984741211,0.617999992370605,0.0231207031756639,Ross Barkley,h,592,OpenPlay,2014,RightFoot,4700,Everton,Aston Villa,3,0,2014-10-18 15:00:00,NA,Rebound
+16290,6,BlockedShot,0.779000015258789,NaN,0.0476682558655739,Ross Barkley,h,592,DirectFreekick,2014,RightFoot,4700,Everton,Aston Villa,3,0,2014-10-18 15:00:00,NA,Standard
+16293,16,SavedShot,0.855,0.263999996185303,0.0246123224496841,Ross Barkley,h,592,FromCorner,2014,,4700,Everton,Aston Villa,3,0,2014-10-18 15:00:00,Leighton Baines,Pass
+17245,71,BlockedShot,0.766999969482422,0.534000015258789,0.0338574424386024,Ross Barkley,a,592,OpenPlay,2014,LeftFoot,4716,Burnley,Everton,1,3,2014-10-26 13:30:00,Seamus Coleman,Pass
+17283,7,MissedShots,0.735,0.678000030517578,0.0160725768655539,Ross Barkley,h,592,OpenPlay,2014,LeftFoot,4654,Everton,Swansea,0,0,2014-11-01 15:00:00,James McCarthy,Pass
+17291,24,MissedShots,0.78,0.728000030517578,0.0153257166966796,Ross Barkley,h,592,OpenPlay,2014,RightFoot,4654,Everton,Swansea,0,0,2014-11-01 15:00:00,Leighton Baines,Pass
+17047,5,SavedShot,0.828000030517578,0.879000015258789,0.0149878794327378,Ross Barkley,a,592,OpenPlay,2014,,4665,Sunderland,Everton,1,1,2014-11-09 13:30:00,Samuel Eto&#039;o,Pass
+17053,34,BlockedShot,0.869000015258789,0.375,0.0775100365281105,Ross Barkley,a,592,OpenPlay,2014,RightFoot,4665,Sunderland,Everton,1,1,2014-11-09 13:30:00,Aiden McGeady,Pass
+17061,46,MissedShots,0.743000030517578,0.632999992370605,0.0197808444499969,Ross Barkley,a,592,OpenPlay,2014,LeftFoot,4665,Sunderland,Everton,1,1,2014-11-09 13:30:00,Aiden McGeady,Pass
+17059,46,MissedShots,0.773000030517578,0.683000030517578,0.0195311568677425,Ross Barkley,a,592,OpenPlay,2014,RightFoot,4665,Sunderland,Everton,1,1,2014-11-09 13:30:00,Sylvain Distin,TakeOn
+17062,49,SavedShot,0.861999969482422,0.709000015258789,0.0407782942056656,Ross Barkley,a,592,OpenPlay,2014,RightFoot,4665,Sunderland,Everton,1,1,2014-11-09 13:30:00,Romelu Lukaku,Pass
+16489,25,BlockedShot,0.815,0.532000007629394,0.0495445504784584,Ross Barkley,h,592,OpenPlay,2014,RightFoot,4673,Everton,West Ham,2,1,2014-11-22 15:00:00,Steven Naismith,HeadPass
+16488,25,BlockedShot,0.770999984741211,0.604000015258789,0.0268832240253687,Ross Barkley,h,592,OpenPlay,2014,LeftFoot,4673,Everton,West Ham,2,1,2014-11-22 15:00:00,Leon Osman,Pass
+18510,34,BlockedShot,0.708000030517578,0.557000007629395,0.0121113816276193,Ross Barkley,a,592,OpenPlay,2014,,4688,Tottenham,Everton,2,1,2014-11-30 16:00:00,Samuel Eto&#039;o,LayOff
+18523,89,BlockedShot,0.946999969482422,0.477999992370605,0.10540409386158,Ross Barkley,a,592,SetPiece,2014,Head,4688,Tottenham,Everton,2,1,2014-11-30 16:00:00,Leighton Baines,Aerial
+18027,31,BlockedShot,0.779000015258789,0.297000007629395,0.0161334164440632,Ross Barkley,h,592,OpenPlay,2014,RightFoot,4618,Everton,Queens Park Rangers,3,1,2014-12-15 20:00:00,Aiden McGeady,Pass
+18028,32,Goal,NaN,NaN,0.0133287319913507,Ross Barkley,h,592,OpenPlay,2014,LeftFoot,4618,Everton,Queens Park Rangers,3,1,2014-12-15 20:00:00,Romelu Lukaku,TakeOn
+18046,91,MissedShots,0.713000030517578,0.637000007629395,0.0372189693152905,Ross Barkley,h,592,DirectFreekick,2014,RightFoot,4618,Everton,Queens Park Rangers,3,1,2014-12-15 20:00:00,NA,Standard
+19281,22,SavedShot,0.779000015258789,NaN,0.0257368050515652,Ross Barkley,a,592,OpenPlay,2014,RightFoot,4623,Southampton,Everton,3,0,2014-12-20 15:00:00,Leighton Baines,Pass
+19294,72,BlockedShot,0.785,0.617999992370605,0.0817882791161537,Ross Barkley,a,592,DirectFreekick,2014,RightFoot,4623,Southampton,Everton,3,0,2014-12-20 15:00:00,NA,Standard
+19299,83,SavedShot,0.775999984741211,0.512000007629395,0.0337480902671814,Ross Barkley,a,592,OpenPlay,2014,LeftFoot,4623,Southampton,Everton,3,0,2014-12-20 15:00:00,Seamus Coleman,Pass
+17670,44,BlockedShot,0.770999984741211,0.582999992370606,0.0278143528848886,Ross Barkley,h,592,FromCorner,2014,,4634,Everton,Stoke,0,1,2014-12-26 15:00:00,NA,Rebound
+17677,51,MissedShots,0.761999969482422,0.370999984741211,0.02195287309587,Ross Barkley,h,592,OpenPlay,2014,RightFoot,4634,Everton,Stoke,0,1,2014-12-26 15:00:00,Kevin Mirallas,Pass
+19449,53,SavedShot,0.923000030517578,0.6,0.297459930181503,Ross Barkley,a,592,OpenPlay,2014,LeftFoot,4558,Hull,Everton,2,0,2015-01-01 15:00:00,Leighton Baines,TakeOn
+19457,89,MissedShots,0.744000015258789,0.706999969482422,0.040258701890707,Ross Barkley,a,592,DirectFreekick,2014,RightFoot,4558,Hull,Everton,2,0,2015-01-01 15:00:00,NA,Standard
+17807,46,MissedShots,0.774000015258789,NaN,0.0514730922877789,Ross Barkley,h,592,DirectFreekick,2014,RightFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,NA,Standard
+18664,58,BlockedShot,0.761999969482422,0.684000015258789,0.0509443283081055,Ross Barkley,h,592,DirectFreekick,2014,RightFoot,4580,Everton,West Bromwich Albion,0,0,2015-01-19 20:00:00,NA,Standard
+23901,23,MissedShots,NaN,NaN,0.0511407777667046,Ross Barkley,h,592,DirectFreekick,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,NA,Standard
+23906,30,MissedShots,0.855999984741211,NaN,0.122994124889374,Ross Barkley,h,592,OpenPlay,2014,LeftFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,NA,Rebound
+23912,49,BlockedShot,0.761999969482422,0.497000007629395,0.0267734285444021,Ross Barkley,h,592,OpenPlay,2014,LeftFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,James McCarthy,BallRecovery
+23050,76,MissedShots,0.805,0.693000030517578,0.0241153333336115,Ross Barkley,a,592,FromCorner,2014,RightFoot,4481,Arsenal,Everton,2,0,2015-03-01 14:05:00,Luke Garbutt,Pass
+22789,75,BlockedShot,0.875,0.429000015258789,0.440687090158463,Ross Barkley,h,592,OpenPlay,2014,RightFoot,4500,Everton,Newcastle United,3,0,2015-03-15 16:00:00,Aaron Lennon,Pass
+22796,92,Goal,0.954000015258789,0.334000015258789,0.522753000259399,Ross Barkley,h,592,OpenPlay,2014,RightFoot,4500,Everton,Newcastle United,3,0,2015-03-15 16:00:00,Christian Atsu,TakeOn
+21624,10,MissedShots,0.773000030517578,0.646999969482422,0.0107339080423117,Ross Barkley,h,592,SetPiece,2014,RightFoot,4441,Everton,Southampton,1,0,2015-04-04 15:00:00,NA,Aerial
+21625,14,BlockedShot,0.764000015258789,NaN,0.0208822712302208,Ross Barkley,h,592,FromCorner,2014,RightFoot,4441,Everton,Southampton,1,0,2015-04-04 15:00:00,Leighton Baines,Pass
+21208,29,SavedShot,0.745,0.362999992370605,0.0173404216766357,Ross Barkley,a,592,OpenPlay,2014,RightFoot,4451,Swansea,Everton,1,1,2015-04-11 12:45:00,Seamus Coleman,Pass
+21218,69,SavedShot,0.765,0.487000007629395,0.01992910169065,Ross Barkley,a,592,OpenPlay,2014,RightFoot,4451,Swansea,Everton,1,1,2015-04-11 12:45:00,NA,Rebound
+21219,72,MissedShots,0.745999984741211,NaN,0.0221765171736479,Ross Barkley,a,592,OpenPlay,2014,LeftFoot,4451,Swansea,Everton,1,1,2015-04-11 12:45:00,Gareth Barry,Pass
+21221,75,MissedShots,0.74,0.385,0.0152188735082746,Ross Barkley,a,592,OpenPlay,2014,RightFoot,4451,Swansea,Everton,1,1,2015-04-11 12:45:00,James McCarthy,Pass
+20483,2,MissedShots,NaN,0.600999984741211,0.0335242711007595,Ross Barkley,h,592,OpenPlay,2014,RightFoot,4461,Everton,Burnley,1,0,2015-04-18 15:00:00,Arouna Koné,LayOff
+20484,4,BlockedShot,0.699000015258789,0.394000015258789,0.0128253437578678,Ross Barkley,h,592,OpenPlay,2014,,4461,Everton,Burnley,1,0,2015-04-18 15:00:00,Aaron Lennon,Pass
+20486,10,SavedShot,0.885,0.5,0.761168837547302,Ross Barkley,h,592,Penalty,2014,RightFoot,4461,Everton,Burnley,1,0,2015-04-18 15:00:00,NA,Standard
+20504,64,BlockedShot,NaN,0.562999992370605,0.0156227331608534,Ross Barkley,h,592,FromCorner,2014,RightFoot,4461,Everton,Burnley,1,0,2015-04-18 15:00:00,NA,None
+20513,90,SavedShot,0.775999984741211,0.47,0.0892628207802773,Ross Barkley,h,592,OpenPlay,2014,RightFoot,4461,Everton,Burnley,1,0,2015-04-18 15:00:00,Gareth Barry,BallRecovery
+22439,44,MissedShots,0.778000030517578,0.301000003814697,0.019881721585989,Ross Barkley,h,592,OpenPlay,2014,RightFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Aaron Lennon,Pass
+22442,63,SavedShot,0.794000015258789,0.322000007629395,0.0265343338251114,Ross Barkley,h,592,OpenPlay,2014,RightFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Romelu Lukaku,Pass
+20528,75,BlockedShot,0.755999984741211,NaN,0.0142438830807805,Ross Barkley,a,592,OpenPlay,2014,LeftFoot,4401,Aston Villa,Everton,3,2,2015-05-02 15:00:00,NA,None
+20867,19,BlockedShot,0.871999969482422,0.412000007629395,0.0739360228180885,Ross Barkley,h,592,OpenPlay,2014,RightFoot,4409,Everton,Sunderland,0,2,2015-05-09 12:45:00,NA,None
+21645,14,BlockedShot,0.795,0.454000015258789,0.0345957987010479,Ross Barkley,a,592,SetPiece,2014,RightFoot,4423,West Ham,Everton,1,2,2015-05-16 15:00:00,Romelu Lukaku,Pass
+21655,47,MissedShots,0.815999984741211,0.517999992370605,0.0683471858501434,Ross Barkley,a,592,OpenPlay,2014,LeftFoot,4423,West Ham,Everton,1,2,2015-05-16 15:00:00,Romelu Lukaku,LayOff
+21662,68,MissedShots,0.87,0.394000015258789,0.0904273390769958,Ross Barkley,a,592,OpenPlay,2014,RightFoot,4423,West Ham,Everton,1,2,2015-05-16 15:00:00,Seamus Coleman,Pass
+51557,23,BlockedShot,0.761999969482422,0.475,0.0275899674743414,Ross Barkley,h,592,OpenPlay,2015,LeftFoot,83,Everton,Watford,2,2,2015-08-08 18:00:00,Tom Cleverley,Pass
+51558,29,MissedShots,0.730999984741211,0.435999984741211,0.0186350606381893,Ross Barkley,h,592,OpenPlay,2015,,83,Everton,Watford,2,2,2015-08-08 18:00:00,Gareth Barry,Pass
+51559,30,SavedShot,0.868000030517578,0.751999969482422,0.0267167575657368,Ross Barkley,h,592,OpenPlay,2015,RightFoot,83,Everton,Watford,2,2,2015-08-08 18:00:00,Tom Cleverley,Pass
+51568,75,Goal,0.758000030517578,0.585,0.0192704312503338,Ross Barkley,h,592,OpenPlay,2015,RightFoot,83,Everton,Watford,2,2,2015-08-08 18:00:00,Arouna Koné,Pass
+51824,6,BlockedShot,NaN,NaN,0.0642385259270668,Ross Barkley,a,592,DirectFreekick,2015,,92,Southampton,Everton,0,3,2015-08-15 15:45:00,NA,Standard
+51832,28,SavedShot,0.855,NaN,0.36041733622551,Ross Barkley,a,592,OpenPlay,2015,RightFoot,92,Southampton,Everton,0,3,2015-08-15 15:45:00,Romelu Lukaku,Pass
+51847,83,Goal,0.865999984741211,0.6,0.114120461046696,Ross Barkley,a,592,OpenPlay,2015,RightFoot,92,Southampton,Everton,0,3,2015-08-15 15:45:00,Seamus Coleman,Pass
+56587,18,SavedShot,NaN,NaN,0.0156674794852734,Ross Barkley,h,592,OpenPlay,2015,LeftFoot,108,Everton,Manchester City,0,2,2015-08-23 19:00:00,Arouna Koné,TakeOn
+56595,42,MissedShots,NaN,0.572000007629395,0.111073784530163,Ross Barkley,h,592,DirectFreekick,2015,RightFoot,108,Everton,Manchester City,0,2,2015-08-23 19:00:00,NA,Standard
+56601,65,BlockedShot,0.878000030517578,0.718000030517578,0.0361994616687298,Ross Barkley,h,592,OpenPlay,2015,RightFoot,108,Everton,Manchester City,0,2,2015-08-23 19:00:00,Steven Naismith,Pass
+57756,19,MissedShots,0.728000030517578,0.579000015258789,0.0173588842153549,Ross Barkley,a,592,OpenPlay,2015,LeftFoot,118,Tottenham,Everton,0,0,2015-08-29 20:30:00,Romelu Lukaku,Pass
+57761,39,SavedShot,0.798000030517578,NaN,0.0217465553432703,Ross Barkley,a,592,OpenPlay,2015,RightFoot,118,Tottenham,Everton,0,0,2015-08-29 20:30:00,Tom Cleverley,Pass
+57775,82,MissedShots,0.878000030517578,0.7,0.0410989001393318,Ross Barkley,a,592,OpenPlay,2015,LeftFoot,118,Tottenham,Everton,0,0,2015-08-29 20:30:00,Bryan Oviedo,Pass
+57845,7,MissedShots,0.803000030517578,0.69,0.0228099711239338,Ross Barkley,h,592,OpenPlay,2015,LeftFoot,121,Everton,Chelsea,3,1,2015-09-12 15:45:00,NA,None
+57873,85,SavedShot,0.740999984741211,0.629000015258789,0.0492454245686531,Ross Barkley,h,592,DirectFreekick,2015,RightFoot,121,Everton,Chelsea,3,1,2015-09-12 15:45:00,NA,Standard
+58284,57,BlockedShot,0.811999969482422,0.382000007629395,0.0431009531021118,Ross Barkley,a,592,OpenPlay,2015,RightFoot,136,Swansea,Everton,0,0,2015-09-19 18:00:00,Steven Naismith,Pass
+58291,71,BlockedShot,0.801999969482422,NaN,0.0230822488665581,Ross Barkley,a,592,FromCorner,2015,,136,Swansea,Everton,0,0,2015-09-19 18:00:00,Steven Naismith,Pass
+58569,28,MissedShots,0.878000030517578,0.565,0.341114282608032,Ross Barkley,a,592,OpenPlay,2015,LeftFoot,150,West Bromwich Albion,Everton,2,3,2015-09-28 23:00:00,Gerard Deulofeu,Throughball
+58583,63,BlockedShot,0.755,0.449000015258789,0.0668634474277496,Ross Barkley,a,592,DirectFreekick,2015,RightFoot,150,West Bromwich Albion,Everton,2,3,2015-09-28 23:00:00,NA,Standard
+58588,90,BlockedShot,0.8,0.605999984741211,0.0492570213973522,Ross Barkley,a,592,OpenPlay,2015,RightFoot,150,West Bromwich Albion,Everton,2,3,2015-09-28 23:00:00,Gareth Barry,Pass
+58754,30,BlockedShot,0.806999969482422,0.729000015258789,0.0332202017307281,Ross Barkley,h,592,FromCorner,2015,RightFoot,158,Everton,Liverpool,1,1,2015-10-04 16:30:00,James McCarthy,Pass
+58760,65,MissedShots,0.776999969482422,0.572000007629395,0.0296826045960188,Ross Barkley,h,592,OpenPlay,2015,RightFoot,158,Everton,Liverpool,1,1,2015-10-04 16:30:00,Gareth Barry,Pass
+58765,77,BlockedShot,0.665,0.477999992370605,0.0288145449012518,Ross Barkley,h,592,DirectFreekick,2015,RightFoot,158,Everton,Liverpool,1,1,2015-10-04 16:30:00,NA,Standard
+58947,11,BlockedShot,0.805,0.639000015258789,0.0446243174374104,Ross Barkley,h,592,OpenPlay,2015,LeftFoot,166,Everton,Manchester United,0,3,2015-10-17 18:00:00,Romelu Lukaku,TakeOn
+58956,44,SavedShot,0.931999969482422,0.735999984741211,0.0173346158117056,Ross Barkley,h,592,FromCorner,2015,RightFoot,166,Everton,Manchester United,0,3,2015-10-17 18:00:00,NA,Aerial
+58962,67,SavedShot,0.795,0.316000003814697,0.0141020631417632,Ross Barkley,h,592,FromCorner,2015,LeftFoot,166,Everton,Manchester United,0,3,2015-10-17 18:00:00,Aaron Lennon,TakeOn
+58966,80,MissedShots,NaN,0.744000015258789,0.0415822751820087,Ross Barkley,h,592,DirectFreekick,2015,RightFoot,166,Everton,Manchester United,0,3,2015-10-17 18:00:00,NA,Standard
+58967,92,MissedShots,0.848000030517578,NaN,0.0744128599762917,Ross Barkley,h,592,OpenPlay,2015,,166,Everton,Manchester United,0,3,2015-10-17 18:00:00,NA,TakeOn
+59198,43,Goal,0.798000030517578,0.675,0.024047089740634,Ross Barkley,a,592,OpenPlay,2015,LeftFoot,176,Arsenal,Everton,2,1,2015-10-24 20:30:00,Gerard Deulofeu,Pass
+59206,67,SavedShot,0.815,0.397999992370605,0.0394664853811264,Ross Barkley,a,592,OpenPlay,2015,RightFoot,176,Arsenal,Everton,2,1,2015-10-24 20:30:00,Gerard Deulofeu,Pass
+59458,9,MissedShots,0.774000015258789,0.404000015258789,0.0270326863974333,Ross Barkley,h,592,OpenPlay,2015,RightFoot,188,Everton,Sunderland,6,2,2015-11-01 17:30:00,Arouna Koné,LayOff
+59477,43,BlockedShot,0.786999969482422,0.605999984741211,0.0388672053813934,Ross Barkley,h,592,OpenPlay,2015,LeftFoot,188,Everton,Sunderland,6,2,2015-11-01 17:30:00,Seamus Coleman,Pass
+53009,14,SavedShot,0.780999984741211,0.790999984741211,0.0182926636189222,Ross Barkley,a,592,OpenPlay,2015,RightFoot,195,West Ham,Everton,1,1,2015-11-07 19:00:00,Brendan Galloway,Pass
+53014,25,SavedShot,0.731999969482422,NaN,0.0352777093648911,Ross Barkley,a,592,DirectFreekick,2015,RightFoot,195,West Ham,Everton,1,1,2015-11-07 19:00:00,NA,Standard
+53023,48,MissedShots,0.761999969482422,0.622999992370605,0.0622057169675827,Ross Barkley,a,592,DirectFreekick,2015,RightFoot,195,West Ham,Everton,1,1,2015-11-07 19:00:00,NA,Standard
+53781,16,Goal,0.955999984741211,0.565999984741211,0.555361270904541,Ross Barkley,h,592,OpenPlay,2015,RightFoot,206,Everton,Aston Villa,4,0,2015-11-21 19:00:00,NA,None
+53788,41,Goal,0.910999984741211,NaN,0.52364182472229,Ross Barkley,h,592,OpenPlay,2015,RightFoot,206,Everton,Aston Villa,4,0,2015-11-21 19:00:00,Arouna Koné,Rebound
+55856,23,BlockedShot,0.766999969482422,0.587000007629395,0.0240124315023422,Ross Barkley,a,592,OpenPlay,2015,RightFoot,213,Bournemouth,Everton,3,3,2015-11-28 19:00:00,Romelu Lukaku,Pass
+55879,94,Goal,0.924000015258789,0.34,0.0880639255046844,Ross Barkley,a,592,OpenPlay,2015,,213,Bournemouth,Everton,3,3,2015-11-28 19:00:00,Seamus Coleman,Pass
+53990,6,MissedShots,0.854000015258789,0.688000030517578,0.0457797199487686,Ross Barkley,h,592,OpenPlay,2015,RightFoot,230,Everton,Crystal Palace,1,1,2015-12-08 00:00:00,Romelu Lukaku,Pass
+54005,52,MissedShots,0.896999969482422,0.477999992370605,0.0768295079469681,Ross Barkley,h,592,OpenPlay,2015,Head,230,Everton,Crystal Palace,1,1,2015-12-08 00:00:00,Arouna Koné,Cross
+54007,60,BlockedShot,0.791999969482422,NaN,0.0289018414914608,Ross Barkley,h,592,OpenPlay,2015,LeftFoot,230,Everton,Crystal Palace,1,1,2015-12-08 00:00:00,Gareth Barry,Pass
+54010,65,BlockedShot,0.770999984741211,0.731999969482422,0.0127340536564589,Ross Barkley,h,592,FromCorner,2015,RightFoot,230,Everton,Crystal Palace,1,1,2015-12-08 00:00:00,NA,Aerial
+54017,89,MissedShots,0.810999984741211,0.499000015258789,0.0501250997185707,Ross Barkley,h,592,OpenPlay,2015,LeftFoot,230,Everton,Crystal Palace,1,1,2015-12-08 00:00:00,NA,None
+55883,24,MissedShots,0.905999984741211,0.595999984741211,0.0811924487352371,Ross Barkley,h,592,OpenPlay,2015,LeftFoot,245,Everton,Leicester,2,3,2015-12-19 19:00:00,Romelu Lukaku,Cross
+55887,31,BlockedShot,NaN,0.577000007629395,0.433402001857758,Ross Barkley,h,592,OpenPlay,2015,,245,Everton,Leicester,2,3,2015-12-19 19:00:00,NA,Rebound
+55886,31,SavedShot,0.914000015258789,0.585,0.39615997672081,Ross Barkley,h,592,OpenPlay,2015,RightFoot,245,Everton,Leicester,2,3,2015-12-19 19:00:00,Tom Cleverley,TakeOn
+55897,74,BlockedShot,0.774000015258789,0.38,0.030658857896924,Ross Barkley,h,592,OpenPlay,2015,RightFoot,245,Everton,Leicester,2,3,2015-12-19 19:00:00,Kevin Mirallas,TakeOn
+55902,91,SavedShot,0.801999969482422,0.432999992370605,0.0277612134814262,Ross Barkley,h,592,SetPiece,2015,LeftFoot,245,Everton,Leicester,2,3,2015-12-19 19:00:00,NA,Rebound
+54946,67,BlockedShot,0.744000015258789,0.555,0.0227329339832067,Ross Barkley,a,592,OpenPlay,2015,LeftFoot,259,Newcastle United,Everton,0,1,2015-12-26 21:30:00,Seamus Coleman,Pass
+54947,67,BlockedShot,0.875999984741211,NaN,0.0851971432566643,Ross Barkley,a,592,OpenPlay,2015,RightFoot,259,Newcastle United,Everton,0,1,2015-12-26 21:30:00,Romelu Lukaku,LayOff
+52801,9,BlockedShot,0.775,0.681999969482422,0.0180018488317728,Ross Barkley,h,592,OpenPlay,2015,RightFoot,265,Everton,Stoke,3,4,2015-12-28 19:00:00,Brendan Galloway,Pass
+52810,38,BlockedShot,0.878000030517578,0.655,0.0772944688796997,Ross Barkley,h,592,OpenPlay,2015,RightFoot,265,Everton,Stoke,3,4,2015-12-28 19:00:00,Romelu Lukaku,TakeOn
+52814,57,BlockedShot,0.848000030517578,0.362999992370605,0.0524710789322853,Ross Barkley,h,592,OpenPlay,2015,RightFoot,265,Everton,Stoke,3,4,2015-12-28 19:00:00,Gerard Deulofeu,Pass
+55356,47,MissedShots,0.790999984741211,0.34,0.0326332785189152,Ross Barkley,h,592,OpenPlay,2015,RightFoot,280,Everton,Tottenham,1,1,2016-01-03 20:00:00,Romelu Lukaku,LayOff
+55370,93,SavedShot,0.921999969482422,0.699000015258789,0.0545662492513657,Ross Barkley,h,592,OpenPlay,2015,LeftFoot,280,Everton,Tottenham,1,1,2016-01-03 20:00:00,NA,TakeOn
+54409,6,SavedShot,0.769000015258789,0.569000015258789,0.0244854278862476,Ross Barkley,a,592,FromCorner,2015,LeftFoot,288,Manchester City,Everton,0,0,2016-01-13 23:45:00,NA,TakeOn
+55924,4,BlockedShot,0.743000030517578,0.487999992370605,0.0180819500237703,Ross Barkley,a,592,OpenPlay,2015,,295,Chelsea,Everton,3,3,2016-01-16 19:00:00,Muhamed Besic,Pass
+55926,17,BlockedShot,0.89,0.661999969482422,0.0765395835042,Ross Barkley,a,592,OpenPlay,2015,RightFoot,295,Chelsea,Everton,3,3,2016-01-16 19:00:00,Aaron Lennon,TakeOn
+55931,52,ShotOnPost,0.92,0.685999984741211,0.333665817975998,Ross Barkley,a,592,OpenPlay,2015,LeftFoot,295,Chelsea,Everton,3,3,2016-01-16 19:00:00,Kevin Mirallas,Throughball
+54134,36,BlockedShot,0.861999969482422,0.301000003814697,0.0398113466799259,Ross Barkley,h,592,OpenPlay,2015,RightFoot,309,Everton,Swansea,1,2,2016-01-24 17:30:00,Gerard Deulofeu,TakeOn
+54138,59,BlockedShot,0.800999984741211,0.505,0.0505041629076004,Ross Barkley,h,592,OpenPlay,2015,LeftFoot,309,Everton,Swansea,1,2,2016-01-24 17:30:00,Steven Pienaar,Pass
+55469,35,MissedShots,0.718000030517578,0.524000015258789,0.0182783715426922,Ross Barkley,h,592,OpenPlay,2015,RightFoot,319,Everton,Newcastle United,3,0,2016-02-03 23:45:00,NA,None
+55470,38,MissedShots,0.715,0.407000007629395,0.0409508571028709,Ross Barkley,h,592,DirectFreekick,2015,RightFoot,319,Everton,Newcastle United,3,0,2016-02-03 23:45:00,NA,Standard
+55476,55,SavedShot,0.745,0.422999992370605,0.025024963542819,Ross Barkley,h,592,OpenPlay,2015,RightFoot,319,Everton,Newcastle United,3,0,2016-02-03 23:45:00,Bryan Oviedo,Pass
+55483,78,BlockedShot,0.82,NaN,0.0527075454592705,Ross Barkley,h,592,OpenPlay,2015,LeftFoot,319,Everton,Newcastle United,3,0,2016-02-03 23:45:00,Arouna Koné,TakeOn
+55485,87,Goal,0.885,0.5,0.761168837547302,Ross Barkley,h,592,Penalty,2015,RightFoot,319,Everton,Newcastle United,3,0,2016-02-03 23:45:00,NA,Standard
+55486,89,BlockedShot,0.768000030517578,0.492999992370605,0.0392693392932415,Ross Barkley,h,592,OpenPlay,2015,RightFoot,319,Everton,Newcastle United,3,0,2016-02-03 23:45:00,Bryan Oviedo,Pass
+55488,93,Goal,0.885,0.5,0.761168837547302,Ross Barkley,h,592,Penalty,2015,RightFoot,319,Everton,Newcastle United,3,0,2016-02-03 23:45:00,NA,Standard
+53426,48,MissedShots,NaN,0.684000015258789,0.23693111538887,Ross Barkley,a,592,OpenPlay,2015,LeftFoot,323,Stoke,Everton,0,3,2016-02-06 19:00:00,Romelu Lukaku,Pass
+53430,62,BlockedShot,0.859000015258789,0.709000015258789,0.0341484025120735,Ross Barkley,a,592,OpenPlay,2015,,323,Stoke,Everton,0,3,2016-02-06 19:00:00,Gareth Barry,Cross
+53432,64,BlockedShot,0.835999984741211,NaN,0.0580744966864586,Ross Barkley,a,592,OpenPlay,2015,RightFoot,323,Stoke,Everton,0,3,2016-02-06 19:00:00,Romelu Lukaku,Pass
+53435,67,BlockedShot,0.875999984741211,0.379000015258789,0.129771456122398,Ross Barkley,a,592,OpenPlay,2015,RightFoot,323,Stoke,Everton,0,3,2016-02-06 19:00:00,Romelu Lukaku,TakeOn
+55434,31,BlockedShot,0.795999984741211,0.302000007629395,0.0257314722985029,Ross Barkley,h,592,OpenPlay,2015,RightFoot,334,Everton,West Bromwich Albion,0,1,2016-02-13 19:00:00,Seamus Coleman,LayOff
+55437,33,BlockedShot,0.805999984741211,0.602000007629395,0.0259958188980818,Ross Barkley,h,592,FromCorner,2015,,334,Everton,West Bromwich Albion,0,1,2016-02-13 19:00:00,Ramiro Funes Mori,Pass
+55441,36,ShotOnPost,0.805999984741211,0.625999984741211,0.032082412391901,Ross Barkley,h,592,OpenPlay,2015,RightFoot,334,Everton,West Bromwich Albion,0,1,2016-02-13 19:00:00,NA,BallTouch
+55442,37,BlockedShot,0.803000030517578,0.630999984741211,0.0381281934678555,Ross Barkley,h,592,OpenPlay,2015,RightFoot,334,Everton,West Bromwich Albion,0,1,2016-02-13 19:00:00,Gareth Barry,Pass
+55449,54,BlockedShot,0.823000030517578,0.455999984741211,0.0533201657235622,Ross Barkley,h,592,OpenPlay,2015,LeftFoot,334,Everton,West Bromwich Albion,0,1,2016-02-13 19:00:00,James McCarthy,TakeOn
+55457,76,MissedShots,0.785,0.637000007629395,0.0192015692591667,Ross Barkley,h,592,FromCorner,2015,LeftFoot,334,Everton,West Bromwich Albion,0,1,2016-02-13 19:00:00,NA,None
+55460,86,MissedShots,0.808000030517578,0.472000007629395,0.0514703057706356,Ross Barkley,h,592,OpenPlay,2015,RightFoot,334,Everton,West Bromwich Albion,0,1,2016-02-13 19:00:00,Romelu Lukaku,Pass
+55462,91,MissedShots,NaN,0.585,0.0371327362954617,Ross Barkley,h,592,FromCorner,2015,Head,334,Everton,West Bromwich Albion,0,1,2016-02-13 19:00:00,Bryan Oviedo,Cross
+55463,93,MissedShots,0.910999984741211,0.52,0.0995922833681107,Ross Barkley,h,592,OpenPlay,2015,Head,334,Everton,West Bromwich Albion,0,1,2016-02-13 19:00:00,Gareth Barry,Cross
+59831,24,SavedShot,0.855,0.303999996185303,0.0267806965857744,Ross Barkley,h,592,FromCorner,2015,,363,Everton,West Ham,2,3,2016-03-05 19:00:00,NA,None
+59855,80,SavedShot,0.743000030517578,0.365999984741211,0.0496034473180771,Ross Barkley,h,592,DirectFreekick,2015,,363,Everton,West Ham,2,3,2016-03-05 19:00:00,NA,Standard
+60172,22,BlockedShot,0.883000030517578,0.711999969482422,0.0372172892093658,Ross Barkley,h,592,OpenPlay,2015,RightFoot,374,Everton,Arsenal,0,2,2016-03-19 16:45:00,NA,None
+61192,36,SavedShot,0.858000030517578,0.695,0.0446218922734261,Ross Barkley,a,592,OpenPlay,2015,RightFoot,395,Watford,Everton,1,1,2016-04-09 18:00:00,NA,Dispossessed
+57269,6,BlockedShot,0.864000015258789,NaN,0.19349767267704,Ross Barkley,a,592,OpenPlay,2015,LeftFoot,404,Crystal Palace,Everton,0,0,2016-04-13 23:00:00,Romelu Lukaku,TakeOn
+57282,48,ShotOnPost,0.754000015258789,0.452999992370605,0.020589767023921,Ross Barkley,a,592,OpenPlay,2015,RightFoot,404,Crystal Palace,Everton,0,0,2016-04-13 23:00:00,NA,None
+59562,30,BlockedShot,0.745,0.547999992370605,0.0200456753373146,Ross Barkley,a,592,OpenPlay,2015,RightFoot,418,Liverpool,Everton,4,0,2016-04-20 23:00:00,James McCarthy,BallRecovery
+57067,17,BlockedShot,0.93,0.706999969482422,0.0536861531436443,Ross Barkley,h,592,OpenPlay,2015,LeftFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Leighton Baines,Pass
+57074,36,SavedShot,0.85,NaN,0.351734131574631,Ross Barkley,h,592,OpenPlay,2015,RightFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Oumar Niasse,Throughball
+57073,36,MissedShots,0.848000030517578,0.435999984741211,0.086191713809967,Ross Barkley,h,592,OpenPlay,2015,RightFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Oumar Niasse,Pass
+57078,53,BlockedShot,0.795,NaN,0.0186392534524202,Ross Barkley,h,592,OpenPlay,2015,RightFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Leighton Baines,Pass
+59742,27,MissedShots,0.810999984741211,NaN,0.0189895927906036,Ross Barkley,a,592,OpenPlay,2015,RightFoot,449,Sunderland,Everton,3,0,2016-05-11 22:45:00,Gareth Barry,Chipped
+52046,74,SavedShot,NaN,0.704000015258789,0.0726474598050117,Ross Barkley,h,592,OpenPlay,2015,LeftFoot,453,Everton,Norwich,3,0,2016-05-15 18:00:00,Tim Howard,TakeOn
+112210,4,Goal,0.698000030517578,0.810999984741211,0.0242916420102119,Ross Barkley,h,592,DirectFreekick,2016,RightFoot,463,Everton,Tottenham,1,1,2016-08-13 18:00:00,NA,Standard
+112215,16,MissedShots,0.923000030517578,NaN,0.137585684657097,Ross Barkley,h,592,OpenPlay,2016,Head,463,Everton,Tottenham,1,1,2016-08-13 18:00:00,Leighton Baines,Cross
+112220,45,BlockedShot,0.914000015258789,NaN,0.0128217488527298,Ross Barkley,h,592,FromCorner,2016,Head,463,Everton,Tottenham,1,1,2016-08-13 18:00:00,Kevin Mirallas,Aerial
+112227,75,MissedShots,0.808000030517578,NaN,0.0222731530666351,Ross Barkley,h,592,OpenPlay,2016,RightFoot,463,Everton,Tottenham,1,1,2016-08-13 18:00:00,Arouna Koné,LayOff
+112832,50,SavedShot,0.966999969482422,0.612000007629395,0.311000466346741,Ross Barkley,a,592,FromCorner,2016,,477,West Bromwich Albion,Everton,1,2,2016-08-20 18:00:00,Ramiro Funes Mori,HeadPass
+112838,71,MissedShots,NaN,0.47,0.427849739789963,Ross Barkley,a,592,OpenPlay,2016,,477,West Bromwich Albion,Everton,1,2,2016-08-20 18:00:00,Yannick Bolasie,Cross
+112943,38,BlockedShot,0.806999969482422,0.524000015258789,0.018737556412816,Ross Barkley,h,592,FromCorner,2016,RightFoot,487,Everton,Stoke,1,0,2016-08-27 18:00:00,NA,Aerial
+112947,47,MissedShots,0.915,0.68,0.0568470284342766,Ross Barkley,h,592,OpenPlay,2016,LeftFoot,487,Everton,Stoke,1,0,2016-08-27 18:00:00,NA,None
+112953,63,SavedShot,0.819000015258789,0.487999992370605,0.0804124772548676,Ross Barkley,h,592,OpenPlay,2016,RightFoot,487,Everton,Stoke,1,0,2016-08-27 18:00:00,Yannick Bolasie,Pass
+112957,76,SavedShot,0.861999969482422,0.645,0.170520856976509,Ross Barkley,h,592,OpenPlay,2016,LeftFoot,487,Everton,Stoke,1,0,2016-08-27 18:00:00,Idrissa Gueye,TakeOn
+113491,18,SavedShot,0.758000030517578,0.517999992370605,0.0230694245547056,Ross Barkley,h,592,OpenPlay,2016,LeftFoot,506,Everton,Middlesbrough,3,1,2016-09-17 20:30:00,Romelu Lukaku,Pass
+113496,27,MissedShots,0.86,NaN,0.0410381518304348,Ross Barkley,h,592,OpenPlay,2016,LeftFoot,506,Everton,Middlesbrough,3,1,2016-09-17 20:30:00,Idrissa Gueye,Pass
+113498,35,BlockedShot,0.885999984741211,0.658000030517578,0.104090802371502,Ross Barkley,h,592,OpenPlay,2016,LeftFoot,506,Everton,Middlesbrough,3,1,2016-09-17 20:30:00,Leighton Baines,TakeOn
+113504,56,SavedShot,0.92,0.281000003814697,0.0393028929829597,Ross Barkley,h,592,FromCorner,2016,RightFoot,506,Everton,Middlesbrough,3,1,2016-09-17 20:30:00,NA,TakeOn
+113733,9,MissedShots,0.805,0.645,0.0209424514323473,Ross Barkley,a,592,SetPiece,2016,RightFoot,517,Bournemouth,Everton,1,0,2016-09-24 18:00:00,NA,Rebound
+113734,10,MissedShots,0.791999969482422,0.297000007629395,0.0195181556046009,Ross Barkley,a,592,OpenPlay,2016,LeftFoot,517,Bournemouth,Everton,1,0,2016-09-24 18:00:00,Romelu Lukaku,Pass
+113747,53,MissedShots,0.916999969482422,0.497000007629395,0.301043897867203,Ross Barkley,a,592,OpenPlay,2016,Head,517,Bournemouth,Everton,1,0,2016-09-24 18:00:00,Seamus Coleman,Cross
+113749,63,BlockedShot,0.909000015258789,NaN,0.0438946932554245,Ross Barkley,a,592,OpenPlay,2016,RightFoot,517,Bournemouth,Everton,1,0,2016-09-24 18:00:00,Tom Cleverley,Pass
+114202,11,MissedShots,0.749000015258789,0.365,0.0173870231956244,Ross Barkley,h,592,OpenPlay,2016,RightFoot,521,Everton,Crystal Palace,1,1,2016-09-30 23:00:00,Romelu Lukaku,Pass
+114233,15,SavedShot,0.833000030517578,NaN,0.0475225113332272,Ross Barkley,a,592,OpenPlay,2016,RightFoot,546,Burnley,Everton,2,1,2016-10-22 18:00:00,Bryan Oviedo,Pass
+114239,46,SavedShot,0.799000015258789,NaN,0.0194439049810171,Ross Barkley,a,592,FromCorner,2016,LeftFoot,546,Burnley,Everton,2,1,2016-10-22 18:00:00,Kevin Mirallas,Pass
+114241,54,BlockedShot,0.730999984741211,NaN,0.0181785169988871,Ross Barkley,a,592,OpenPlay,2016,LeftFoot,546,Burnley,Everton,2,1,2016-10-22 18:00:00,Gareth Barry,Pass
+114251,87,BlockedShot,0.851999969482422,0.545999984741211,0.070351630449295,Ross Barkley,a,592,OpenPlay,2016,LeftFoot,546,Burnley,Everton,2,1,2016-10-22 18:00:00,NA,None
+114718,25,SavedShot,0.888000030517578,0.525999984741211,0.132094457745552,Ross Barkley,h,592,OpenPlay,2016,RightFoot,2684,Everton,West Ham,2,0,2016-10-30 17:30:00,Bryan Oviedo,TakeOn
+114722,34,BlockedShot,0.785999984741211,0.532000007629394,0.0286603253334761,Ross Barkley,h,592,FromCorner,2016,RightFoot,2684,Everton,West Ham,2,0,2016-10-30 17:30:00,Gareth Barry,Pass
+114728,55,MissedShots,0.810999984741211,0.505,0.0761292651295662,Ross Barkley,h,592,OpenPlay,2016,RightFoot,2684,Everton,West Ham,2,0,2016-10-30 17:30:00,Kevin Mirallas,Pass
+114735,75,Goal,0.925999984741211,0.590999984741211,0.321626394987106,Ross Barkley,h,592,OpenPlay,2016,LeftFoot,2684,Everton,West Ham,2,0,2016-10-30 17:30:00,Romelu Lukaku,Cross
+114736,79,BlockedShot,0.911999969482422,0.693000030517578,0.0836419090628624,Ross Barkley,h,592,OpenPlay,2016,LeftFoot,2684,Everton,West Ham,2,0,2016-10-30 17:30:00,Idrissa Gueye,Pass
+115461,29,MissedShots,0.9,0.522000007629395,0.198879987001419,Ross Barkley,h,592,OpenPlay,2016,,2702,Everton,Swansea,1,1,2016-11-19 19:00:00,Yannick Bolasie,TakeOn
+115462,39,SavedShot,0.760999984741211,0.557999992370605,0.0711466744542122,Ross Barkley,h,592,DirectFreekick,2016,RightFoot,2702,Everton,Swansea,1,1,2016-11-19 19:00:00,NA,Standard
+115340,42,MissedShots,0.92,0.500999984741211,0.0493424907326698,Ross Barkley,a,592,OpenPlay,2016,,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Yannick Bolasie,Aerial
+117450,78,BlockedShot,0.865999984741211,0.622999992370605,0.0707886070013046,Ross Barkley,a,592,OpenPlay,2016,LeftFoot,3115,Watford,Everton,3,2,2016-12-10 16:30:00,Gerard Deulofeu,Pass
+117457,90,SavedShot,0.750999984741211,NaN,0.054801844060421,Ross Barkley,a,592,DirectFreekick,2016,RightFoot,3115,Watford,Everton,3,2,2016-12-10 16:30:00,NA,Standard
+118086,55,BlockedShot,0.764000015258789,0.512999992370605,0.0771633014082909,Ross Barkley,h,592,DirectFreekick,2016,RightFoot,3126,Everton,Arsenal,2,1,2016-12-13 23:45:00,NA,Standard
+118087,59,MissedShots,0.809000015258789,NaN,0.0311646703630686,Ross Barkley,h,592,OpenPlay,2016,,3126,Everton,Arsenal,2,1,2016-12-13 23:45:00,Romelu Lukaku,LayOff
+118094,90,SavedShot,0.914000015258789,0.28,0.0280235558748245,Ross Barkley,h,592,OpenPlay,2016,RightFoot,3126,Everton,Arsenal,2,1,2016-12-13 23:45:00,Idrissa Gueye,TakeOn
+118510,22,MissedShots,NaN,NaN,0.0236981082707644,Ross Barkley,h,592,OpenPlay,2016,RightFoot,3144,Everton,Liverpool,0,1,2016-12-20 00:00:00,Ramiro Funes Mori,Pass
+117299,22,MissedShots,0.843000030517578,0.357000007629395,0.0562211126089096,Ross Barkley,a,592,OpenPlay,2016,RightFoot,3155,Hull,Everton,2,2,2016-12-31 00:00:00,Gareth Barry,Pass
+117314,52,SavedShot,0.84,0.316000003814697,0.0484727546572685,Ross Barkley,a,592,OpenPlay,2016,RightFoot,3155,Hull,Everton,2,2,2016-12-31 00:00:00,Romelu Lukaku,HeadPass
+117321,74,SavedShot,0.849000015258789,NaN,0.0238571316003799,Ross Barkley,a,592,OpenPlay,2016,RightFoot,3155,Hull,Everton,2,2,2016-12-31 00:00:00,NA,Rebound
+117322,81,BlockedShot,0.780999984741211,0.355,0.025571858510375,Ross Barkley,a,592,OpenPlay,2016,RightFoot,3155,Hull,Everton,2,2,2016-12-31 00:00:00,Tom Davies,Pass
+117323,83,Goal,0.933000030517578,NaN,0.115702234208584,Ross Barkley,a,592,OpenPlay,2016,Head,3155,Hull,Everton,2,2,2016-12-31 00:00:00,Leighton Baines,Cross
+116359,4,SavedShot,0.815999984741211,NaN,0.0531916841864586,Ross Barkley,h,592,OpenPlay,2016,RightFoot,3331,Everton,Southampton,3,0,2017-01-02 15:00:00,NA,Dispossessed
+116377,68,MissedShots,0.756999969482422,0.417999992370605,0.0229410566389561,Ross Barkley,h,592,OpenPlay,2016,LeftFoot,3331,Everton,Southampton,3,0,2017-01-02 15:00:00,Leighton Baines,Pass
+118341,14,BlockedShot,0.873000030517578,0.643000030517578,0.0808313116431236,Ross Barkley,a,592,OpenPlay,2016,LeftFoot,3353,Crystal Palace,Everton,0,1,2017-01-21 18:00:00,NA,TakeOn
+118343,18,SavedShot,0.805999984741211,0.664000015258789,0.0282418243587017,Ross Barkley,a,592,OpenPlay,2016,RightFoot,3353,Crystal Palace,Everton,0,1,2017-01-21 18:00:00,Romelu Lukaku,Pass
+118352,47,MissedShots,0.956999969482422,0.699000015258789,0.0444366186857224,Ross Barkley,a,592,OpenPlay,2016,,3353,Crystal Palace,Everton,0,1,2017-01-21 18:00:00,Tom Davies,Chipped
+118355,55,MissedShots,0.879000015258789,0.322000007629395,0.0672498047351837,Ross Barkley,a,592,OpenPlay,2016,RightFoot,3353,Crystal Palace,Everton,0,1,2017-01-21 18:00:00,Gareth Barry,TakeOn
+118357,64,SavedShot,0.775,0.729000015258789,0.0110504142940044,Ross Barkley,a,592,OpenPlay,2016,RightFoot,3353,Crystal Palace,Everton,0,1,2017-01-21 18:00:00,Leighton Baines,TakeOn
+116260,7,MissedShots,0.809000015258789,0.350999984741211,0.0360647812485695,Ross Barkley,a,592,OpenPlay,2016,RightFoot,3369,Stoke,Everton,1,1,2017-02-01 23:00:00,Romelu Lukaku,Pass
+116261,11,BlockedShot,0.885,0.544000015258789,0.0460241995751858,Ross Barkley,a,592,OpenPlay,2016,,3369,Stoke,Everton,1,1,2017-02-01 23:00:00,Kevin Mirallas,Cross
+116273,49,SavedShot,0.745999984741211,NaN,0.0231646653264761,Ross Barkley,a,592,OpenPlay,2016,RightFoot,3369,Stoke,Everton,1,1,2017-02-01 23:00:00,Morgan Schneiderlin,Pass
+116531,51,BlockedShot,0.789000015258789,0.542999992370605,0.0475750230252743,Ross Barkley,h,592,OpenPlay,2016,LeftFoot,3372,Everton,Bournemouth,6,3,2017-02-04 15:00:00,James McCarthy,Pass
+116550,93,Goal,0.905,0.382000007629395,0.547194123268127,Ross Barkley,h,592,OpenPlay,2016,RightFoot,3372,Everton,Bournemouth,6,3,2017-02-04 15:00:00,Ramiro Funes Mori,TakeOn
+117853,62,MissedShots,0.785,0.649000015258789,0.0232174284756184,Ross Barkley,a,592,OpenPlay,2016,RightFoot,3382,Middlesbrough,Everton,0,0,2017-02-11 15:00:00,Leighton Baines,Pass
+118401,43,SavedShot,0.76,0.261000003814697,0.0224221739917994,Ross Barkley,h,592,OpenPlay,2016,RightFoot,3393,Everton,Sunderland,2,0,2017-02-25 15:00:00,Morgan Schneiderlin,Pass
+118411,72,MissedShots,0.898000030517578,0.537000007629394,0.326239198446274,Ross Barkley,h,592,OpenPlay,2016,RightFoot,3393,Everton,Sunderland,2,0,2017-02-25 15:00:00,Seamus Coleman,Cross
+119984,70,SavedShot,0.78,0.369000015258789,0.0318080261349678,Ross Barkley,a,592,OpenPlay,2016,RightFoot,3406,Tottenham,Everton,3,2,2017-03-05 13:30:00,Kevin Mirallas,LayOff
+119276,8,MissedShots,0.759000015258789,0.62,0.023738706484437,Ross Barkley,h,592,OpenPlay,2016,LeftFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Romelu Lukaku,LayOff
+119281,30,SavedShot,0.775,0.432999992370605,0.0296242572367191,Ross Barkley,h,592,FromCorner,2016,LeftFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Gareth Barry,Pass
+119282,36,MissedShots,0.726999969482422,0.632999992370605,0.0162211731076241,Ross Barkley,h,592,OpenPlay,2016,RightFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Morgan Schneiderlin,Pass
+119284,38,SavedShot,0.84,0.385999984741211,0.0530849434435368,Ross Barkley,h,592,OpenPlay,2016,RightFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,NA,None
+119289,60,MissedShots,0.970999984741211,0.67,0.0687139257788658,Ross Barkley,h,592,OpenPlay,2016,LeftFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Kevin Mirallas,Cross
+119292,86,BlockedShot,0.760999984741211,NaN,0.0330734178423882,Ross Barkley,h,592,OpenPlay,2016,LeftFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Romelu Lukaku,Pass
+119923,18,BlockedShot,0.838000030517578,0.53,0.105329468846321,Ross Barkley,h,592,OpenPlay,2016,,3427,Everton,Hull,4,0,2017-03-18 15:00:00,Leighton Baines,TakeOn
+119457,55,SavedShot,0.793000030517578,0.595999984741211,0.0394179224967957,Ross Barkley,a,592,OpenPlay,2016,LeftFoot,3435,Liverpool,Everton,3,1,2017-04-01 12:30:00,Romelu Lukaku,Pass
+119462,72,BlockedShot,NaN,0.405999984741211,0.0446935445070267,Ross Barkley,a,592,SetPiece,2016,LeftFoot,3435,Liverpool,Everton,3,1,2017-04-01 12:30:00,NA,TakeOn
+119906,36,BlockedShot,0.770999984741211,0.422999992370605,0.0273204166442156,Ross Barkley,h,592,OpenPlay,2016,LeftFoot,3458,Everton,Leicester,4,2,2017-04-09 16:00:00,Idrissa Gueye,Pass
+119909,39,SavedShot,0.879000015258789,0.592999992370606,0.611310720443726,Ross Barkley,h,592,OpenPlay,2016,LeftFoot,3458,Everton,Leicester,4,2,2017-04-09 16:00:00,Tom Davies,TakeOn
+119916,85,SavedShot,0.765,0.404000015258789,0.0383677519857883,Ross Barkley,h,592,OpenPlay,2016,LeftFoot,3458,Everton,Leicester,4,2,2017-04-09 16:00:00,Kevin Mirallas,Pass
+121154,29,BlockedShot,0.696999969482422,NaN,0.0115037448704243,Ross Barkley,h,592,OpenPlay,2016,RightFoot,3467,Everton,Burnley,3,1,2017-04-15 15:00:00,Kevin Mirallas,Pass
+121160,38,BlockedShot,0.749000015258789,NaN,0.027103565633297,Ross Barkley,h,592,FromCorner,2016,,3467,Everton,Burnley,3,1,2017-04-15 15:00:00,Leighton Baines,Pass
+121164,43,MissedShots,0.82,0.382000007629395,0.0302779115736485,Ross Barkley,h,592,FromCorner,2016,RightFoot,3467,Everton,Burnley,3,1,2017-04-15 15:00:00,NA,None
+121163,43,MissedShots,0.799000015258789,NaN,0.0160994362086058,Ross Barkley,h,592,FromCorner,2016,LeftFoot,3467,Everton,Burnley,3,1,2017-04-15 15:00:00,NA,Aerial
+121177,67,BlockedShot,0.825,0.522000007629395,0.0808695033192635,Ross Barkley,h,592,OpenPlay,2016,RightFoot,3467,Everton,Burnley,3,1,2017-04-15 15:00:00,Kevin Mirallas,TakeOn
+121179,70,BlockedShot,0.848000030517578,0.696999969482422,0.0351211987435818,Ross Barkley,h,592,OpenPlay,2016,LeftFoot,3467,Everton,Burnley,3,1,2017-04-15 15:00:00,Kevin Mirallas,Pass
+121184,82,MissedShots,0.758000030517578,0.723000030517578,0.0223079584538937,Ross Barkley,h,592,OpenPlay,2016,RightFoot,3467,Everton,Burnley,3,1,2017-04-15 15:00:00,NA,TakeOn
+120927,1,MissedShots,0.91,0.55,0.0534243956208229,Ross Barkley,h,592,OpenPlay,2016,Head,3481,Everton,Chelsea,0,3,2017-04-30 14:05:00,Romelu Lukaku,Aerial
+120938,40,BlockedShot,0.758000030517578,0.630999984741211,0.0582759045064449,Ross Barkley,h,592,DirectFreekick,2016,RightFoot,3481,Everton,Chelsea,0,3,2017-04-30 14:05:00,NA,Standard
+121766,5,BlockedShot,0.863000030517578,0.313999996185303,0.0606981553137302,Ross Barkley,h,592,OpenPlay,2016,,3502,Everton,Watford,1,0,2017-05-12 19:45:00,Mason Holgate,TakeOn
+121765,5,SavedShot,0.898000030517578,0.394000015258789,0.106498971581459,Ross Barkley,h,592,OpenPlay,2016,LeftFoot,3502,Everton,Watford,1,0,2017-05-12 19:45:00,Idrissa Gueye,Pass
+121778,42,MissedShots,0.755999984741211,0.705999984741211,0.017054159194231,Ross Barkley,h,592,FromCorner,2016,RightFoot,3502,Everton,Watford,1,0,2017-05-12 19:45:00,Leighton Baines,Pass
+121782,55,Goal,0.758000030517578,0.487000007629395,0.0256481394171715,Ross Barkley,h,592,OpenPlay,2016,RightFoot,3502,Everton,Watford,1,0,2017-05-12 19:45:00,Phil Jagielka,Pass
+112351,29,BlockedShot,0.855999984741211,0.545999984741211,0.0895362943410873,Ross Barkley,a,592,OpenPlay,2016,RightFoot,3510,Arsenal,Everton,3,1,2017-05-21 15:00:00,Romelu Lukaku,Pass
+112353,37,MissedShots,0.915,0.640999984741211,0.0546083599328995,Ross Barkley,a,592,OpenPlay,2016,LeftFoot,3510,Arsenal,Everton,3,1,2017-05-21 15:00:00,NA,None
+112366,59,BlockedShot,0.869000015258789,0.480999984741211,0.0911963135004044,Ross Barkley,a,592,OpenPlay,2016,LeftFoot,3510,Arsenal,Everton,3,1,2017-05-21 15:00:00,Mason Holgate,Pass
+112370,77,BlockedShot,0.936999969482422,0.700999984741211,0.0569980964064598,Ross Barkley,a,592,OpenPlay,2016,LeftFoot,3510,Arsenal,Everton,3,1,2017-05-21 15:00:00,Leighton Baines,Pass
+112379,88,MissedShots,0.735999984741211,0.562999992370605,0.0204982701689005,Ross Barkley,a,592,OpenPlay,2016,LeftFoot,3510,Arsenal,Everton,3,1,2017-05-21 15:00:00,Morgan Schneiderlin,Pass
+112382,93,MissedShots,0.779000015258789,0.552000007629394,0.0302807353436947,Ross Barkley,a,592,OpenPlay,2016,LeftFoot,3510,Arsenal,Everton,3,1,2017-05-21 15:00:00,Romelu Lukaku,Pass
+194126,32,BlockedShot,0.835999984741211,0.519000015258789,0.0874688923358917,Ross Barkley,h,592,OpenPlay,2017,LeftFoot,7362,Chelsea,Bournemouth,0,3,2018-01-31 19:45:00,Eden Hazard,Pass
+215784,61,SavedShot,0.936999969482422,0.53,0.598911046981812,Ross Barkley,a,592,OpenPlay,2017,,7497,Newcastle United,Chelsea,3,0,2018-05-13 15:00:00,NA,None
+232773,37,BlockedShot,0.849000015258789,0.295,0.0464635826647282,Ross Barkley,a,592,OpenPlay,2018,RightFoot,9200,Huddersfield,Chelsea,0,3,2018-08-11 17:00:00,Pedro,Pass
+232999,12,MissedShots,0.776999969482422,NaN,0.0218757130205631,Ross Barkley,h,592,OpenPlay,2018,,9212,Chelsea,Arsenal,3,2,2018-08-18 19:30:00,N&#039;Golo Kanté,Pass
+233018,56,SavedShot,0.87,0.325999984741211,0.0503532290458679,Ross Barkley,h,592,OpenPlay,2018,,9212,Chelsea,Arsenal,3,2,2018-08-18 19:30:00,NA,None
+234241,90,SavedShot,0.758000030517578,0.7,0.0140518564730883,Ross Barkley,a,592,OpenPlay,2018,,9255,West Ham,Chelsea,0,0,2018-09-23 12:30:00,Eden Hazard,Pass
+249172,16,MissedShots,0.759000015258789,0.517999992370605,0.0209817308932543,Ross Barkley,a,592,OpenPlay,2018,RightFoot,9275,Southampton,Chelsea,0,3,2018-10-07 13:15:00,N&#039;Golo Kanté,Pass
+249180,31,BlockedShot,0.895999984741211,0.377000007629395,0.0940033718943596,Ross Barkley,a,592,OpenPlay,2018,RightFoot,9275,Southampton,Chelsea,0,3,2018-10-07 13:15:00,NA,None
+249190,56,Goal,0.963000030517578,0.515,0.739353656768799,Ross Barkley,a,592,SetPiece,2018,RightFoot,9275,Southampton,Chelsea,0,3,2018-10-07 13:15:00,Olivier Giroud,Rebound
+249236,76,BlockedShot,0.719000015258789,0.454000015258789,0.0153206214308739,Ross Barkley,h,592,OpenPlay,2018,,9277,Chelsea,Manchester United,2,2,2018-10-20 11:30:00,Álvaro Morata,LayOff
+249244,95,Goal,0.951999969482422,0.487000007629395,0.627267181873322,Ross Barkley,h,592,OpenPlay,2018,,9277,Chelsea,Manchester United,2,2,2018-10-20 11:30:00,NA,Rebound
+249663,11,MissedShots,0.76,NaN,0.0162834525108337,Ross Barkley,a,592,OpenPlay,2018,LeftFoot,9295,Burnley,Chelsea,0,4,2018-10-28 12:30:00,Willian,Pass
+249674,50,BlockedShot,0.815,0.49,0.0756673142313957,Ross Barkley,a,592,OpenPlay,2018,RightFoot,9295,Burnley,Chelsea,0,4,2018-10-28 12:30:00,Jorginho,Pass
+249677,56,Goal,NaN,0.569000015258789,0.0223482828587294,Ross Barkley,a,592,OpenPlay,2018,,9295,Burnley,Chelsea,0,4,2018-10-28 12:30:00,N&#039;Golo Kanté,Pass
+249962,35,MissedShots,0.784000015258789,0.639000015258789,0.027946287766099,Ross Barkley,h,592,OpenPlay,2018,LeftFoot,9305,Chelsea,Crystal Palace,3,1,2018-11-04 16:00:00,Álvaro Morata,Pass
+250205,82,MissedShots,0.735999984741211,0.680999984741211,0.0134416995570064,Ross Barkley,h,592,OpenPlay,2018,,9314,Chelsea,Everton,0,0,2018-11-11 14:15:00,Marcos Alonso,Pass
+250206,95,BlockedShot,0.899000015258789,0.55,0.026163425296545,Ross Barkley,h,592,SetPiece,2018,,9314,Chelsea,Everton,0,0,2018-11-11 14:15:00,Eden Hazard,Aerial
+250414,91,BlockedShot,0.86,0.537999992370605,0.0462442375719547,Ross Barkley,a,592,OpenPlay,2018,RightFoot,9323,Tottenham,Chelsea,3,1,2018-11-24 17:30:00,César Azpilicueta,Cross
+251162,76,BlockedShot,0.794000015258789,0.701999969482422,0.0222459547221661,Ross Barkley,h,592,OpenPlay,2018,,9352,Chelsea,Manchester City,2,0,2018-12-08 17:30:00,Ruben Loftus-Cheek,Pass
+251165,85,MissedShots,0.915,0.487000007629395,0.0525919422507286,Ross Barkley,h,592,OpenPlay,2018,Head,9352,Chelsea,Manchester City,2,0,2018-12-08 17:30:00,Pedro,Aerial
+251435,78,MissedShots,0.725,NaN,0.0137053858488798,Ross Barkley,a,592,OpenPlay,2018,RightFoot,9366,Brighton,Chelsea,1,2,2018-12-16 13:30:00,Willian,Pass
+263745,36,ShotOnPost,0.945,0.602000007629395,0.061999499797821,Ross Barkley,a,592,FromCorner,2018,,9394,Crystal Palace,Chelsea,0,1,2018-12-30 12:00:00,Eden Hazard,Cross
+263746,45,SavedShot,0.788000030517578,0.527999992370605,0.0372867994010448,Ross Barkley,a,592,OpenPlay,2018,,9394,Crystal Palace,Chelsea,0,1,2018-12-30 12:00:00,NA,None
+263749,67,BlockedShot,0.768000030517578,0.630999984741211,0.0264783352613449,Ross Barkley,a,592,OpenPlay,2018,RightFoot,9394,Crystal Palace,Chelsea,0,1,2018-12-30 12:00:00,N&#039;Golo Kanté,Pass
+274299,11,BlockedShot,0.745999984741211,0.537000007629394,0.0204554367810488,Ross Barkley,h,592,OpenPlay,2018,RightFoot,9403,Chelsea,Southampton,0,0,2019-01-02 19:45:00,Eden Hazard,Pass
+274810,65,BlockedShot,0.856999969482422,0.651999969482422,0.0558349676430225,Ross Barkley,a,592,OpenPlay,2018,RightFoot,9426,Arsenal,Chelsea,2,0,2019-01-19 17:30:00,Willian,Pass
+275201,2,MissedShots,0.753000030517578,0.549000015258789,0.0218215268105268,Ross Barkley,h,592,OpenPlay,2018,RightFoot,9443,Chelsea,Huddersfield,5,0,2019-02-02 15:00:00,Willian,Pass
+275209,17,MissedShots,0.89,0.625,0.0647595971822739,Ross Barkley,h,592,OpenPlay,2018,LeftFoot,9443,Chelsea,Huddersfield,5,0,2019-02-02 15:00:00,Willian,Cross
+275218,49,BlockedShot,0.91,0.680999984741211,0.0880141407251358,Ross Barkley,h,592,OpenPlay,2018,RightFoot,9443,Chelsea,Huddersfield,5,0,2019-02-02 15:00:00,Eden Hazard,Pass
+275221,64,MissedShots,0.740999984741211,NaN,0.0227000154554844,Ross Barkley,h,592,OpenPlay,2018,LeftFoot,9443,Chelsea,Huddersfield,5,0,2019-02-02 15:00:00,NA,BallRecovery
+275606,20,MissedShots,0.819000015258789,0.651999969482422,0.0566929094493389,Ross Barkley,a,592,OpenPlay,2018,RightFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Eden Hazard,TakeOn
+275614,51,BlockedShot,0.875999984741211,0.748000030517578,0.0302876532077789,Ross Barkley,a,592,OpenPlay,2018,RightFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Eden Hazard,Pass
+276310,18,MissedShots,NaN,0.625999984741211,0.0335917286574841,Ross Barkley,a,592,OpenPlay,2018,,9482,Fulham,Chelsea,1,2,2019-03-03 14:05:00,Eden Hazard,Pass
+286883,22,SavedShot,0.719000015258789,0.649000015258789,0.0144876791164279,Ross Barkley,a,592,OpenPlay,2018,RightFoot,9503,Everton,Chelsea,2,0,2019-03-17 16:30:00,Pedro,Pass
+286888,40,BlockedShot,0.775999984741211,0.684000015258789,0.0579736568033695,Ross Barkley,a,592,DirectFreekick,2018,RightFoot,9503,Everton,Chelsea,2,0,2019-03-17 16:30:00,NA,Standard
+286897,63,BlockedShot,0.859000015258789,0.641999969482422,0.0504699014127254,Ross Barkley,a,592,OpenPlay,2018,LeftFoot,9503,Everton,Chelsea,2,0,2019-03-17 16:30:00,Eden Hazard,Pass
+288117,3,BlockedShot,0.875999984741211,0.282000007629395,0.058954019099474,Ross Barkley,a,592,OpenPlay,2018,RightFoot,9514,Cardiff,Chelsea,1,2,2019-03-31 13:05:00,NA,TakeOn
+288144,93,MissedShots,0.914000015258789,0.649000015258789,0.36300852894783,Ross Barkley,a,592,OpenPlay,2018,LeftFoot,9514,Cardiff,Chelsea,1,2,2019-03-31 13:05:00,Eden Hazard,Pass
+293041,78,MissedShots,0.983000030517578,NaN,0.453776657581329,Ross Barkley,h,592,OpenPlay,2018,LeftFoot,9525,Chelsea,West Ham,2,0,2019-04-08 20:00:00,Callum Hudson-Odoi,Pass
+301329,2,SavedShot,0.91,0.585,0.0968093350529671,Ross Barkley,a,592,OpenPlay,2018,LeftFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,Jorginho,Chipped
+301346,52,MissedShots,0.87,0.66,0.0681942775845528,Ross Barkley,a,592,OpenPlay,2018,LeftFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,Willian,Pass
+301350,74,SavedShot,0.773000030517578,0.355,0.0222668796777725,Ross Barkley,a,592,OpenPlay,2018,,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,Eden Hazard,Pass
+310301,34,MissedShots,0.726999969482422,0.465999984741211,0.0191910285502672,Ross Barkley,a,592,OpenPlay,2019,,11652,Manchester United,Chelsea,4,0,2019-08-11 16:30:00,Pedro,Pass
+310303,38,SavedShot,0.911999969482422,0.665999984741211,0.0669033229351044,Ross Barkley,a,592,OpenPlay,2019,LeftFoot,11652,Manchester United,Chelsea,4,0,2019-08-11 16:30:00,Pedro,Pass
+312311,38,BlockedShot,0.756999969482422,NaN,0.0211218725889921,Ross Barkley,a,592,OpenPlay,2019,RightFoot,11664,Norwich,Chelsea,2,3,2019-08-24 12:30:00,Mateo Kovacic,TakeOn
+312313,46,MissedShots,0.809000015258789,0.487000007629395,0.0488286018371582,Ross Barkley,a,592,OpenPlay,2019,,11664,Norwich,Chelsea,2,3,2019-08-24 12:30:00,Christian Pulisic,Pass
+312322,65,SavedShot,0.741999969482422,0.612000007629395,0.0159912835806608,Ross Barkley,a,592,OpenPlay,2019,RightFoot,11664,Norwich,Chelsea,2,3,2019-08-24 12:30:00,Emerson,Pass
+312326,77,BlockedShot,0.861999969482422,NaN,0.111778981983662,Ross Barkley,a,592,OpenPlay,2019,RightFoot,11664,Norwich,Chelsea,2,3,2019-08-24 12:30:00,Christian Pulisic,Pass
+312327,91,SavedShot,0.829000015258789,0.664000015258789,0.0543223395943642,Ross Barkley,a,592,OpenPlay,2019,LeftFoot,11664,Norwich,Chelsea,2,3,2019-08-24 12:30:00,Olivier Giroud,Pass
+315774,6,MissedShots,0.905,0.432999992370605,0.0650630965828896,Ross Barkley,h,592,OpenPlay,2019,Head,11675,Chelsea,Sheffield United,2,2,2019-08-31 15:00:00,César Azpilicueta,Cross
+315779,22,BlockedShot,0.740999984741211,0.605999984741211,0.0251786839216948,Ross Barkley,h,592,OpenPlay,2019,,11675,Chelsea,Sheffield United,2,2,2019-08-31 15:00:00,Tammy Abraham,Pass
+315781,31,BlockedShot,0.759000015258789,0.437000007629395,0.0689146146178246,Ross Barkley,h,592,DirectFreekick,2019,,11675,Chelsea,Sheffield United,2,2,2019-08-31 15:00:00,NA,Standard
+315789,56,SavedShot,0.809000015258789,0.660999984741211,0.0448063723742962,Ross Barkley,h,592,OpenPlay,2019,,11675,Chelsea,Sheffield United,2,2,2019-08-31 15:00:00,Tammy Abraham,Pass
+322621,19,BlockedShot,0.805,0.522000007629395,0.0545324012637138,Ross Barkley,h,592,OpenPlay,2019,,11708,Chelsea,Brighton,2,0,2019-09-28 14:00:00,Tammy Abraham,Pass
+322626,34,BlockedShot,0.889000015258789,0.432999992370605,0.0820637196302414,Ross Barkley,h,592,FromCorner,2019,RightFoot,11708,Chelsea,Brighton,2,0,2019-09-28 14:00:00,NA,None
+322625,34,BlockedShot,0.775,0.291000003814697,0.0198854077607393,Ross Barkley,h,592,OpenPlay,2019,,11708,Chelsea,Brighton,2,0,2019-09-28 14:00:00,Willian,Pass
+322627,35,SavedShot,0.940999984741211,NaN,0.470751196146011,Ross Barkley,h,592,OpenPlay,2019,RightFoot,11708,Chelsea,Brighton,2,0,2019-09-28 14:00:00,Marcos Alonso,Cross
+351756,47,BlockedShot,0.694000015258789,0.420999984741211,0.0345393903553486,Ross Barkley,h,592,DirectFreekick,2019,RightFoot,11858,Chelsea,Burnley,3,0,2020-01-11 15:00:00,NA,Standard
+352237,66,BlockedShot,0.773000030517578,0.673000030517578,0.022716598585248,Ross Barkley,h,592,OpenPlay,2019,,11881,Chelsea,Arsenal,2,2,2020-01-21 20:15:00,Jorginho,Pass
+352240,78,MissedShots,0.778000030517578,0.370999984741211,0.0144594144076109,Ross Barkley,h,592,FromCorner,2019,RightFoot,11881,Chelsea,Arsenal,2,2,2020-01-21 20:15:00,NA,Aerial
+352241,79,SavedShot,NaN,0.54,0.441617459058762,Ross Barkley,h,592,OpenPlay,2019,Head,11881,Chelsea,Arsenal,2,2,2020-01-21 20:15:00,Jorginho,Throughball
+352900,13,MissedShots,0.781999969482422,NaN,0.021758921444416,Ross Barkley,h,592,OpenPlay,2019,RightFoot,11906,Chelsea,Tottenham,2,1,2020-02-22 12:30:00,Jorginho,Pass
+352902,14,ShotOnPost,0.869000015258789,0.462000007629395,0.331509470939636,Ross Barkley,h,592,OpenPlay,2019,RightFoot,11906,Chelsea,Tottenham,2,1,2020-02-22 12:30:00,NA,Rebound
+352908,39,MissedShots,0.891999969482422,0.723000030517578,0.0523950420320034,Ross Barkley,h,592,OpenPlay,2019,LeftFoot,11906,Chelsea,Tottenham,2,1,2020-02-22 12:30:00,Mateo Kovacic,Pass
+352911,49,SavedShot,0.888000030517578,0.814000015258789,0.0349421128630638,Ross Barkley,h,592,OpenPlay,2019,RightFoot,11906,Chelsea,Tottenham,2,1,2020-02-22 12:30:00,Marcos Alonso,TakeOn
+353281,70,MissedShots,0.781999969482422,0.637000007629395,0.0271165296435356,Ross Barkley,a,592,OpenPlay,2019,,11914,Bournemouth,Chelsea,2,2,2020-02-29 15:00:00,Pedro,Pass
+353282,74,BlockedShot,0.805999984741211,NaN,0.0386633835732937,Ross Barkley,a,592,OpenPlay,2019,,11914,Bournemouth,Chelsea,2,2,2020-02-29 15:00:00,Pedro,Pass
+353290,90,MissedShots,0.795999984741211,0.607999992370605,0.0300952363759279,Ross Barkley,a,592,OpenPlay,2019,LeftFoot,11914,Bournemouth,Chelsea,2,2,2020-02-29 15:00:00,Marcos Alonso,Pass
+353554,18,MissedShots,0.695,0.49,0.0213426761329174,Ross Barkley,h,592,OpenPlay,2019,,11925,Chelsea,Everton,4,0,2020-03-08 14:00:00,Billy Gilmour,Pass
+353563,58,SavedShot,0.780999984741211,0.247999992370605,0.0453505180776119,Ross Barkley,h,592,DirectFreekick,2019,,11925,Chelsea,Everton,4,0,2020-03-08 14:00:00,NA,Standard
+353565,68,SavedShot,0.9,0.703000030517578,0.0633823424577713,Ross Barkley,h,592,OpenPlay,2019,RightFoot,11925,Chelsea,Everton,4,0,2020-03-08 14:00:00,Pedro,TakeOn
+366614,26,BlockedShot,0.885,NaN,0.0558483973145485,Ross Barkley,h,592,OpenPlay,2019,,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,NA,None
+366616,31,BlockedShot,0.98,0.639000015258789,0.0623467601835728,Ross Barkley,h,592,OpenPlay,2019,RightFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,NA,None
+368131,18,SavedShot,0.735999984741211,0.320999984741211,0.0171558167785406,Ross Barkley,a,592,OpenPlay,2019,RightFoot,11962,West Ham,Chelsea,3,2,2020-07-01 19:15:00,N&#039;Golo Kanté,Pass
+368133,29,BlockedShot,0.811999969482422,0.675,0.031716488301754,Ross Barkley,a,592,OpenPlay,2019,,11962,West Ham,Chelsea,3,2,2020-07-01 19:15:00,Mateo Kovacic,Pass
+368808,22,MissedShots,0.763000030517578,0.655999984741211,0.0139565458521247,Ross Barkley,h,592,SetPiece,2019,LeftFoot,11964,Chelsea,Watford,3,0,2020-07-04 19:00:00,NA,Rebound
+368829,91,Goal,0.879000015258789,0.545999984741211,0.136546686291695,Ross Barkley,h,592,OpenPlay,2019,LeftFoot,11964,Chelsea,Watford,3,0,2020-07-04 19:00:00,César Azpilicueta,Pass
+369414,12,BlockedShot,0.736999969482422,0.557999992370605,0.0539758093655109,Ross Barkley,a,592,DirectFreekick,2019,RightFoot,11977,Crystal Palace,Chelsea,2,3,2020-07-07 17:00:00,NA,Standard
+369421,47,MissedShots,0.705999984741211,0.582000007629395,0.017707034945488,Ross Barkley,a,592,OpenPlay,2019,LeftFoot,11977,Crystal Palace,Chelsea,2,3,2020-07-07 17:00:00,Billy Gilmour,Pass
+370496,1,SavedShot,0.701999969482422,NaN,0.012845940887928,Ross Barkley,a,592,OpenPlay,2019,RightFoot,11989,Sheffield United,Chelsea,3,0,2020-07-11 16:30:00,Christian Pulisic,Pass
+370506,60,BlockedShot,0.785,0.693000030517578,0.0606639012694359,Ross Barkley,a,592,DirectFreekick,2019,RightFoot,11989,Sheffield United,Chelsea,3,0,2020-07-11 16:30:00,NA,Standard
+371335,86,BlockedShot,0.773000030517578,0.387999992370605,0.0329789258539677,Ross Barkley,h,592,OpenPlay,2019,LeftFoot,11995,Chelsea,Norwich,1,0,2020-07-14 19:15:00,Willian,Pass
+377163,93,SavedShot,NaN,0.472000007629395,0.017517002299428,Ross Barkley,a,592,OpenPlay,2020,RightFoot,14095,Brighton,Chelsea,1,3,2020-09-14 19:15:00,Timo Werner,Pass
+381491,7,MissedShots,0.918000030517578,NaN,0.48778909444809,Ross Barkley,h,592,OpenPlay,2020,LeftFoot,14466,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,Jack Grealish,Pass
+381500,30,MissedShots,0.885999984741211,0.575999984741211,0.127934038639069,Ross Barkley,h,592,OpenPlay,2020,LeftFoot,14466,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,Jack Grealish,Pass
+381502,33,SavedShot,0.973000030517578,0.334000015258789,0.0718859359622002,Ross Barkley,h,592,OpenPlay,2020,RightFoot,14466,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,Matthew Cash,Chipped
+381507,51,MissedShots,0.776999969482422,0.69,0.019506711512804,Ross Barkley,h,592,OpenPlay,2020,RightFoot,14466,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,NA,None
+381508,54,Goal,0.809000015258789,0.698000030517578,0.0334127321839333,Ross Barkley,h,592,OpenPlay,2020,LeftFoot,14466,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,Jack Grealish,Pass
+381518,84,BlockedShot,0.87,0.610999984741211,0.0564526133239269,Ross Barkley,h,592,OpenPlay,2020,LeftFoot,14466,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,NA,Rebound
+382809,86,BlockedShot,0.895,0.537999992370605,0.191809684038162,Ross Barkley,a,592,OpenPlay,2020,RightFoot,14479,Leicester,Aston Villa,0,1,2020-10-18 18:15:00,Jack Grealish,TakeOn
+382811,90,Goal,0.744000015258789,0.442000007629395,0.0191558189690113,Ross Barkley,a,592,OpenPlay,2020,RightFoot,14479,Leicester,Aston Villa,0,1,2020-10-18 18:15:00,John McGinn,Pass
+383009,16,SavedShot,0.714000015258789,0.4,0.0139825027436018,Ross Barkley,h,592,OpenPlay,2020,RightFoot,14486,Aston Villa,Leeds,0,3,2020-10-23 19:00:00,Ollie Watkins,Pass
+383030,67,BlockedShot,0.800999984741211,0.562999992370605,0.0533710420131683,Ross Barkley,h,592,OpenPlay,2020,LeftFoot,14486,Aston Villa,Leeds,0,3,2020-10-23 19:00:00,NA,TakeOn
+383035,76,MissedShots,0.755,0.347000007629395,0.016419418156147,Ross Barkley,h,592,OpenPlay,2020,RightFoot,14486,Aston Villa,Leeds,0,3,2020-10-23 19:00:00,Tyrone Mings,Pass
+384948,12,BlockedShot,NaN,0.632999992370605,0.0597742646932602,Ross Barkley,h,592,DirectFreekick,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,NA,Standard
+384963,73,MissedShots,0.795,0.620999984741211,0.0216650515794754,Ross Barkley,h,592,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,NA,None
+386901,43,BlockedShot,0.919000015258789,0.660999984741211,0.0965855047106743,Ross Barkley,a,592,OpenPlay,2020,LeftFoot,14505,Arsenal,Aston Villa,0,3,2020-11-08 19:15:00,John McGinn,Pass
+386909,61,BlockedShot,0.888000030517578,0.46,0.109857454895973,Ross Barkley,a,592,OpenPlay,2020,RightFoot,14505,Arsenal,Aston Villa,0,3,2020-11-08 19:15:00,NA,None
+386917,77,BlockedShot,0.890999984741211,0.688000030517578,0.0695991888642311,Ross Barkley,a,592,OpenPlay,2020,LeftFoot,14505,Arsenal,Aston Villa,0,3,2020-11-08 19:15:00,Jack Grealish,TakeOn
+386920,91,SavedShot,NaN,NaN,0.0664219632744789,Ross Barkley,a,592,OpenPlay,2020,,14505,Arsenal,Aston Villa,0,3,2020-11-08 19:15:00,John McGinn,Pass
+117395,61,OwnGoal,0.0880000019073486,NaN,0,Tyrone Mings,a,1024,SetPiece,2016,OtherBodyPart,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,NA,BallTouch
+117476,68,OwnGoal,0.0340000009536743,0.47,0,Tyrone Mings,h,1024,OpenPlay,2016,RightFoot,3389,Bournemouth,Manchester City,0,2,2017-02-13 20:00:00,NA,None
+118859,95,SavedShot,0.866999969482422,NaN,0.0331392847001553,Tyrone Mings,a,1024,SetPiece,2016,Head,3395,West Bromwich Albion,Bournemouth,2,1,2017-02-25 15:00:00,Ryan Fraser,Cross
+215677,56,BlockedShot,0.69,0.532999992370605,0.0205896720290184,Tyrone Mings,a,1024,FromCorner,2017,LeftFoot,7492,Burnley,Bournemouth,1,2,2018-05-13 15:00:00,Andrew Surman,Pass
+321240,37,MissedShots,NaN,0.479000015258789,0.156404241919518,Tyrone Mings,a,1024,FromCorner,2019,Head,11702,Arsenal,Aston Villa,3,2,2019-09-22 15:30:00,John McGinn,Chipped
+331436,69,MissedShots,NaN,0.495,0.068969301879406,Tyrone Mings,a,1024,SetPiece,2019,Head,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,John McGinn,Aerial
+334508,65,Goal,0.898000030517578,0.457000007629395,0.407192766666412,Tyrone Mings,a,1024,FromCorner,2019,,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Matt Targett,Throughball
+335056,27,SavedShot,0.909000015258789,0.582999992370606,0.0214534867554903,Tyrone Mings,a,1024,SetPiece,2019,Head,11789,Chelsea,Aston Villa,2,1,2019-12-04 19:30:00,Jack Grealish,Aerial
+352220,87,MissedShots,0.885999984741211,0.420999984741211,0.0119022931903601,Tyrone Mings,h,1024,SetPiece,2019,Head,11873,Aston Villa,Watford,2,1,2020-01-21 19:30:00,Matt Targett,Aerial
+352223,94,Goal,0.905999984741211,0.507000007629395,0.086714968085289,Tyrone Mings,h,1024,SetPiece,2019,LeftFoot,11873,Aston Villa,Watford,2,1,2020-01-21 19:30:00,Ezri Konsa Ngoyo,None
+352532,78,MissedShots,0.92,0.505,0.0622684471309185,Tyrone Mings,a,1024,SetPiece,2019,Head,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Matt Targett,Aerial
+369033,51,MissedShots,0.948000030517578,0.569000015258789,0.101710081100464,Tyrone Mings,a,1024,FromCorner,2019,Head,11966,Liverpool,Aston Villa,2,0,2020-07-05 15:30:00,John McGinn,Cross
+378450,3,MissedShots,0.905999984741211,0.580999984741211,0.0146973691880703,Tyrone Mings,h,1024,FromCorner,2020,,14104,Aston Villa,Sheffield United,1,0,2020-09-21 17:00:00,Conor Hourihane,Aerial
+379957,47,Goal,NaN,0.524000015258789,0.353224515914917,Tyrone Mings,a,1024,SetPiece,2020,LeftFoot,14114,Fulham,Aston Villa,0,3,2020-09-28 17:00:00,Conor Hourihane,Cross
+379969,85,SavedShot,NaN,0.502999992370605,0.113935403525829,Tyrone Mings,a,1024,SetPiece,2020,Head,14114,Fulham,Aston Villa,0,3,2020-09-28 17:00:00,John McGinn,Cross
+384960,61,Goal,0.944000015258789,0.542000007629394,0.351309388875961,Tyrone Mings,h,1024,FromCorner,2020,,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Jack Grealish,Aerial
+384966,80,MissedShots,0.915,0.520999984741211,0.0887270122766495,Tyrone Mings,h,1024,FromCorner,2020,Head,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Ross Barkley,Cross
+384965,80,SavedShot,0.885999984741211,0.460999984741211,0.0149796335026622,Tyrone Mings,h,1024,FromCorner,2020,Head,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Ross Barkley,Aerial
+387365,37,SavedShot,0.936999969482422,0.562000007629395,0.425475537776947,Tyrone Mings,h,1024,SetPiece,2020,,14515,Aston Villa,Brighton,1,2,2020-11-21 15:00:00,Jack Grealish,Cross
+333254,52,SavedShot,0.933000030517578,0.497000007629395,0.389527887105942,Ezri Konsa Ngoyo,h,7726,FromCorner,2019,Head,11764,Aston Villa,Newcastle United,2,0,2019-11-25 20:00:00,Jack Grealish,Cross
+339599,14,BlockedShot,0.885999984741211,NaN,0.0756605193018913,Ezri Konsa Ngoyo,h,7726,FromCorner,2019,,11823,Aston Villa,Norwich,1,0,2019-12-26 15:00:00,Trézéguet,BallTouch
+339807,6,BlockedShot,0.876999969482422,0.392000007629395,0.0119816139340401,Ezri Konsa Ngoyo,a,7726,SetPiece,2019,Head,11841,Watford,Aston Villa,3,0,2019-12-28 15:00:00,Conor Hourihane,Aerial
+351424,10,MissedShots,0.871999969482422,0.447000007629395,0.0127331307157874,Ezri Konsa Ngoyo,a,7726,FromCorner,2019,,11846,Burnley,Aston Villa,1,2,2020-01-01 12:30:00,Trézéguet,Aerial
+352014,62,SavedShot,0.901999969482422,0.47,0.347653478384018,Ezri Konsa Ngoyo,a,7726,SetPiece,2019,LeftFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,Jack Grealish,Cross
+352202,16,MissedShots,0.919000015258789,0.415,0.016699705272913,Ezri Konsa Ngoyo,h,7726,FromCorner,2019,Head,11873,Aston Villa,Watford,2,1,2020-01-21 19:30:00,Anwar El Ghazi,Aerial
+352211,52,MissedShots,0.750999984741211,0.342000007629395,0.0167325455695391,Ezri Konsa Ngoyo,h,7726,OpenPlay,2019,RightFoot,11873,Aston Villa,Watford,2,1,2020-01-21 19:30:00,Trézéguet,Pass
+352222,94,BlockedShot,0.846999969482422,0.5,0.0711923092603683,Ezri Konsa Ngoyo,h,7726,SetPiece,2019,RightFoot,11873,Aston Villa,Watford,2,1,2020-01-21 19:30:00,Tyrone Mings,Goal
+369027,20,MissedShots,0.871999969482422,0.480999984741211,0.0418145805597305,Ezri Konsa Ngoyo,a,7726,SetPiece,2019,Head,11966,Liverpool,Aston Villa,2,0,2020-07-05 15:30:00,Jack Grealish,Cross
+370755,57,SavedShot,NaN,0.485999984741211,0.144461542367935,Ezri Konsa Ngoyo,h,7726,FromCorner,2019,RightFoot,11983,Aston Villa,Crystal Palace,2,0,2020-07-12 13:15:00,Ahmed Elmohamady,HeadPass
+371872,71,Goal,0.938000030517578,0.502999992370605,0.541361033916473,Ezri Konsa Ngoyo,a,7726,SetPiece,2019,RightFoot,11997,Everton,Aston Villa,1,1,2020-07-16 17:00:00,Conor Hourihane,Cross
+378459,62,Goal,0.944000015258789,0.434000015258789,0.0522521734237671,Ezri Konsa Ngoyo,h,7726,FromCorner,2020,,14104,Aston Villa,Sheffield United,1,0,2020-09-21 17:00:00,Tyrone Mings,Aerial
+382798,53,MissedShots,0.959000015258789,0.457000007629395,0.33308869600296,Ezri Konsa Ngoyo,a,7726,FromCorner,2020,,14479,Leicester,Aston Villa,0,1,2020-10-18 18:15:00,Jack Grealish,Aerial
+383024,53,SavedShot,0.905999984741211,0.465999984741211,0.075587660074234,Ezri Konsa Ngoyo,h,7726,FromCorner,2020,RightFoot,14486,Aston Villa,Leeds,0,3,2020-10-23 19:00:00,Ross Barkley,Cross
+386900,43,BlockedShot,0.888000030517578,0.385999984741211,0.0337559282779694,Ezri Konsa Ngoyo,a,7726,SetPiece,2020,Head,14505,Arsenal,Aston Villa,0,3,2020-11-08 19:15:00,Matt Targett,Chipped
+387367,46,Goal,0.933000030517578,0.429000015258789,0.3741614818573,Ezri Konsa Ngoyo,h,7726,SetPiece,2020,RightFoot,14515,Aston Villa,Brighton,1,2,2020-11-21 15:00:00,Bertrand Traoré,Cross
+389821,18,MissedShots,0.931999969482422,0.462000007629395,0.0569077841937542,Ezri Konsa Ngoyo,a,7726,FromCorner,2020,,14526,West Ham,Aston Villa,2,1,2020-11-30 20:00:00,Matt Targett,Aerial
+389834,65,SavedShot,0.809000015258789,NaN,0.0470401793718338,Ezri Konsa Ngoyo,a,7726,FromCorner,2020,RightFoot,14526,West Ham,Aston Villa,2,1,2020-11-30 20:00:00,Matt Targett,Pass
+321261,88,BlockedShot,0.875,0.385,0.079887330532074,Conor Hourihane,a,7721,SetPiece,2019,LeftFoot,11702,Arsenal,Aston Villa,3,2,2019-09-22 15:30:00,Ahmed Elmohamady,Pass
+322563,12,ShotOnPost,0.758000030517578,0.562999992370605,0.0681010708212852,Conor Hourihane,h,7721,DirectFreekick,2019,LeftFoot,11706,Aston Villa,Burnley,2,2,2019-09-28 14:00:00,NA,Standard
+322576,58,BlockedShot,0.854000015258789,0.587000007629395,0.0841368436813354,Conor Hourihane,h,7721,OpenPlay,2019,RightFoot,11706,Aston Villa,Burnley,2,2,2019-09-28 14:00:00,Marvelous Nakamba,Chipped
+322583,91,BlockedShot,0.800999984741211,0.739000015258789,0.022236367687583,Conor Hourihane,h,7721,OpenPlay,2019,RightFoot,11706,Aston Villa,Burnley,2,2,2019-09-28 14:00:00,Keinan Davis,Pass
+322584,95,BlockedShot,0.918000030517578,NaN,0.0194851364940405,Conor Hourihane,h,7721,FromCorner,2019,LeftFoot,11706,Aston Villa,Burnley,2,2,2019-09-28 14:00:00,NA,Aerial
+324187,60,Goal,NaN,0.505,0.0474659688770771,Conor Hourihane,a,7721,OpenPlay,2019,LeftFoot,11717,Norwich,Aston Villa,1,5,2019-10-05 15:00:00,Matt Targett,BallRecovery
+325555,22,SavedShot,0.728000030517578,0.585,0.0471912659704685,Conor Hourihane,h,7721,DirectFreekick,2019,LeftFoot,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,NA,Standard
+325562,36,SavedShot,0.771999969482422,0.265,0.0454985089600086,Conor Hourihane,h,7721,DirectFreekick,2019,LeftFoot,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,NA,Standard
+325570,50,SavedShot,0.885999984741211,NaN,0.312985092401505,Conor Hourihane,h,7721,OpenPlay,2019,LeftFoot,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,Matt Targett,Cross
+329266,80,BlockedShot,0.861999969482422,NaN,0.0198601651936769,Conor Hourihane,h,7721,FromCorner,2019,,11744,Aston Villa,Liverpool,1,2,2019-11-02 15:00:00,Anwar El Ghazi,Pass
+333248,31,Goal,0.835999984741211,0.700999984741211,0.0916617587208748,Conor Hourihane,h,7721,DirectFreekick,2019,,11764,Aston Villa,Newcastle United,2,0,2019-11-25 20:00:00,NA,Standard
+333266,85,MissedShots,0.789000015258789,NaN,0.0178773701190948,Conor Hourihane,h,7721,SetPiece,2019,LeftFoot,11764,Aston Villa,Newcastle United,2,0,2019-11-25 20:00:00,Tyrone Mings,Chipped
+338682,14,MissedShots,0.813000030517578,0.614000015258789,0.0162720382213593,Conor Hourihane,h,7721,OpenPlay,2019,LeftFoot,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,NA,Aerial
+339613,63,Goal,NaN,0.545999984741211,0.104119442403316,Conor Hourihane,h,7721,OpenPlay,2019,LeftFoot,11823,Aston Villa,Norwich,1,0,2019-12-26 15:00:00,Jack Grealish,Pass
+339832,77,SavedShot,0.751999969482422,0.392000007629395,0.0126150865107775,Conor Hourihane,a,7721,OpenPlay,2019,LeftFoot,11841,Watford,Aston Villa,3,0,2019-12-28 15:00:00,NA,None
+353017,65,BlockedShot,0.809000015258789,0.482000007629395,0.0512498244643211,Conor Hourihane,a,7721,OpenPlay,2019,LeftFoot,11908,Southampton,Aston Villa,2,0,2020-02-22 15:00:00,Trézéguet,Pass
+353590,5,MissedShots,NaN,0.579000015258789,0.127324774861336,Conor Hourihane,a,7721,OpenPlay,2019,LeftFoot,11927,Leicester,Aston Villa,4,0,2020-03-09 20:00:00,Matt Targett,Pass
+353600,51,MissedShots,0.810999984741211,NaN,0.0159605853259563,Conor Hourihane,a,7721,OpenPlay,2019,,11927,Leicester,Aston Villa,4,0,2020-03-09 20:00:00,NA,Aerial
+364699,4,SavedShot,0.89,0.688000030517578,0.0196447446942329,Conor Hourihane,h,7721,FromCorner,2019,LeftFoot,11913,Aston Villa,Sheffield United,0,0,2020-06-17 17:00:00,NA,Aerial
+365791,15,BlockedShot,0.856999969482422,0.527999992370605,0.0458651892840862,Conor Hourihane,h,7721,FromCorner,2019,LeftFoot,11933,Aston Villa,Chelsea,1,2,2020-06-21 15:15:00,Jack Grealish,Cross
+366366,92,BlockedShot,0.744000015258789,0.520999984741211,0.0193513836711645,Conor Hourihane,a,7721,OpenPlay,2019,LeftFoot,11949,Newcastle United,Aston Villa,1,1,2020-06-24 17:00:00,Jack Grealish,Pass
+366791,43,BlockedShot,0.893000030517578,0.307000007629395,0.058183990418911,Conor Hourihane,h,7721,OpenPlay,2019,LeftFoot,11954,Aston Villa,Wolverhampton Wanderers,0,1,2020-06-27 11:30:00,Jack Grealish,Pass
+370233,81,BlockedShot,0.921999969482422,0.67,0.0753347277641296,Conor Hourihane,h,7721,OpenPlay,2019,LeftFoot,11974,Aston Villa,Manchester United,0,3,2020-07-09 19:15:00,Douglas Luiz,Pass
+370745,2,BlockedShot,0.795,0.620999984741211,0.03205356746912,Conor Hourihane,h,7721,OpenPlay,2019,LeftFoot,11983,Aston Villa,Crystal Palace,2,0,2020-07-12 13:15:00,Jack Grealish,Pass
+370754,57,SavedShot,0.785999984741211,0.744000015258789,0.0487944409251213,Conor Hourihane,h,7721,DirectFreekick,2019,,11983,Aston Villa,Crystal Palace,2,0,2020-07-12 13:15:00,NA,Standard
+370758,62,SavedShot,0.744000015258789,0.61,0.0332807786762714,Conor Hourihane,h,7721,OpenPlay,2019,LeftFoot,11983,Aston Villa,Crystal Palace,2,0,2020-07-12 13:15:00,Douglas Luiz,Pass
+371857,21,MissedShots,0.735,0.345,0.0173094887286425,Conor Hourihane,a,7721,OpenPlay,2019,LeftFoot,11997,Everton,Aston Villa,1,1,2020-07-16 17:00:00,Ahmed Elmohamady,Pass
+371869,61,BlockedShot,0.813000030517578,NaN,0.0380837731063366,Conor Hourihane,a,7721,OpenPlay,2019,LeftFoot,11997,Everton,Aston Villa,1,1,2020-07-16 17:00:00,Jack Grealish,Pass
+371870,66,BlockedShot,0.779000015258789,0.696999969482422,0.0565086118876934,Conor Hourihane,a,7721,DirectFreekick,2019,LeftFoot,11997,Everton,Aston Villa,1,1,2020-07-16 17:00:00,NA,Standard
+378455,40,MissedShots,0.821999969482422,NaN,0.0436490774154663,Conor Hourihane,h,7721,OpenPlay,2020,LeftFoot,14104,Aston Villa,Sheffield United,1,0,2020-09-21 17:00:00,Jack Grealish,Pass
+379950,14,Goal,NaN,0.537999992370605,0.364891082048416,Conor Hourihane,a,7721,OpenPlay,2020,RightFoot,14114,Fulham,Aston Villa,0,3,2020-09-28 17:00:00,John McGinn,LayOff
+379955,45,MissedShots,0.718000030517578,0.475999984741211,0.0155723383650184,Conor Hourihane,a,7721,OpenPlay,2020,,14114,Fulham,Aston Villa,0,3,2020-09-28 17:00:00,John McGinn,Pass
+389822,21,SavedShot,0.77,0.457000007629395,0.0813475921750069,Conor Hourihane,a,7721,DirectFreekick,2020,LeftFoot,14526,West Ham,Aston Villa,2,1,2020-11-30 20:00:00,NA,Standard
+389826,42,MissedShots,0.768000030517578,NaN,0.0624944530427456,Conor Hourihane,a,7721,DirectFreekick,2020,LeftFoot,14526,West Ham,Aston Villa,2,1,2020-11-30 20:00:00,NA,Standard
+310035,8,Goal,0.9,NaN,0.271236807107925,John McGinn,a,7723,OpenPlay,2019,,11649,Tottenham,Aston Villa,3,1,2019-08-10 17:30:00,Tyrone Mings,Pass
+310068,91,MissedShots,0.825,NaN,0.041953518986702,John McGinn,a,7723,OpenPlay,2019,LeftFoot,11649,Tottenham,Aston Villa,3,1,2019-08-10 17:30:00,Douglas Luiz,BlockedPass
+310470,7,SavedShot,0.724000015258789,0.575,0.0188107155263424,John McGinn,h,7723,OpenPlay,2019,,11654,Aston Villa,Bournemouth,1,2,2019-08-17 15:00:00,Douglas Luiz,Pass
+310474,21,SavedShot,0.829000015258789,NaN,0.0430890992283821,John McGinn,h,7723,OpenPlay,2019,,11654,Aston Villa,Bournemouth,1,2,2019-08-17 15:00:00,NA,None
+310480,41,MissedShots,NaN,0.307000007629395,0.0109386099502444,John McGinn,h,7723,OpenPlay,2019,LeftFoot,11654,Aston Villa,Bournemouth,1,2,2019-08-17 15:00:00,NA,None
+310484,48,BlockedShot,0.736999969482422,NaN,0.00954093877226114,John McGinn,h,7723,OpenPlay,2019,,11654,Aston Villa,Bournemouth,1,2,2019-08-17 15:00:00,NA,None
+310495,80,MissedShots,0.805999984741211,0.641999969482422,0.0151660777628422,John McGinn,h,7723,OpenPlay,2019,,11654,Aston Villa,Bournemouth,1,2,2019-08-17 15:00:00,Jack Grealish,Chipped
+310498,87,SavedShot,0.87,0.447999992370605,0.017239248380065,John McGinn,h,7723,OpenPlay,2019,Head,11654,Aston Villa,Bournemouth,1,2,2019-08-17 15:00:00,Ahmed Elmohamady,Aerial
+318441,33,SavedShot,NaN,0.614000015258789,0.0139381932094693,John McGinn,h,7723,OpenPlay,2019,LeftFoot,11692,Aston Villa,West Ham,0,0,2019-09-16 19:00:00,Anwar El Ghazi,Pass
+318443,45,SavedShot,0.84,0.502000007629395,0.0662339329719543,John McGinn,h,7723,OpenPlay,2019,LeftFoot,11692,Aston Villa,West Ham,0,0,2019-09-16 19:00:00,NA,None
+318444,51,MissedShots,0.761999969482422,0.38,0.0188386868685484,John McGinn,h,7723,OpenPlay,2019,LeftFoot,11692,Aston Villa,West Ham,0,0,2019-09-16 19:00:00,NA,None
+321229,3,SavedShot,0.820999984741211,0.360999984741211,0.034693393856287,John McGinn,a,7723,OpenPlay,2019,RightFoot,11702,Arsenal,Aston Villa,3,2,2019-09-22 15:30:00,Trézéguet,Pass
+321231,10,SavedShot,0.744000015258789,0.587999992370606,0.0133579131215811,John McGinn,a,7723,FromCorner,2019,LeftFoot,11702,Arsenal,Aston Villa,3,2,2019-09-22 15:30:00,NA,Aerial
+321236,19,Goal,0.92,0.505,0.393838405609131,John McGinn,a,7723,OpenPlay,2019,LeftFoot,11702,Arsenal,Aston Villa,3,2,2019-09-22 15:30:00,Anwar El Ghazi,Cross
+321241,46,MissedShots,0.819000015258789,0.725999984741211,0.068846121430397,John McGinn,a,7723,DirectFreekick,2019,,11702,Arsenal,Aston Villa,3,2,2019-09-22 15:30:00,NA,Standard
+321242,52,SavedShot,0.849000015258789,0.288999996185303,0.0446423217654228,John McGinn,a,7723,OpenPlay,2019,,11702,Arsenal,Aston Villa,3,2,2019-09-22 15:30:00,Jack Grealish,Pass
+321244,59,MissedShots,0.855999984741211,0.565999984741211,0.1095105484128,John McGinn,a,7723,OpenPlay,2019,LeftFoot,11702,Arsenal,Aston Villa,3,2,2019-09-22 15:30:00,NA,TakeOn
+322559,2,MissedShots,NaN,0.465999984741211,0.24205569922924,John McGinn,h,7723,OpenPlay,2019,Head,11706,Aston Villa,Burnley,2,2,2019-09-28 14:00:00,Matt Targett,Cross
+322568,36,MissedShots,NaN,0.549000015258789,0.0108070662245154,John McGinn,h,7723,OpenPlay,2019,,11706,Aston Villa,Burnley,2,2,2019-09-28 14:00:00,Marvelous Nakamba,TakeOn
+322570,42,BlockedShot,0.77,0.605999984741211,0.0250187460333109,John McGinn,h,7723,OpenPlay,2019,LeftFoot,11706,Aston Villa,Burnley,2,2,2019-09-28 14:00:00,Jack Grealish,Pass
+322580,78,Goal,0.920999984741211,0.685,0.0322976596653461,John McGinn,h,7723,OpenPlay,2019,LeftFoot,11706,Aston Villa,Burnley,2,2,2019-09-28 14:00:00,Trézéguet,Cross
+324153,2,MissedShots,0.82,0.267999992370605,0.0235976465046406,John McGinn,a,7723,OpenPlay,2019,LeftFoot,11717,Norwich,Aston Villa,1,5,2019-10-05 15:00:00,NA,BallRecovery
+324168,26,MissedShots,0.81,0.442999992370605,0.0641856268048286,John McGinn,a,7723,OpenPlay,2019,,11717,Norwich,Aston Villa,1,5,2019-10-05 15:00:00,NA,Interception
+324193,88,BlockedShot,0.725,0.487999992370605,0.0196307618170977,John McGinn,a,7723,OpenPlay,2019,LeftFoot,11717,Norwich,Aston Villa,1,5,2019-10-05 15:00:00,Jack Grealish,Pass
+325556,22,SavedShot,NaN,0.527000007629395,0.0423639789223671,John McGinn,h,7723,OpenPlay,2019,Head,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,Conor Hourihane,Cross
+325563,36,MissedShots,NaN,0.669000015258789,0.0500904098153114,John McGinn,h,7723,SetPiece,2019,LeftFoot,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,NA,Rebound
+325564,39,BlockedShot,NaN,0.505,0.381446093320847,John McGinn,h,7723,OpenPlay,2019,LeftFoot,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,NA,None
+325579,64,MissedShots,0.861999969482422,NaN,0.0608529299497604,John McGinn,h,7723,OpenPlay,2019,LeftFoot,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,Jack Grealish,Pass
+325584,74,BlockedShot,0.701999969482422,0.494000015258789,0.00977992173284292,John McGinn,h,7723,OpenPlay,2019,LeftFoot,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,Jack Grealish,TakeOn
+325586,78,BlockedShot,NaN,0.522000007629395,0.064055435359478,John McGinn,h,7723,OpenPlay,2019,,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,Matt Targett,Pass
+326923,22,SavedShot,0.774000015258789,0.385999984741211,0.0255153607577085,John McGinn,a,7723,OpenPlay,2019,LeftFoot,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,NA,BallRecovery
+326950,93,SavedShot,0.854000015258789,0.584000015258789,0.285948544740677,John McGinn,a,7723,OpenPlay,2019,LeftFoot,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,NA,Rebound
+331437,76,BlockedShot,0.863000030517578,0.38,0.0502344891428947,John McGinn,a,7723,OpenPlay,2019,LeftFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,Anwar El Ghazi,Cross
+331439,78,BlockedShot,0.676999969482422,0.467999992370605,0.0110859554260969,John McGinn,a,7723,OpenPlay,2019,LeftFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,Ezri Konsa Ngoyo,BallRecovery
+333264,75,SavedShot,0.905999984741211,0.273999996185303,0.0660160854458809,John McGinn,h,7723,OpenPlay,2019,,11764,Aston Villa,Newcastle United,2,0,2019-11-25 20:00:00,Jack Grealish,Pass
+333268,92,MissedShots,0.884000015258789,0.655,0.118915431201458,John McGinn,h,7723,OpenPlay,2019,LeftFoot,11764,Aston Villa,Newcastle United,2,0,2019-11-25 20:00:00,Jack Grealish,Pass
+333269,93,MissedShots,0.756999969482422,0.515999984741211,0.0613001249730587,John McGinn,h,7723,OpenPlay,2019,LeftFoot,11764,Aston Villa,Newcastle United,2,0,2019-11-25 20:00:00,Tyrone Mings,Chipped
+336357,87,MissedShots,0.715,0.339000015258789,0.00921221636235714,John McGinn,h,7723,OpenPlay,2019,,11793,Aston Villa,Leicester,1,4,2019-12-08 14:00:00,Ahmed Elmohamady,Pass
+364701,16,SavedShot,0.906999969482422,0.44,0.0863267332315445,John McGinn,h,7723,SetPiece,2019,Head,11913,Aston Villa,Sheffield United,0,0,2020-06-17 17:00:00,Jack Grealish,Cross
+364710,59,SavedShot,0.81,0.512999992370605,0.0516374967992306,John McGinn,h,7723,OpenPlay,2019,LeftFoot,11913,Aston Villa,Sheffield United,0,0,2020-06-17 17:00:00,Jack Grealish,Pass
+365795,33,MissedShots,0.946999969482422,0.575,0.129587784409523,John McGinn,h,7723,OpenPlay,2019,Head,11933,Aston Villa,Chelsea,1,2,2020-06-21 15:15:00,Anwar El Ghazi,Cross
+366343,8,BlockedShot,0.755999984741211,NaN,0.0212487932294607,John McGinn,a,7723,OpenPlay,2019,LeftFoot,11949,Newcastle United,Aston Villa,1,1,2020-06-24 17:00:00,Mbwana Samatta,TakeOn
+366346,28,MissedShots,0.959000015258789,0.552999992370605,0.112750202417374,John McGinn,a,7723,OpenPlay,2019,,11949,Newcastle United,Aston Villa,1,1,2020-06-24 17:00:00,Jack Grealish,Aerial
+366359,71,BlockedShot,0.795999984741211,0.517999992370605,0.0445376671850681,John McGinn,a,7723,OpenPlay,2019,,11949,Newcastle United,Aston Villa,1,1,2020-06-24 17:00:00,Jack Grealish,Pass
+369031,44,MissedShots,0.705,0.342999992370605,0.011921382509172,John McGinn,a,7723,OpenPlay,2019,LeftFoot,11966,Liverpool,Aston Villa,2,0,2020-07-05 15:30:00,Douglas Luiz,Pass
+370221,38,BlockedShot,0.743000030517578,0.492999992370605,0.0206843428313732,John McGinn,h,7723,OpenPlay,2019,LeftFoot,11974,Aston Villa,Manchester United,0,3,2020-07-09 19:15:00,Mbwana Samatta,Pass
+370226,53,SavedShot,0.785,0.650999984741211,0.0158678721636534,John McGinn,h,7723,OpenPlay,2019,LeftFoot,11974,Aston Villa,Manchester United,0,3,2020-07-09 19:15:00,Trézéguet,Pass
+370762,75,SavedShot,0.741999969482422,NaN,0.0252565369009972,John McGinn,h,7723,OpenPlay,2019,LeftFoot,11983,Aston Villa,Crystal Palace,2,0,2020-07-12 13:15:00,Jack Grealish,Pass
+371868,58,MissedShots,0.929000015258789,0.509000015258789,0.140077233314514,John McGinn,a,7723,OpenPlay,2019,Head,11997,Everton,Aston Villa,1,1,2020-07-16 17:00:00,Ahmed Elmohamady,Cross
+373035,6,MissedShots,0.873000030517578,0.544000015258789,0.0329231098294258,John McGinn,h,7723,OpenPlay,2019,Head,12003,Aston Villa,Arsenal,1,0,2020-07-21 19:15:00,Ahmed Elmohamady,Cross
+373048,77,SavedShot,0.810999984741211,0.560999984741211,0.0709788948297501,John McGinn,h,7723,OpenPlay,2019,LeftFoot,12003,Aston Villa,Arsenal,1,0,2020-07-21 19:15:00,Jack Grealish,Pass
+373049,81,MissedShots,0.833000030517578,NaN,0.0570947639644146,John McGinn,h,7723,OpenPlay,2019,LeftFoot,12003,Aston Villa,Arsenal,1,0,2020-07-21 19:15:00,NA,None
+373811,15,MissedShots,0.775,0.684000015258789,0.0203299429267645,John McGinn,a,7723,OpenPlay,2019,LeftFoot,12013,West Ham,Aston Villa,1,1,2020-07-26 15:00:00,Douglas Luiz,Pass
+373816,46,BlockedShot,0.915999984741211,NaN,0.278502970933914,John McGinn,a,7723,OpenPlay,2019,,12013,West Ham,Aston Villa,1,1,2020-07-26 15:00:00,NA,Rebound
+373830,90,BlockedShot,0.743000030517578,0.629000015258789,0.0165624991059303,John McGinn,a,7723,OpenPlay,2019,LeftFoot,12013,West Ham,Aston Villa,1,1,2020-07-26 15:00:00,Keinan Davis,BallRecovery
+378449,1,MissedShots,0.958000030517578,0.714000015258789,0.0192596465349197,John McGinn,h,7723,OpenPlay,2020,LeftFoot,14104,Aston Villa,Sheffield United,1,0,2020-09-21 17:00:00,Matthew Cash,Cross
+378467,84,MissedShots,NaN,0.535999984741211,0.0191749315708876,John McGinn,h,7723,OpenPlay,2020,,14104,Aston Villa,Sheffield United,1,0,2020-09-21 17:00:00,Trézéguet,Pass
+379945,2,BlockedShot,0.751999969482422,0.569000015258789,0.0201678778976202,John McGinn,a,7723,OpenPlay,2020,,14114,Fulham,Aston Villa,0,3,2020-09-28 17:00:00,Ollie Watkins,Pass
+379959,52,SavedShot,NaN,0.688000030517578,0.0838998779654503,John McGinn,a,7723,OpenPlay,2020,LeftFoot,14114,Fulham,Aston Villa,0,3,2020-09-28 17:00:00,Jack Grealish,Pass
+381503,34,Goal,0.754000015258789,0.547000007629394,0.0173905678093433,John McGinn,h,7723,FromCorner,2020,LeftFoot,14466,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,NA,None
+382797,52,MissedShots,0.743000030517578,0.324000015258789,0.0103061804547906,John McGinn,a,7723,SetPiece,2020,RightFoot,14479,Leicester,Aston Villa,0,1,2020-10-18 18:15:00,NA,None
+383014,25,MissedShots,0.755999984741211,0.67,0.0168485902249813,John McGinn,h,7723,OpenPlay,2020,,14486,Aston Villa,Leeds,0,3,2020-10-23 19:00:00,Douglas Luiz,HeadPass
+383042,93,MissedShots,0.745,0.485,0.0221676845103502,John McGinn,h,7723,OpenPlay,2020,LeftFoot,14486,Aston Villa,Leeds,0,3,2020-10-23 19:00:00,Ross Barkley,Pass
+387354,6,MissedShots,0.733000030517578,0.519000015258789,0.0183903630822897,John McGinn,h,7723,OpenPlay,2020,LeftFoot,14515,Aston Villa,Brighton,1,2,2020-11-21 15:00:00,Douglas Luiz,Pass
+389829,47,BlockedShot,NaN,0.345,0.0650820061564445,John McGinn,a,7723,OpenPlay,2020,,14526,West Ham,Aston Villa,2,1,2020-11-30 20:00:00,Jack Grealish,Pass
+54978,78,BlockedShot,0.785999984741211,0.500999984741211,0.0395039319992065,Bertrand Traoré,h,695,OpenPlay,2015,LeftFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,NA,None
+54981,82,Goal,0.929000015258789,NaN,0.515527606010437,Bertrand Traoré,h,695,OpenPlay,2015,LeftFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,César Azpilicueta,Cross
+60891,26,BlockedShot,0.875,0.262999992370605,0.0379178561270237,Bertrand Traoré,a,695,OpenPlay,2015,LeftFoot,353,Norwich,Chelsea,1,2,2016-03-01 23:45:00,Cesc Fàbregas,Pass
+60893,37,BlockedShot,0.864000015258789,0.404000015258789,0.104424670338631,Bertrand Traoré,a,695,OpenPlay,2015,LeftFoot,353,Norwich,Chelsea,1,2,2016-03-01 23:45:00,Cesc Fàbregas,Pass
+60908,56,MissedShots,NaN,0.688000030517578,0.0848391130566597,Bertrand Traoré,a,695,OpenPlay,2015,LeftFoot,353,Norwich,Chelsea,1,2,2016-03-01 23:45:00,Cesc Fàbregas,Pass
+59635,32,BlockedShot,0.903000030517578,0.552000007629394,0.133075430989265,Bertrand Traoré,h,695,OpenPlay,2015,LeftFoot,362,Chelsea,Stoke,1,1,2016-03-05 19:00:00,Oscar,Pass
+59644,38,Goal,0.800999984741211,0.317999992370605,0.0276296008378267,Bertrand Traoré,h,695,OpenPlay,2015,LeftFoot,362,Chelsea,Stoke,1,1,2016-03-05 19:00:00,Nemanja Matic,Pass
+59967,64,BlockedShot,0.849000015258789,0.617000007629395,0.0621972270309925,Bertrand Traoré,h,695,OpenPlay,2015,LeftFoot,376,Chelsea,West Ham,2,2,2016-03-19 19:00:00,Pedro,Pass
+56266,81,SavedShot,NaN,0.494000015258789,0.0199220106005669,Bertrand Traoré,h,695,OpenPlay,2015,LeftFoot,410,Chelsea,Manchester City,0,3,2016-04-16 20:30:00,César Azpilicueta,BallRecovery
+56767,95,SavedShot,0.881999969482422,0.776999969482422,0.0274892449378967,Bertrand Traoré,a,695,OpenPlay,2015,LeftFoot,442,Sunderland,Chelsea,3,2,2016-05-07 18:00:00,Eden Hazard,HeadPass
+61044,7,SavedShot,0.896999969482422,NaN,0.0919951945543289,Bertrand Traoré,a,695,OpenPlay,2015,,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,Eden Hazard,TakeOn
+61075,38,MissedShots,0.905,0.312000007629395,0.0707331523299217,Bertrand Traoré,a,695,OpenPlay,2015,LeftFoot,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,Pedro,Pass
+61090,62,BlockedShot,0.805,0.507000007629395,0.06937275826931,Bertrand Traoré,a,695,OpenPlay,2015,LeftFoot,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,Kenedy,Pass
+61099,71,SavedShot,0.814000015258789,0.464000015258789,0.109831988811493,Bertrand Traoré,a,695,OpenPlay,2015,LeftFoot,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,Pedro,TakeOn
+51997,25,BlockedShot,NaN,0.555999984741211,0.123844765126705,Bertrand Traoré,h,695,OpenPlay,2015,LeftFoot,452,Chelsea,Leicester,1,1,2016-05-15 18:00:00,Pedro,Pass
+51998,27,MissedShots,0.954000015258789,0.564000015258789,0.111706256866455,Bertrand Traoré,h,695,OpenPlay,2015,LeftFoot,452,Chelsea,Leicester,1,1,2016-05-15 18:00:00,NA,None
+51999,29,MissedShots,0.803000030517578,0.339000015258789,0.0293510407209396,Bertrand Traoré,h,695,OpenPlay,2015,LeftFoot,452,Chelsea,Leicester,1,1,2016-05-15 18:00:00,Nemanja Matic,Chipped
+161805,0,SavedShot,0.929000015258789,0.334000015258789,0.0842025950551033,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8567,Lyon,Strasbourg,4,0,2017-08-05 19:00:00,Mariano,TakeOn
+161807,22,BlockedShot,0.868000030517578,0.24,0.0304934494197369,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8567,Lyon,Strasbourg,4,0,2017-08-05 19:00:00,Sergi Darder,TakeOn
+162188,7,BlockedShot,NaN,NaN,0.103858664631844,Bertrand Traoré,a,695,FromCorner,2017,LeftFoot,8576,Rennes,Lyon,1,2,2017-08-11 19:45:00,NA,None
+162190,10,BlockedShot,0.861999969482422,NaN,0.058294627815485,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8576,Rennes,Lyon,1,2,2017-08-11 19:45:00,Sergi Darder,BallRecovery
+162201,40,BlockedShot,0.883000030517578,0.668000030517578,0.0500019714236259,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8576,Rennes,Lyon,1,2,2017-08-11 19:45:00,NA,Rebound
+162313,48,SavedShot,0.951999969482422,0.316000003814697,0.0921191498637199,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8586,Lyon,Bordeaux,3,3,2017-08-19 16:00:00,NA,TakeOn
+162318,66,MissedShots,0.800999984741211,0.133999996185303,0.0326594598591328,Bertrand Traoré,h,695,DirectFreekick,2017,LeftFoot,8586,Lyon,Bordeaux,3,3,2017-08-19 16:00:00,NA,Standard
+162320,73,Goal,0.728000030517578,0.535999984741211,0.052279781550169,Bertrand Traoré,h,695,DirectFreekick,2017,LeftFoot,8586,Lyon,Bordeaux,3,3,2017-08-19 16:00:00,NA,Standard
+162702,9,SavedShot,0.903000030517578,0.287999992370605,0.0445651449263096,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8601,Nantes,Lyon,0,0,2017-08-26 16:15:00,Nabil Fekir,Pass
+162707,21,MissedShots,0.848000030517578,0.54,0.0929614529013634,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8601,Nantes,Lyon,0,0,2017-08-26 16:15:00,Maxwel Cornet,Pass
+162715,57,SavedShot,NaN,0.48,0.0421472825109959,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8601,Nantes,Lyon,0,0,2017-08-26 16:15:00,Lucas Tousart,Pass
+162719,63,MissedShots,0.746999969482422,0.334000015258789,0.0200338270515203,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8601,Nantes,Lyon,0,0,2017-08-26 16:15:00,Nabil Fekir,Pass
+162717,63,ShotOnPost,0.820999984741211,0.31,0.030240572988987,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8601,Nantes,Lyon,0,0,2017-08-26 16:15:00,Maxwel Cornet,Pass
+162831,24,BlockedShot,0.765,0.308999996185303,0.0240240506827831,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8607,Lyon,Guingamp,2,1,2017-09-10 16:00:00,Rafael,Pass
+162845,82,MissedShots,0.678000030517578,0.394000015258789,0.030766049399972,Bertrand Traoré,h,695,DirectFreekick,2017,LeftFoot,8607,Lyon,Guingamp,2,1,2017-09-10 16:00:00,NA,Standard
+163119,5,BlockedShot,0.891999969482422,NaN,0.0724830403923988,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8624,Paris Saint Germain,Lyon,2,0,2017-09-17 20:00:00,Tanguy NDombele Alvaro,Pass
+163144,90,SavedShot,0.86,0.394000015258789,0.071311928331852,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8624,Paris Saint Germain,Lyon,2,0,2017-09-17 20:00:00,Houssem Aouar,Pass
+163145,91,MissedShots,0.820999984741211,NaN,0.0329383835196495,Bertrand Traoré,a,695,OpenPlay,2017,,8624,Paris Saint Germain,Lyon,2,0,2017-09-17 20:00:00,Nabil Fekir,Pass
+163474,3,SavedShot,0.929000015258789,0.447000007629395,0.100392661988735,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8629,Lyon,Dijon,3,3,2017-09-23 19:00:00,NA,None
+163486,46,MissedShots,0.825,0.34,0.109956540167332,Bertrand Traoré,h,695,DirectFreekick,2017,,8629,Lyon,Dijon,3,3,2017-09-23 19:00:00,NA,Standard
+163889,3,BlockedShot,0.729000015258789,0.246000003814697,0.00882424600422382,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8636,Angers,Lyon,3,3,2017-10-01 16:00:00,NA,None
+163852,5,BlockedShot,0.925,0.273999996185303,0.0431993156671524,Bertrand Traoré,h,695,OpenPlay,2017,RightFoot,8649,Lyon,Monaco,3,2,2017-10-13 19:45:00,Nabil Fekir,None
+163854,5,ShotOnPost,NaN,0.640999984741211,0.0667367875576019,Bertrand Traoré,h,695,FromCorner,2017,LeftFoot,8649,Lyon,Monaco,3,2,2017-10-13 19:45:00,NA,Rebound
+163865,31,MissedShots,0.806999969482422,0.347999992370605,0.041983425617218,Bertrand Traoré,h,695,OpenPlay,2017,,8649,Lyon,Monaco,3,2,2017-10-13 19:45:00,Nabil Fekir,Pass
+164295,20,Goal,0.948000030517578,NaN,0.56652307510376,Bertrand Traoré,a,695,OpenPlay,2017,RightFoot,8663,Troyes,Lyon,0,5,2017-10-22 16:00:00,Fernando Marçal,Cross
+164304,62,MissedShots,0.830999984741211,0.392000007629395,0.0952772796154022,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8663,Troyes,Lyon,0,5,2017-10-22 16:00:00,NA,TakeOn
+164565,36,MissedShots,0.760999984741211,0.337999992370605,0.0502437800168991,Bertrand Traoré,h,695,OpenPlay,2017,,8670,Lyon,Metz,2,0,2017-10-29 14:00:00,Kenny Tete,Chipped
+164441,12,MissedShots,0.883000030517578,0.439000015258789,0.0500431209802628,Bertrand Traoré,a,695,FromCorner,2017,LeftFoot,8684,Saint-Etienne,Lyon,0,5,2017-11-05 20:00:00,Nabil Fekir,Cross
+164448,30,BlockedShot,NaN,0.282000007629395,0.03107082657516,Bertrand Traoré,a,695,OpenPlay,2017,,8684,Saint-Etienne,Lyon,0,5,2017-11-05 20:00:00,Houssem Aouar,Chipped
+164455,45,MissedShots,0.871999969482422,NaN,0.132606908679008,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8684,Saint-Etienne,Lyon,0,5,2017-11-05 20:00:00,Mariano,Pass
+164458,60,SavedShot,0.950999984741211,0.38,0.0963275730609894,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8684,Saint-Etienne,Lyon,0,5,2017-11-05 20:00:00,Memphis Depay,TakeOn
+164460,64,Goal,0.874000015258789,0.345,0.110529482364655,Bertrand Traoré,a,695,OpenPlay,2017,,8684,Saint-Etienne,Lyon,0,5,2017-11-05 20:00:00,Mariano,Pass
+164821,70,BlockedShot,0.873000030517578,0.317999992370605,0.0690599530935287,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8693,Lyon,Montpellier,0,0,2017-11-19 16:00:00,Houssem Aouar,TakeOn
+188369,93,SavedShot,0.935,0.305,0.0773232355713844,Bertrand Traoré,a,695,OpenPlay,2017,,8768,Guingamp,Lyon,0,2,2018-01-17 18:00:00,Amine Gouiri,Pass
+190440,77,BlockedShot,0.810999984741211,0.302999992370605,0.0785778313875198,Bertrand Traoré,a,695,DirectFreekick,2017,LeftFoot,8786,Bordeaux,Lyon,3,1,2018-01-28 00:00:00,NA,Standard
+194529,26,Goal,0.96,NaN,0.496148973703384,Bertrand Traoré,a,695,OpenPlay,2017,,8804,Monaco,Lyon,3,2,2018-02-04 20:00:00,Ferland Mendy,Cross
+194538,63,MissedShots,0.915,0.400999984741211,0.0333900228142738,Bertrand Traoré,a,695,OpenPlay,2017,,8804,Monaco,Lyon,3,2,2018-02-04 20:00:00,Ferland Mendy,Aerial
+194283,11,BlockedShot,0.915,NaN,0.0224137660115957,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8809,Lyon,Rennes,0,2,2018-02-11 20:00:00,Kenny Tete,HeadPass
+194289,36,SavedShot,0.835,0.315,0.0329001434147358,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8809,Lyon,Rennes,0,2,2018-02-11 20:00:00,Tanguy NDombele Alvaro,Pass
+194292,40,SavedShot,0.835,0.222000007629395,0.0196884013712406,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8809,Lyon,Rennes,0,2,2018-02-11 20:00:00,Tanguy NDombele Alvaro,Pass
+194299,59,SavedShot,0.865999984741211,0.587000007629395,0.10628018528223,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8809,Lyon,Rennes,0,2,2018-02-11 20:00:00,Houssem Aouar,Throughball
+196802,17,MissedShots,0.805999984741211,0.370999984741211,0.0375684648752213,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8818,Lille,Lyon,2,2,2018-02-18 16:00:00,Rafael,Pass
+196804,20,Goal,0.971999969482422,0.567000007629395,0.575783967971802,Bertrand Traoré,a,695,OpenPlay,2017,,8818,Lille,Lyon,2,2,2018-02-18 16:00:00,NA,None
+196807,43,Goal,0.899000015258789,0.547999992370605,0.135956153273582,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8818,Lille,Lyon,2,2,2018-02-18 16:00:00,Fernando Marçal,Pass
+196808,46,MissedShots,0.785999984741211,0.389000015258789,0.0434906519949436,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8818,Lille,Lyon,2,2,2018-02-18 16:00:00,Memphis Depay,Pass
+199491,54,BlockedShot,0.87,NaN,0.0424552299082279,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8842,Montpellier,Lyon,1,1,2018-03-04 16:00:00,Tanguy NDombele Alvaro,Pass
+200807,18,MissedShots,0.795999984741211,0.246000003814697,0.0525545291602612,Bertrand Traoré,h,695,DirectFreekick,2017,LeftFoot,8849,Lyon,Caen,1,0,2018-03-11 16:00:00,NA,Standard
+200813,40,MissedShots,0.911999969482422,NaN,0.282808631658554,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8849,Lyon,Caen,1,0,2018-03-11 16:00:00,Mariano,Chipped
+200819,62,Goal,0.9,0.510999984741211,0.444352895021439,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8849,Lyon,Caen,1,0,2018-03-11 16:00:00,NA,None
+200818,62,BlockedShot,0.718000030517578,0.256000003814697,0.0133395558223128,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8849,Lyon,Caen,1,0,2018-03-11 16:00:00,Rafael,Pass
+202314,27,SavedShot,0.819000015258789,0.485,0.21112722158432,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8857,Marseille,Lyon,2,3,2018-03-18 20:00:00,Mariano,TakeOn
+202322,69,SavedShot,0.885999984741211,0.587999992370606,0.085003525018692,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8857,Marseille,Lyon,2,3,2018-03-18 20:00:00,Houssem Aouar,Cross
+204261,17,MissedShots,0.963000030517578,0.324000015258789,0.0554867684841156,Bertrand Traoré,h,695,FromCorner,2017,RightFoot,8869,Lyon,Toulouse,2,0,2018-04-01 20:00:00,Memphis Depay,Rebound
+204271,47,BlockedShot,0.875999984741211,0.286000003814697,0.0846636891365051,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8869,Lyon,Toulouse,2,0,2018-04-01 20:00:00,Memphis Depay,TakeOn
+207192,5,BlockedShot,0.875999984741211,NaN,0.0865476876497269,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8879,Metz,Lyon,0,5,2018-04-08 15:00:00,NA,BallRecovery
+207204,67,Goal,0.88,0.595999984741211,0.122407555580139,Bertrand Traoré,a,695,OpenPlay,2017,,8879,Metz,Lyon,0,5,2018-04-08 15:00:00,Memphis Depay,Pass
+208546,4,MissedShots,0.901999969482422,NaN,0.0569673255085945,Bertrand Traoré,h,695,OpenPlay,2017,,8889,Lyon,Amiens,3,0,2018-04-14 15:00:00,NA,None
+208547,15,MissedShots,NaN,0.377000007629395,0.04142776876688,Bertrand Traoré,h,695,OpenPlay,2017,,8889,Lyon,Amiens,3,0,2018-04-14 15:00:00,Mariano,Pass
+208555,56,MissedShots,NaN,NaN,0.0755190327763557,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8889,Lyon,Amiens,3,0,2018-04-14 15:00:00,Mariano,Pass
+208560,70,SavedShot,0.834000015258789,0.460999984741211,0.124762527644634,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8889,Lyon,Amiens,3,0,2018-04-14 15:00:00,Memphis Depay,TakeOn
+208570,84,Goal,0.911999969482422,0.454000015258789,0.553812265396118,Bertrand Traoré,h,695,OpenPlay,2017,RightFoot,8889,Lyon,Amiens,3,0,2018-04-14 15:00:00,NA,None
+210205,27,BlockedShot,0.84,0.350999984741211,0.041456650942564,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8902,Dijon,Lyon,2,5,2018-04-20 00:00:00,Tanguy NDombele Alvaro,Pass
+210227,76,Goal,0.841999969482422,0.5,0.104403540492058,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8902,Dijon,Lyon,2,5,2018-04-20 00:00:00,Maxwel Cornet,Pass
+210228,81,BlockedShot,0.895999984741211,0.472000007629395,0.146968960762024,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8902,Dijon,Lyon,2,5,2018-04-20 00:00:00,Houssem Aouar,Chipped
+211760,6,SavedShot,0.795,0.262000007629395,0.0149776060134172,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8909,Lyon,Nantes,2,0,2018-04-28 18:00:00,NA,None
+211763,11,ShotOnPost,0.951999969482422,NaN,0.644976615905762,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8909,Lyon,Nantes,2,0,2018-04-28 18:00:00,NA,Rebound
+211770,30,MissedShots,0.878000030517578,0.627000007629395,0.0664608925580978,Bertrand Traoré,h,695,SetPiece,2017,LeftFoot,8909,Lyon,Nantes,2,0,2018-04-28 18:00:00,Memphis Depay,Chipped
+211771,32,SavedShot,0.833000030517578,0.559000015258789,0.258620917797089,Bertrand Traoré,h,695,OpenPlay,2017,,8909,Lyon,Nantes,2,0,2018-04-28 18:00:00,Memphis Depay,Pass
+211785,67,Goal,0.86,NaN,0.0933851227164268,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8909,Lyon,Nantes,2,0,2018-04-28 18:00:00,Memphis Depay,BallTouch
+211786,69,SavedShot,0.851999969482422,NaN,0.120387099683285,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8909,Lyon,Nantes,2,0,2018-04-28 18:00:00,Memphis Depay,Pass
+213811,27,Goal,0.961999969482422,0.532000007629394,0.150093272328377,Bertrand Traoré,h,695,FromCorner,2017,LeftFoot,8918,Lyon,Troyes,3,0,2018-05-06 15:30:00,Houssem Aouar,Rebound
+213812,30,MissedShots,0.851999969482422,0.369000015258789,0.0821698307991028,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8918,Lyon,Troyes,3,0,2018-05-06 15:30:00,Tanguy NDombele Alvaro,Pass
+213814,34,Goal,0.944000015258789,0.497000007629395,0.575143158435822,Bertrand Traoré,h,695,OpenPlay,2017,Head,8918,Lyon,Troyes,3,0,2018-05-06 15:30:00,Ferland Mendy,Aerial
+213823,52,MissedShots,0.819000015258789,0.301000003814697,0.0432146526873112,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8918,Lyon,Troyes,3,0,2018-05-06 15:30:00,Tanguy NDombele Alvaro,Pass
+213836,90,BlockedShot,0.825,0.32,0.0503166951239109,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8918,Lyon,Troyes,3,0,2018-05-06 15:30:00,Jordan Ferri,Pass
+215061,34,BlockedShot,0.740999984741211,0.55,0.0196584463119507,Bertrand Traoré,a,695,OpenPlay,2017,,8930,Strasbourg,Lyon,3,2,2018-05-12 20:00:00,Memphis Depay,Pass
+215068,70,MissedShots,0.943000030517578,0.31,0.0547739453613758,Bertrand Traoré,a,695,OpenPlay,2017,LeftFoot,8930,Strasbourg,Lyon,3,2,2018-05-12 20:00:00,Tanguy NDombele Alvaro,Chipped
+216135,31,ShotOnPost,0.929000015258789,0.622999992370605,0.0703454613685608,Bertrand Traoré,h,695,OpenPlay,2017,LeftFoot,8936,Lyon,Nice,3,2,2018-05-19 19:00:00,Ferland Mendy,Cross
+216136,38,BlockedShot,0.805999984741211,0.370999984741211,0.0386484824120998,Bertrand Traoré,h,695,OpenPlay,2017,,8936,Lyon,Nice,3,2,2018-05-19 19:00:00,Houssem Aouar,Pass
+217637,20,SavedShot,0.855999984741211,0.404000015258789,0.321896433830261,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10650,Lyon,Amiens,2,0,2018-08-12 16:00:00,Memphis Depay,Throughball
+217638,23,Goal,0.96,0.360999984741211,0.131169602274895,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10650,Lyon,Amiens,2,0,2018-08-12 16:00:00,Tanguy NDombele Alvaro,TakeOn
+217639,27,SavedShot,0.91,0.292999992370605,0.0567507147789001,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10650,Lyon,Amiens,2,0,2018-08-12 16:00:00,Jérémy Morel,Chipped
+217642,41,MissedShots,0.736999969482422,0.282999992370605,0.0384946390986443,Bertrand Traoré,h,695,DirectFreekick,2018,,10650,Lyon,Amiens,2,0,2018-08-12 16:00:00,NA,Standard
+217872,52,MissedShots,0.851999969482422,0.301000003814697,0.0364661663770676,Bertrand Traoré,a,695,OpenPlay,2018,LeftFoot,10653,Reims,Lyon,1,0,2018-08-17 21:45:00,NA,TakeOn
+217877,62,BlockedShot,0.889000015258789,NaN,0.0788697153329849,Bertrand Traoré,a,695,OpenPlay,2018,,10653,Reims,Lyon,1,0,2018-08-17 21:45:00,Houssem Aouar,None
+219822,5,BlockedShot,0.89,0.288999996185303,0.0386278629302979,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10663,Lyon,Strasbourg,2,0,2018-08-24 21:45:00,Memphis Depay,Pass
+219823,6,SavedShot,0.755999984741211,0.221000003814697,0.00949972402304411,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10663,Lyon,Strasbourg,2,0,2018-08-24 21:45:00,NA,None
+219832,31,BlockedShot,0.954000015258789,0.509000015258789,0.0858571007847786,Bertrand Traoré,h,695,FromCorner,2018,Head,10663,Lyon,Strasbourg,2,0,2018-08-24 21:45:00,Memphis Depay,Aerial
+219835,49,SavedShot,0.883000030517578,0.295,0.0574724823236465,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10663,Lyon,Strasbourg,2,0,2018-08-24 21:45:00,Martin Terrier,Pass
+219838,56,MissedShots,0.803000030517578,0.291000003814697,0.0321154296398163,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10663,Lyon,Strasbourg,2,0,2018-08-24 21:45:00,Memphis Depay,LayOff
+219839,61,SavedShot,NaN,0.288999996185303,0.0617100819945335,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10663,Lyon,Strasbourg,2,0,2018-08-24 21:45:00,Pape Cheikh,Pass
+219841,63,Goal,NaN,NaN,0.258035689592361,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10663,Lyon,Strasbourg,2,0,2018-08-24 21:45:00,Memphis Depay,TakeOn
+219843,70,SavedShot,0.823000030517578,0.462999992370605,0.0767610967159271,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10663,Lyon,Strasbourg,2,0,2018-08-24 21:45:00,NA,BallTouch
+221347,11,MissedShots,0.748000030517578,0.332999992370605,0.0199004113674164,Bertrand Traoré,h,695,OpenPlay,2018,,10673,Lyon,Nice,0,1,2018-08-31 21:45:00,Rafael,Pass
+221354,38,BlockedShot,0.84,0.572999992370606,0.0440120510756969,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10673,Lyon,Nice,0,1,2018-08-31 21:45:00,Martin Terrier,Cross
+223673,67,SavedShot,0.830999984741211,0.332999992370605,0.0382880009710789,Bertrand Traoré,a,695,OpenPlay,2018,LeftFoot,10685,Caen,Lyon,2,2,2018-09-15 15:00:00,NA,None
+226102,50,Goal,0.871999969482422,NaN,0.0413574688136578,Bertrand Traoré,h,695,OpenPlay,2018,,10702,Lyon,Marseille,4,2,2018-09-23 19:00:00,Tanguy NDombele Alvaro,Chipped
+226106,59,Goal,0.871999969482422,0.392000007629395,0.102623522281647,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10702,Lyon,Marseille,4,2,2018-09-23 19:00:00,Nabil Fekir,Pass
+226107,64,MissedShots,0.921999969482422,NaN,0.0313666872680187,Bertrand Traoré,h,695,FromCorner,2018,Head,10702,Lyon,Marseille,4,2,2018-09-23 19:00:00,Nabil Fekir,Cross
+226536,9,MissedShots,NaN,0.25,0.0212514419108629,Bertrand Traoré,a,695,OpenPlay,2018,LeftFoot,10706,Dijon,Lyon,0,3,2018-09-26 17:00:00,Rafael,Pass
+226548,38,MissedShots,NaN,0.375,0.229324772953987,Bertrand Traoré,a,695,OpenPlay,2018,LeftFoot,10706,Dijon,Lyon,0,3,2018-09-26 17:00:00,Houssem Aouar,Pass
+228335,45,MissedShots,0.845,0.332000007629395,0.0234113112092018,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10716,Lyon,Nantes,1,1,2018-09-29 18:00:00,NA,Aerial
+228340,54,BlockedShot,0.799000015258789,NaN,0.0568198822438717,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10716,Lyon,Nantes,1,1,2018-09-29 18:00:00,Memphis Depay,Pass
+228346,68,MissedShots,0.798000030517578,NaN,0.0325550511479378,Bertrand Traoré,h,695,FromCorner,2018,LeftFoot,10716,Lyon,Nantes,1,1,2018-09-29 18:00:00,Memphis Depay,Pass
+228352,82,MissedShots,0.92,0.447000007629395,0.239128544926643,Bertrand Traoré,h,695,OpenPlay,2018,Head,10716,Lyon,Nantes,1,1,2018-09-29 18:00:00,Memphis Depay,BallTouch
+260681,21,MissedShots,0.87,0.108999996185303,0.0381039455533028,Bertrand Traoré,a,695,DirectFreekick,2018,LeftFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,NA,Standard
+260684,37,MissedShots,0.818000030517578,0.442999992370605,0.0470938421785831,Bertrand Traoré,a,695,OpenPlay,2018,LeftFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Lucas Tousart,BallRecovery
+260701,75,BlockedShot,0.881999969482422,NaN,0.0662946328520775,Bertrand Traoré,a,695,OpenPlay,2018,LeftFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Léo Dubois,Pass
+261244,50,BlockedShot,0.885999984741211,NaN,0.0388805270195007,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10755,Lyon,Bordeaux,1,1,2018-11-03 16:00:00,Houssem Aouar,Pass
+261939,34,BlockedShot,0.945999984741211,0.405999984741211,0.108640268445015,Bertrand Traoré,a,695,OpenPlay,2018,LeftFoot,10784,Lille,Lyon,2,2,2018-12-01 16:00:00,Martin Terrier,Pass
+261944,54,MissedShots,0.923000030517578,0.32,0.292626470327377,Bertrand Traoré,a,695,OpenPlay,2018,LeftFoot,10784,Lille,Lyon,2,2,2018-12-01 16:00:00,Memphis Depay,Throughball
+261948,62,Goal,0.893000030517578,NaN,0.100292228162289,Bertrand Traoré,a,695,OpenPlay,2018,LeftFoot,10784,Lille,Lyon,2,2,2018-12-01 16:00:00,Memphis Depay,Pass
+262392,3,SavedShot,0.781999969482422,0.287000007629395,0.0245211608707905,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10794,Lyon,Rennes,0,2,2018-12-05 18:00:00,NA,TakeOn
+262402,46,ShotOnPost,0.969000015258789,0.440999984741211,0.614888966083527,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10794,Lyon,Rennes,0,2,2018-12-05 18:00:00,Kenny Tete,Pass
+262406,59,MissedShots,0.890999984741211,0.632999992370605,0.0918093174695969,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10794,Lyon,Rennes,0,2,2018-12-05 18:00:00,Ferland Mendy,Pass
+262413,80,BlockedShot,0.883000030517578,0.41,0.0648396462202072,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10794,Lyon,Rennes,0,2,2018-12-05 18:00:00,Nabil Fekir,HeadPass
+262619,25,SavedShot,0.871999969482422,0.349000015258789,0.0747820436954498,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10817,Lyon,Monaco,3,0,2018-12-16 12:00:00,Kenny Tete,Pass
+262836,77,SavedShot,0.773000030517578,0.452000007629395,0.0398482419550419,Bertrand Traoré,a,695,OpenPlay,2018,LeftFoot,10827,Montpellier,Lyon,1,1,2018-12-22 19:00:00,Lucas Tousart,Pass
+282104,17,MissedShots,0.868000030517578,0.542999992370605,0.24382072687149,Bertrand Traoré,h,695,OpenPlay,2018,,10834,Lyon,Reims,1,1,2019-01-11 19:45:00,Ferland Mendy,Pass
+282113,50,SavedShot,0.803000030517578,0.572999992370606,0.298453360795975,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10834,Lyon,Reims,1,1,2019-01-11 19:45:00,Maxwel Cornet,Throughball
+282118,69,Goal,0.885999984741211,NaN,0.0948752388358116,Bertrand Traoré,h,695,OpenPlay,2018,RightFoot,10834,Lyon,Reims,1,1,2019-01-11 19:45:00,Moussa Dembele,Pass
+282329,35,MissedShots,0.915,0.372999992370605,0.0302256420254707,Bertrand Traoré,a,695,OpenPlay,2018,Head,10812,Toulouse,Lyon,2,2,2019-01-16 18:00:00,Memphis Depay,Chipped
+282339,76,BlockedShot,0.860999984741211,0.617000007629395,0.0709287226200104,Bertrand Traoré,a,695,OpenPlay,2018,RightFoot,10812,Toulouse,Lyon,2,2,2019-01-16 18:00:00,Moussa Dembele,Pass
+282340,81,SavedShot,0.95,NaN,0.058350995182991,Bertrand Traoré,a,695,OpenPlay,2018,Head,10812,Toulouse,Lyon,2,2,2019-01-16 18:00:00,NA,None
+282342,83,MissedShots,0.964000015258789,0.276000003814697,0.0456276163458824,Bertrand Traoré,a,695,OpenPlay,2018,,10812,Toulouse,Lyon,2,2,2019-01-16 18:00:00,Memphis Depay,Pass
+283050,17,SavedShot,0.900999984741211,NaN,0.0984608307480812,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Memphis Depay,Cross
+283053,23,SavedShot,0.868000030517578,0.298999996185303,0.0418861396610737,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Jason Denayer,Pass
+283058,38,MissedShots,0.94,0.301000003814697,0.0647562816739082,Bertrand Traoré,h,695,OpenPlay,2018,RightFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Moussa Dembele,Pass
+283319,25,SavedShot,0.918000030517578,0.374000015258789,0.0783377885818481,Bertrand Traoré,a,695,OpenPlay,2018,,10878,Nice,Lyon,1,0,2019-02-10 20:00:00,NA,None
+283333,56,BlockedShot,0.851999969482422,0.277000007629395,0.0266604796051979,Bertrand Traoré,a,695,OpenPlay,2018,LeftFoot,10878,Nice,Lyon,1,0,2019-02-10 20:00:00,Léo Dubois,Pass
+283398,13,BlockedShot,0.856999969482422,NaN,0.0484990067780018,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10887,Lyon,Guingamp,2,1,2019-02-15 19:45:00,Houssem Aouar,Pass
+283903,77,SavedShot,NaN,0.31,0.0402078106999397,Bertrand Traoré,a,695,OpenPlay,2018,LeftFoot,10902,Monaco,Lyon,2,0,2019-02-24 20:00:00,Memphis Depay,TakeOn
+283906,87,SavedShot,0.785,0.38,0.0197588540613651,Bertrand Traoré,a,695,SetPiece,2018,LeftFoot,10902,Monaco,Lyon,2,0,2019-02-24 20:00:00,NA,None
+284047,29,Goal,0.760999984741211,NaN,0.00960819516330957,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10909,Lyon,Toulouse,5,1,2019-03-03 16:00:00,Léo Dubois,Pass
+284050,38,SavedShot,0.864000015258789,NaN,0.0818342715501785,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10909,Lyon,Toulouse,5,1,2019-03-03 16:00:00,Marcelo,Chipped
+284631,82,BlockedShot,0.839000015258789,0.307000007629395,0.0342762321233749,Bertrand Traoré,a,695,OpenPlay,2018,LeftFoot,10913,Strasbourg,Lyon,2,2,2019-03-09 16:00:00,Léo Dubois,Pass
+284636,89,BlockedShot,0.805999984741211,0.334000015258789,0.0306991152465343,Bertrand Traoré,a,695,OpenPlay,2018,LeftFoot,10913,Strasbourg,Lyon,2,2,2019-03-09 16:00:00,Houssem Aouar,Pass
+287104,44,MissedShots,0.845,0.302999992370605,0.0340270698070526,Bertrand Traoré,h,695,OpenPlay,2018,,10926,Lyon,Montpellier,3,2,2019-03-17 13:30:00,Tanguy NDombele Alvaro,Pass
+287110,58,MissedShots,0.810999984741211,0.402999992370605,0.0620058588683605,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10926,Lyon,Montpellier,3,2,2019-03-17 13:30:00,NA,BallTouch
+287115,73,SavedShot,0.850999984741211,NaN,0.053003303706646,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10926,Lyon,Montpellier,3,2,2019-03-17 13:30:00,Houssem Aouar,Pass
+297804,79,MissedShots,0.875999984741211,0.374000015258789,0.0769940689206123,Bertrand Traoré,a,695,OpenPlay,2018,LeftFoot,10981,Bordeaux,Lyon,2,3,2019-04-26 19:45:00,Memphis Depay,TakeOn
+300307,18,BlockedShot,0.801999969482422,0.273999996185303,0.0243871957063675,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10989,Lyon,Lille,2,2,2019-05-05 20:00:00,Memphis Depay,Pass
+302850,85,SavedShot,0.860999984741211,NaN,0.0912491753697395,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,11006,Lyon,Caen,4,0,2019-05-18 19:00:00,Martin Terrier,TakeOn
+303621,77,SavedShot,0.934000015258789,NaN,0.0345868282020092,Bertrand Traoré,a,695,OpenPlay,2018,LeftFoot,11020,Nimes,Lyon,2,3,2019-05-24 19:05:00,Memphis Depay,Pass
+303626,87,BlockedShot,0.805,0.382999992370605,0.038067489862442,Bertrand Traoré,a,695,OpenPlay,2018,LeftFoot,11020,Nimes,Lyon,2,3,2019-05-24 19:05:00,Lucas Tousart,Pass
+309880,58,MissedShots,0.75,0.457999992370605,0.0256426390260458,Bertrand Traoré,a,695,OpenPlay,2019,LeftFoot,12709,Monaco,Lyon,0,3,2019-08-09 19:45:00,Thiago Mendes,BallTouch
+309885,65,MissedShots,0.951999969482422,NaN,0.0184803623706102,Bertrand Traoré,a,695,FromCorner,2019,,12709,Monaco,Lyon,0,3,2019-08-09 19:45:00,Memphis Depay,Aerial
+310350,58,SavedShot,NaN,0.302999992370605,0.0723015069961548,Bertrand Traoré,h,695,OpenPlay,2019,LeftFoot,12719,Lyon,Angers,6,0,2019-08-16 19:45:00,Memphis Depay,Pass
+316956,44,MissedShots,0.951999969482422,0.33,0.129563510417938,Bertrand Traoré,a,695,OpenPlay,2019,LeftFoot,12757,Amiens,Lyon,2,2,2019-09-13 18:45:00,Martin Terrier,TakeOn
+321735,3,SavedShot,0.849000015258789,0.282000007629395,0.0360910184681416,Bertrand Traoré,a,695,OpenPlay,2019,LeftFoot,12770,Brest,Lyon,2,2,2019-09-25 17:00:00,Maxwel Cornet,BallRecovery
+321744,34,ShotOnPost,0.841999969482422,0.494000015258789,0.0129600707441568,Bertrand Traoré,a,695,OpenPlay,2019,Head,12770,Brest,Lyon,2,2,2019-09-25 17:00:00,Maxwel Cornet,Cross
+321751,65,BlockedShot,0.931999969482422,NaN,0.0546045526862144,Bertrand Traoré,a,695,FromCorner,2019,Head,12770,Brest,Lyon,2,2,2019-09-25 17:00:00,Memphis Depay,Aerial
+322386,24,BlockedShot,0.911999969482422,0.569000015258789,0.101899519562721,Bertrand Traoré,h,695,OpenPlay,2019,RightFoot,12784,Lyon,Nantes,0,1,2019-09-28 11:30:00,Fernando Marçal,Cross
+322392,45,SavedShot,0.956999969482422,0.317999992370605,0.059215422719717,Bertrand Traoré,h,695,OpenPlay,2019,LeftFoot,12784,Lyon,Nantes,0,1,2019-09-28 11:30:00,Memphis Depay,Pass
+325746,61,MissedShots,0.770999984741211,0.345,0.0212726201862097,Bertrand Traoré,h,695,OpenPlay,2019,LeftFoot,12807,Lyon,Dijon,0,0,2019-10-19 16:30:00,NA,Tackle
+325757,89,BlockedShot,0.803000030517578,0.355,0.0355576351284981,Bertrand Traoré,h,695,OpenPlay,2019,LeftFoot,12807,Lyon,Dijon,0,0,2019-10-19 16:30:00,NA,Dispossessed
+325759,91,SavedShot,0.86,0.38,0.00897843670099974,Bertrand Traoré,h,695,OpenPlay,2019,Head,12807,Lyon,Dijon,0,0,2019-10-19 16:30:00,Fernando Marçal,Aerial
+331713,31,BlockedShot,0.899000015258789,0.322000007629395,0.0609876811504364,Bertrand Traoré,a,695,OpenPlay,2019,LeftFoot,12829,Marseille,Lyon,2,1,2019-11-10 20:00:00,Jeff Reine-Adelaide,TakeOn
+331719,46,SavedShot,0.769000015258789,0.322000007629395,0.0581566579639912,Bertrand Traoré,a,695,DirectFreekick,2019,LeftFoot,12829,Marseille,Lyon,2,1,2019-11-10 20:00:00,NA,Standard
+331718,46,MissedShots,0.880999984741211,NaN,0.0586908347904682,Bertrand Traoré,a,695,OpenPlay,2019,RightFoot,12829,Marseille,Lyon,2,1,2019-11-10 20:00:00,Maxwel Cornet,None
+332350,22,SavedShot,0.800999984741211,NaN,0.0330418162047863,Bertrand Traoré,h,695,OpenPlay,2019,LeftFoot,12841,Lyon,Nice,2,1,2019-11-23 16:30:00,Joachim Andersen,Pass
+332361,56,BlockedShot,0.875999984741211,0.307000007629395,0.046389389783144,Bertrand Traoré,h,695,SetPiece,2019,LeftFoot,12841,Lyon,Nice,2,1,2019-11-23 16:30:00,Thiago Mendes,Chipped
+332366,67,MissedShots,0.866999969482422,0.32,0.0500227734446526,Bertrand Traoré,h,695,OpenPlay,2019,LeftFoot,12841,Lyon,Nice,2,1,2019-11-23 16:30:00,Martin Terrier,TakeOn
+335333,30,BlockedShot,NaN,0.320999984741211,0.107351891696453,Bertrand Traoré,a,695,OpenPlay,2019,LeftFoot,12869,Nimes,Lyon,0,4,2019-12-06 19:45:00,NA,TakeOn
+335336,44,SavedShot,0.955999984741211,0.494000015258789,0.686468005180359,Bertrand Traoré,a,695,OpenPlay,2019,LeftFoot,12869,Nimes,Lyon,0,4,2019-12-06 19:45:00,Kenny Tete,Pass
+335339,56,MissedShots,0.818000030517578,0.490999984741211,0.0717156752943993,Bertrand Traoré,a,695,OpenPlay,2019,LeftFoot,12869,Nimes,Lyon,0,4,2019-12-06 19:45:00,NA,None
+335343,62,BlockedShot,0.780999984741211,0.31,0.0290158838033676,Bertrand Traoré,a,695,OpenPlay,2019,LeftFoot,12869,Nimes,Lyon,0,4,2019-12-06 19:45:00,Kenny Tete,Pass
+337696,37,BlockedShot,0.848000030517578,0.315,0.036846112459898,Bertrand Traoré,h,695,OpenPlay,2019,LeftFoot,12881,Lyon,Rennes,0,1,2019-12-15 16:00:00,Lucas Tousart,Chipped
+337706,83,SavedShot,0.913000030517578,0.325,0.280981093645096,Bertrand Traoré,h,695,OpenPlay,2019,RightFoot,12881,Lyon,Rennes,0,1,2019-12-15 16:00:00,NA,Rebound
+338953,3,BlockedShot,0.801999969482422,0.445,0.046636201441288,Bertrand Traoré,a,695,OpenPlay,2019,LeftFoot,12894,Reims,Lyon,1,1,2019-12-21 19:45:00,Thiago Mendes,Pass
+338954,5,ShotOnPost,0.890999984741211,0.297000007629395,0.0498992465436459,Bertrand Traoré,a,695,OpenPlay,2019,LeftFoot,12894,Reims,Lyon,1,1,2019-12-21 19:45:00,Moussa Dembele,Pass
+338971,73,SavedShot,0.76,0.412999992370605,0.0260691940784454,Bertrand Traoré,a,695,OpenPlay,2019,LeftFoot,12894,Reims,Lyon,1,1,2019-12-21 19:45:00,Thiago Mendes,Pass
+354169,9,BlockedShot,0.806999969482422,0.475,0.144531831145287,Bertrand Traoré,a,695,DirectFreekick,2019,,12901,Bordeaux,Lyon,1,2,2020-01-11 16:30:00,NA,Standard
+356198,89,MissedShots,0.871999969482422,0.352999992370605,0.0955616757273674,Bertrand Traoré,h,695,OpenPlay,2019,LeftFoot,12916,Lyon,Toulouse,3,0,2020-01-26 14:00:00,Mathis Cherki,Pass
+357690,46,MissedShots,0.92,0.375,0.0156457256525755,Bertrand Traoré,h,695,OpenPlay,2019,Head,12937,Lyon,Amiens,0,0,2020-02-05 18:00:00,Karl Toko Ekambi,Aerial
+357694,65,MissedShots,0.809000015258789,0.674000015258789,0.0272337235510349,Bertrand Traoré,h,695,OpenPlay,2019,LeftFoot,12937,Lyon,Amiens,0,0,2020-02-05 18:00:00,Karl Toko Ekambi,Pass
+359300,20,Goal,0.945999984741211,0.48,0.524629294872284,Bertrand Traoré,h,695,OpenPlay,2019,,12954,Lyon,Strasbourg,1,1,2020-02-16 14:00:00,Maxwel Cornet,Cross
+359301,31,MissedShots,NaN,0.407000007629395,0.274025470018387,Bertrand Traoré,h,695,OpenPlay,2019,Head,12954,Lyon,Strasbourg,1,1,2020-02-16 14:00:00,Fernando Marçal,Cross
+361487,29,BlockedShot,0.806999969482422,0.449000015258789,0.024504367262125,Bertrand Traoré,h,695,OpenPlay,2019,LeftFoot,12969,Lyon,Saint-Etienne,2,0,2020-03-01 19:00:00,NA,Aerial
+361489,33,SavedShot,0.856999969482422,0.577999992370606,0.101367488503456,Bertrand Traoré,h,695,OpenPlay,2019,LeftFoot,12969,Lyon,Saint-Etienne,2,0,2020-03-01 19:00:00,Bruno Guimarães,Pass
+362435,91,MissedShots,0.898000030517578,NaN,0.255291342735291,Bertrand Traoré,a,695,OpenPlay,2019,,12982,Lille,Lyon,1,0,2020-03-08 19:00:00,Martin Terrier,TakeOn
+381521,92,BlockedShot,0.846999969482422,0.306000003814697,0.0451031289994717,Bertrand Traoré,h,695,OpenPlay,2020,,14466,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,Ahmed Elmohamady,Pass
+382810,89,SavedShot,0.888000030517578,0.452000007629395,0.0556903630495071,Bertrand Traoré,a,695,OpenPlay,2020,Head,14479,Leicester,Aston Villa,0,1,2020-10-18 18:15:00,John McGinn,Cross
+384952,23,BlockedShot,0.816999969482422,0.499000015258789,0.0518123507499695,Bertrand Traoré,h,695,SetPiece,2020,LeftFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Ross Barkley,Pass
+387359,22,SavedShot,0.781999969482422,0.379000015258789,0.0273246224969625,Bertrand Traoré,h,695,OpenPlay,2020,LeftFoot,14515,Aston Villa,Brighton,1,2,2020-11-21 15:00:00,Trézéguet,Pass
+389839,88,SavedShot,0.755999984741211,0.357999992370605,0.0205393135547638,Bertrand Traoré,a,695,OpenPlay,2020,LeftFoot,14526,West Ham,Aston Villa,2,1,2020-11-30 20:00:00,Jack Grealish,Pass
+18912,37,BlockedShot,0.819000015258789,0.710999984741211,0.0355154424905777,Matt Targett,h,884,OpenPlay,2014,RightFoot,4640,Southampton,Chelsea,1,1,2014-12-28 14:05:00,Dusan Tadic,TakeOn
+51829,15,SavedShot,0.773000030517578,NaN,0.0128887565806508,Matt Targett,h,884,OpenPlay,2015,LeftFoot,92,Southampton,Everton,0,3,2015-08-15 15:45:00,Shane Long,Pass
+54913,21,BlockedShot,0.748000030517578,0.625,0.0151740936562419,Matt Targett,h,884,FromCorner,2015,,284,Southampton,Watford,2,0,2016-01-13 23:45:00,NA,None
+52574,35,BlockedShot,0.923000030517578,0.615999984741211,0.0967499390244484,Matt Targett,h,884,OpenPlay,2015,LeftFoot,294,Southampton,West Bromwich Albion,3,0,2016-01-16 19:00:00,Sadio Mané,Rebound
+113072,87,MissedShots,0.739000015258789,0.537000007629394,0.0563808381557465,Matt Targett,h,884,DirectFreekick,2016,LeftFoot,484,Southampton,Sunderland,1,1,2016-08-27 18:00:00,NA,Standard
+119622,1,MissedShots,0.808000030517578,0.690999984741211,0.0192255917936563,Matt Targett,h,884,OpenPlay,2016,RightFoot,3412,Southampton,Manchester United,0,0,2017-05-17 19:45:00,NA,Rebound
+250996,73,MissedShots,0.845999984741211,0.560999984741211,0.0505688525736332,Matt Targett,a,884,FromCorner,2018,LeftFoot,9346,Tottenham,Southampton,3,1,2018-12-05 20:00:00,James Ward-Prowse,Pass
+251094,58,BlockedShot,0.751999969482422,0.706999969482422,0.01381716132164,Matt Targett,a,884,OpenPlay,2018,,9353,Cardiff,Southampton,1,0,2018-12-08 15:00:00,Stuart Armstrong,Pass
+251095,66,MissedShots,0.756999969482422,0.537000007629394,0.06957046687603,Matt Targett,a,884,DirectFreekick,2018,,9353,Cardiff,Southampton,1,0,2018-12-08 15:00:00,NA,Standard
+251600,46,BlockedShot,0.819000015258789,0.703000030517578,0.0432297885417938,Matt Targett,a,884,OpenPlay,2018,,9371,Huddersfield,Southampton,1,3,2018-12-22 15:00:00,Stuart Armstrong,Pass
+274488,46,BlockedShot,0.895,0.723000030517578,0.0557890608906746,Matt Targett,a,884,OpenPlay,2018,,9410,Leicester,Southampton,1,2,2019-01-12 15:00:00,Stuart Armstrong,BallTouch
+275179,19,MissedShots,0.978000030517578,0.587000007629395,0.0990719720721245,Matt Targett,a,884,OpenPlay,2018,LeftFoot,9445,Burnley,Southampton,1,1,2019-02-02 15:00:00,James Ward-Prowse,Cross
+275192,70,BlockedShot,0.859000015258789,0.67,0.0689308345317841,Matt Targett,a,884,OpenPlay,2018,,9445,Burnley,Southampton,1,1,2019-02-02 15:00:00,Stuart Armstrong,Pass
+275846,13,SavedShot,0.895,0.709000015258789,0.0485874451696873,Matt Targett,a,884,OpenPlay,2018,LeftFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Stuart Armstrong,Pass
+275860,88,SavedShot,0.783000030517578,0.615,0.0149828670546412,Matt Targett,a,884,FromCorner,2018,LeftFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,NA,Aerial
+297410,60,BlockedShot,0.865999984741211,0.377000007629395,0.0506199821829796,Matt Targett,h,884,FromCorner,2018,,9549,Southampton,Bournemouth,3,3,2019-04-27 15:00:00,NA,None
+297412,66,Goal,0.955999984741211,0.597999992370605,0.0866899117827415,Matt Targett,h,884,OpenPlay,2018,Head,9549,Southampton,Bournemouth,3,3,2019-04-27 15:00:00,Yan Valery,Cross
+325589,85,MissedShots,0.805999984741211,0.377000007629395,0.103579603135586,Matt Targett,h,884,DirectFreekick,2019,LeftFoot,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,NA,Standard
+325592,93,Goal,NaN,0.684000015258789,0.0673164129257202,Matt Targett,h,884,OpenPlay,2019,LeftFoot,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,Jack Grealish,Pass
+352206,29,SavedShot,0.849000015258789,0.760999984741211,0.0248589366674423,Matt Targett,h,884,OpenPlay,2019,LeftFoot,11873,Aston Villa,Watford,2,1,2020-01-21 19:30:00,Jack Grealish,Pass
+352214,57,SavedShot,NaN,0.527000007629395,0.0396917201578617,Matt Targett,h,884,OpenPlay,2019,Head,11873,Aston Villa,Watford,2,1,2020-01-21 19:30:00,Frederic Guilbert,Aerial
+352216,67,SavedShot,NaN,0.669000015258789,0.0703893005847931,Matt Targett,h,884,OpenPlay,2019,LeftFoot,11873,Aston Villa,Watford,2,1,2020-01-21 19:30:00,Jack Grealish,Pass
+352523,63,BlockedShot,0.901999969482422,0.567000007629395,0.0668103471398354,Matt Targett,a,884,OpenPlay,2019,LeftFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Jack Grealish,Cross
+366347,29,MissedShots,0.769000015258789,0.658000030517578,0.0208979919552803,Matt Targett,a,884,OpenPlay,2019,LeftFoot,11949,Newcastle United,Aston Villa,1,1,2020-06-24 17:00:00,Ezri Konsa Ngoyo,Pass
+382795,41,MissedShots,0.785999984741211,0.287999992370605,0.0563176088035107,Matt Targett,a,884,DirectFreekick,2020,,14479,Leicester,Aston Villa,0,1,2020-10-18 18:15:00,NA,Standard
+382808,85,MissedShots,0.775999984741211,0.627000007629395,0.0143865346908569,Matt Targett,a,884,FromCorner,2020,LeftFoot,14479,Leicester,Aston Villa,0,1,2020-10-18 18:15:00,NA,Aerial
+383034,75,BlockedShot,NaN,0.575,0.105422757565975,Matt Targett,h,884,OpenPlay,2020,LeftFoot,14486,Aston Villa,Leeds,0,3,2020-10-23 19:00:00,Jack Grealish,Pass
+169543,82,SavedShot,0.795999984741211,0.402000007629395,0.0773199200630188,Douglas Luiz,h,6122,OpenPlay,2017,LeftFoot,7895,Girona,Malaga,1,0,2017-08-26 19:15:00,Álex Granell,LayOff
+170215,89,MissedShots,NaN,0.567000007629395,0.0210929363965988,Douglas Luiz,a,6122,OpenPlay,2017,RightFoot,7925,Leganes,Girona,0,0,2017-09-20 19:00:00,Johan Mojica,Pass
+170536,11,SavedShot,0.784000015258789,0.425,0.0313444584608078,Douglas Luiz,h,6122,OpenPlay,2017,RightFoot,7935,Girona,Barcelona,0,3,2017-09-23 19:45:00,NA,None
+170545,49,MissedShots,0.904000015258789,NaN,0.102530963718891,Douglas Luiz,h,6122,OpenPlay,2017,Head,7935,Girona,Barcelona,0,3,2017-09-23 19:45:00,Portu,Cross
+170552,78,BlockedShot,0.778000030517578,0.325,0.0176529344171286,Douglas Luiz,h,6122,FromCorner,2017,RightFoot,7935,Girona,Barcelona,0,3,2017-09-23 19:45:00,NA,None
+170584,81,SavedShot,0.88,0.534000015258789,0.0644804984331131,Douglas Luiz,h,6122,OpenPlay,2017,Head,7955,Girona,Villarreal,1,2,2017-10-15 15:15:00,Borja,Cross
+170586,83,SavedShot,0.798000030517578,0.765999984741211,0.0200208704918623,Douglas Luiz,h,6122,OpenPlay,2017,RightFoot,7955,Girona,Villarreal,1,2,2017-10-15 15:15:00,Bernardo,HeadPass
+171032,88,MissedShots,NaN,0.567000007629395,0.0571651086211205,Douglas Luiz,a,6122,OpenPlay,2017,Head,7960,Deportivo La Coruna,Girona,1,2,2017-10-23 20:00:00,Portu,Aerial
+171035,93,MissedShots,0.845,0.394000015258789,0.0804799571633339,Douglas Luiz,a,6122,OpenPlay,2017,,7960,Deportivo La Coruna,Girona,1,2,2017-10-23 20:00:00,Portu,Pass
+187203,78,SavedShot,NaN,0.419000015258789,0.277395188808441,Douglas Luiz,h,6122,OpenPlay,2017,Head,8066,Girona,Las Palmas,6,0,2018-01-13 12:00:00,Álex Granell,Cross
+227553,21,MissedShots,0.738000030517578,0.54,0.0174453388899565,Douglas Luiz,h,6122,OpenPlay,2018,RightFoot,10012,Girona,Real Betis,0,1,2018-09-27 20:00:00,Borja,TakeOn
+228445,9,MissedShots,NaN,0.38,0.0108586447313428,Douglas Luiz,a,6122,OpenPlay,2018,RightFoot,10018,SD Huesca,Girona,1,1,2018-09-30 10:00:00,Aday Benítez,Pass
+228447,18,MissedShots,0.738000030517578,0.607999992370605,0.0135496994480491,Douglas Luiz,a,6122,OpenPlay,2018,,10018,SD Huesca,Girona,1,1,2018-09-30 10:00:00,NA,None
+257960,16,MissedShots,0.755,0.460999984741211,0.0207712016999722,Douglas Luiz,h,6122,OpenPlay,2018,,10028,Girona,Eibar,2,3,2018-10-06 11:00:00,NA,None
+258417,7,BlockedShot,NaN,0.542000007629394,0.0132841123268008,Douglas Luiz,a,6122,OpenPlay,2018,RightFoot,10039,Real Sociedad,Girona,0,0,2018-10-22 19:00:00,NA,None
+258493,13,MissedShots,0.660999984741211,NaN,0.0115892216563225,Douglas Luiz,h,6122,OpenPlay,2018,,10051,Girona,Rayo Vallecano,2,1,2018-10-27 11:00:00,Borja,Pass
+258515,91,MissedShots,0.780999984741211,0.457999992370605,0.0490601286292076,Douglas Luiz,h,6122,OpenPlay,2018,RightFoot,10051,Girona,Rayo Vallecano,2,1,2018-10-27 11:00:00,NA,None
+260126,12,BlockedShot,0.778000030517578,0.48,0.0320288687944412,Douglas Luiz,a,6122,OpenPlay,2018,LeftFoot,10108,Sevilla,Girona,2,0,2018-12-16 11:00:00,NA,None
+260135,50,MissedShots,0.724000015258789,0.650999984741211,0.0137196145951748,Douglas Luiz,a,6122,OpenPlay,2018,RightFoot,10108,Sevilla,Girona,2,0,2018-12-16 11:00:00,Cristhian Stuani,BallTouch
+279832,83,MissedShots,0.869000015258789,0.587999992370606,0.0617969669401646,Douglas Luiz,a,6122,FromCorner,2018,RightFoot,10128,Levante,Girona,2,2,2019-01-04 18:00:00,Bernardo,HeadPass
+279834,88,MissedShots,0.969000015258789,0.455999984741211,0.0974830314517021,Douglas Luiz,a,6122,SetPiece,2018,RightFoot,10128,Levante,Girona,2,2,2019-01-04 18:00:00,Álex Granell,Cross
+281431,63,BlockedShot,0.946999969482422,0.517999992370605,0.60830146074295,Douglas Luiz,a,6122,OpenPlay,2018,RightFoot,10189,Real Madrid,Girona,1,2,2019-02-17 11:00:00,NA,Rebound
+290963,61,BlockedShot,NaN,0.562999992370605,0.0168237946927547,Douglas Luiz,a,6122,OpenPlay,2018,RightFoot,10255,Atletico Madrid,Girona,2,0,2019-04-02 18:30:00,Borja,Pass
+291821,94,BlockedShot,0.835,0.507000007629395,0.0251677129417658,Douglas Luiz,h,6122,OpenPlay,2018,LeftFoot,10259,Girona,Espanyol,1,2,2019-04-06 12:00:00,NA,Aerial
+294898,79,BlockedShot,0.735999984741211,0.445,0.0205906126648188,Douglas Luiz,a,6122,OpenPlay,2018,RightFoot,10283,Celta Vigo,Girona,2,1,2019-04-20 12:00:00,Borja,Pass
+297760,0,MissedShots,0.778000030517578,0.535999984741211,0.0247895792126656,Douglas Luiz,h,6122,FromCorner,2018,RightFoot,10303,Girona,Sevilla,1,0,2019-04-28 13:00:00,NA,None
+310471,8,BlockedShot,0.721999969482422,0.585,0.0174812246114016,Douglas Luiz,h,6122,FromCorner,2019,RightFoot,11654,Aston Villa,Bournemouth,1,2,2019-08-17 15:00:00,John McGinn,Pass
+310491,70,Goal,0.756999969482422,0.51,0.0232241954654455,Douglas Luiz,h,6122,FromCorner,2019,RightFoot,11654,Aston Villa,Bournemouth,1,2,2019-08-17 15:00:00,Jack Grealish,Pass
+315797,5,MissedShots,NaN,0.660999984741211,0.064665362238884,Douglas Luiz,a,6122,DirectFreekick,2019,RightFoot,11676,Crystal Palace,Aston Villa,1,0,2019-08-31 15:00:00,NA,Standard
+324191,82,Goal,0.775,0.579000015258789,0.0422846861183643,Douglas Luiz,a,6122,OpenPlay,2019,RightFoot,11717,Norwich,Aston Villa,1,5,2019-10-05 15:00:00,Wesley,Pass
+325587,78,BlockedShot,0.720999984741211,0.52,0.0150129292160273,Douglas Luiz,h,6122,OpenPlay,2019,RightFoot,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,Jack Grealish,Pass
+325590,87,MissedShots,0.750999984741211,0.442999992370605,0.0201498568058014,Douglas Luiz,h,6122,OpenPlay,2019,,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,Jack Grealish,Pass
+326935,61,SavedShot,0.881999969482422,0.457999992370605,0.0213815364986658,Douglas Luiz,a,6122,OpenPlay,2019,Head,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,Frederic Guilbert,Aerial
+326947,87,MissedShots,0.749000015258789,0.615999984741211,0.0101516358554363,Douglas Luiz,a,6122,OpenPlay,2019,,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,NA,Rebound
+331424,48,SavedShot,0.726999969482422,0.6,0.0139125911518931,Douglas Luiz,a,6122,OpenPlay,2019,RightFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,NA,None
+331438,76,BlockedShot,0.758000030517578,0.559000015258789,0.0241904370486736,Douglas Luiz,a,6122,OpenPlay,2019,,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,Henri Lansbury,Pass
+333242,2,BlockedShot,0.765999984741211,0.419000015258789,0.0264841429889202,Douglas Luiz,h,6122,OpenPlay,2019,,11764,Aston Villa,Newcastle United,2,0,2019-11-25 20:00:00,Wesley,Pass
+333244,17,BlockedShot,0.858000030517578,0.520999984741211,0.102350428700447,Douglas Luiz,h,6122,OpenPlay,2019,RightFoot,11764,Aston Villa,Newcastle United,2,0,2019-11-25 20:00:00,Matt Targett,Pass
+333247,28,SavedShot,0.780999984741211,0.37,0.0269508417695761,Douglas Luiz,h,6122,OpenPlay,2019,RightFoot,11764,Aston Villa,Newcastle United,2,0,2019-11-25 20:00:00,Jack Grealish,Pass
+333257,55,BlockedShot,NaN,NaN,0.0288743358105421,Douglas Luiz,h,6122,OpenPlay,2019,RightFoot,11764,Aston Villa,Newcastle United,2,0,2019-11-25 20:00:00,Jack Grealish,Pass
+335078,83,BlockedShot,0.905,0.595999984741211,0.026340601965785,Douglas Luiz,a,6122,OpenPlay,2019,Head,11789,Chelsea,Aston Villa,2,1,2019-12-04 19:30:00,John McGinn,Aerial
+335079,84,BlockedShot,0.908000030517578,NaN,0.0744971558451653,Douglas Luiz,a,6122,OpenPlay,2019,RightFoot,11789,Chelsea,Aston Villa,2,1,2019-12-04 19:30:00,NA,None
+335081,89,SavedShot,0.883000030517578,0.519000015258789,0.0186592023819685,Douglas Luiz,a,6122,SetPiece,2019,Head,11789,Chelsea,Aston Villa,2,1,2019-12-04 19:30:00,Ahmed Elmohamady,Aerial
+336336,39,BlockedShot,0.805999984741211,NaN,0.0493124946951866,Douglas Luiz,h,6122,OpenPlay,2019,RightFoot,11793,Aston Villa,Leicester,1,4,2019-12-08 14:00:00,Jack Grealish,Pass
+336343,60,MissedShots,0.788000030517578,0.500999984741211,0.0136200562119484,Douglas Luiz,h,6122,OpenPlay,2019,RightFoot,11793,Aston Villa,Leicester,1,4,2019-12-08 14:00:00,Wesley,HeadPass
+338688,26,MissedShots,0.764000015258789,0.457000007629395,0.0274711064994335,Douglas Luiz,h,6122,OpenPlay,2019,,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,Jack Grealish,Pass
+338701,65,BlockedShot,0.678000030517578,NaN,0.00858707446604967,Douglas Luiz,h,6122,OpenPlay,2019,,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,Marvelous Nakamba,Pass
+338708,83,BlockedShot,0.781999969482422,NaN,0.0254990514367819,Douglas Luiz,h,6122,OpenPlay,2019,RightFoot,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,Jack Grealish,Pass
+338711,85,MissedShots,0.78,0.629000015258789,0.0144585557281971,Douglas Luiz,h,6122,OpenPlay,2019,,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,Matt Targett,TakeOn
+339596,5,MissedShots,NaN,0.465999984741211,0.0160054750740528,Douglas Luiz,h,6122,OpenPlay,2019,RightFoot,11823,Aston Villa,Norwich,1,0,2019-12-26 15:00:00,Ahmed Elmohamady,Pass
+339600,14,MissedShots,0.841999969482422,0.640999984741211,0.0318238586187363,Douglas Luiz,h,6122,FromCorner,2019,RightFoot,11823,Aston Villa,Norwich,1,0,2019-12-26 15:00:00,Wesley,BallTouch
+339833,79,BlockedShot,0.750999984741211,0.460999984741211,0.0191742330789566,Douglas Luiz,a,6122,OpenPlay,2019,RightFoot,11841,Watford,Aston Villa,3,0,2019-12-28 15:00:00,Ahmed Elmohamady,Pass
+351427,19,SavedShot,0.765,0.415,0.0196625087410212,Douglas Luiz,a,6122,OpenPlay,2019,RightFoot,11846,Burnley,Aston Villa,1,2,2020-01-01 12:30:00,Trézéguet,Pass
+351434,46,SavedShot,0.875,0.512000007629395,0.133731871843338,Douglas Luiz,a,6122,OpenPlay,2019,LeftFoot,11846,Burnley,Aston Villa,1,2,2020-01-01 12:30:00,Jack Grealish,Pass
+351453,93,SavedShot,0.865,NaN,0.256475865840912,Douglas Luiz,a,6122,OpenPlay,2019,RightFoot,11846,Burnley,Aston Villa,1,2,2020-01-01 12:30:00,Ezri Konsa Ngoyo,Aerial
+352015,74,SavedShot,0.735,0.522000007629395,0.0544176325201988,Douglas Luiz,a,6122,DirectFreekick,2019,RightFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,NA,Standard
+352217,67,Goal,0.955999984741211,0.419000015258789,0.46662175655365,Douglas Luiz,h,6122,OpenPlay,2019,LeftFoot,11873,Aston Villa,Watford,2,1,2020-01-21 19:30:00,NA,Rebound
+352787,17,BlockedShot,0.915999984741211,0.427000007629395,0.41651913523674,Douglas Luiz,h,6122,OpenPlay,2019,,11894,Aston Villa,Tottenham,2,3,2020-02-16 14:00:00,Jack Grealish,Pass
+352793,29,BlockedShot,0.74,0.487999992370605,0.0265086032450199,Douglas Luiz,h,6122,OpenPlay,2019,RightFoot,11894,Aston Villa,Tottenham,2,3,2020-02-16 14:00:00,NA,TakeOn
+366793,59,MissedShots,0.721999969482422,0.472000007629395,0.0173027664422989,Douglas Luiz,h,6122,OpenPlay,2019,RightFoot,11954,Aston Villa,Wolverhampton Wanderers,0,1,2020-06-27 11:30:00,Jack Grealish,Pass
+369028,32,SavedShot,0.84,0.327999992370605,0.0433553606271744,Douglas Luiz,a,6122,OpenPlay,2019,RightFoot,11966,Liverpool,Aston Villa,2,0,2020-07-05 15:30:00,Trézéguet,Pass
+370215,9,BlockedShot,0.715,NaN,0.0413143299520016,Douglas Luiz,h,6122,DirectFreekick,2019,RightFoot,11974,Aston Villa,Manchester United,0,3,2020-07-09 19:15:00,NA,Standard
+370760,65,BlockedShot,0.726999969482422,NaN,0.0173745155334473,Douglas Luiz,h,6122,OpenPlay,2019,,11983,Aston Villa,Crystal Palace,2,0,2020-07-12 13:15:00,Jack Grealish,Pass
+371861,41,MissedShots,0.771999969482422,0.354000015258789,0.0219480097293854,Douglas Luiz,a,6122,OpenPlay,2019,RightFoot,11997,Everton,Aston Villa,1,1,2020-07-16 17:00:00,NA,Dispossessed
+378452,22,SavedShot,0.899000015258789,0.502999992370605,0.0250390414148569,Douglas Luiz,h,6122,FromCorner,2020,Head,14104,Aston Villa,Sheffield United,1,0,2020-09-21 17:00:00,Trézéguet,Aerial
+378463,77,BlockedShot,0.779000015258789,0.579000015258789,0.0390959307551384,Douglas Luiz,h,6122,OpenPlay,2020,,14104,Aston Villa,Sheffield United,1,0,2020-09-21 17:00:00,John McGinn,Pass
+378470,92,MissedShots,0.76,0.407000007629395,0.0256057567894459,Douglas Luiz,h,6122,OpenPlay,2020,RightFoot,14104,Aston Villa,Sheffield United,1,0,2020-09-21 17:00:00,Keinan Davis,Pass
+382801,68,SavedShot,0.803000030517578,0.454000015258789,0.0348390303552151,Douglas Luiz,a,6122,FromCorner,2020,RightFoot,14479,Leicester,Aston Villa,0,1,2020-10-18 18:15:00,Jack Grealish,Pass
+384968,88,SavedShot,0.748000030517578,0.635999984741211,0.0135871926322579,Douglas Luiz,h,6122,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Ollie Watkins,Pass
+387361,24,BlockedShot,0.749000015258789,0.41,0.0212466660887003,Douglas Luiz,h,6122,OpenPlay,2020,RightFoot,14515,Aston Villa,Brighton,1,2,2020-11-21 15:00:00,Jack Grealish,Pass
+387368,54,SavedShot,0.779000015258789,0.634000015258789,0.0228834394365549,Douglas Luiz,h,6122,FromCorner,2020,RightFoot,14515,Aston Villa,Brighton,1,2,2020-11-21 15:00:00,Ollie Watkins,Pass
+387370,58,MissedShots,0.771999969482422,0.385,0.0216462034732103,Douglas Luiz,h,6122,OpenPlay,2020,RightFoot,14515,Aston Villa,Brighton,1,2,2020-11-21 15:00:00,NA,BallRecovery
+310036,20,BlockedShot,0.880999984741211,0.400999984741211,0.137920528650284,Trézéguet,a,7722,OpenPlay,2019,LeftFoot,11649,Tottenham,Aston Villa,3,1,2019-08-10 17:30:00,John McGinn,Throughball
+310037,31,SavedShot,0.875999984741211,0.605999984741211,0.129552572965622,Trézéguet,a,7722,OpenPlay,2019,RightFoot,11649,Tottenham,Aston Villa,3,1,2019-08-10 17:30:00,Jack Grealish,Pass
+310478,29,BlockedShot,0.878000030517578,0.680999984741211,0.0623832531273365,Trézéguet,h,7722,OpenPlay,2019,RightFoot,11654,Aston Villa,Bournemouth,1,2,2019-08-17 15:00:00,Jack Grealish,Pass
+310483,47,BlockedShot,0.919000015258789,0.524000015258789,0.410828232765198,Trézéguet,h,7722,OpenPlay,2019,LeftFoot,11654,Aston Villa,Bournemouth,1,2,2019-08-17 15:00:00,Wesley,Pass
+310489,66,SavedShot,0.843000030517578,0.394000015258789,0.0678818300366402,Trézéguet,h,7722,OpenPlay,2019,RightFoot,11654,Aston Villa,Bournemouth,1,2,2019-08-17 15:00:00,Jack Grealish,Pass
+315802,37,BlockedShot,NaN,0.564000015258789,0.0190029125660658,Trézéguet,a,7722,OpenPlay,2019,RightFoot,11676,Crystal Palace,Aston Villa,1,0,2019-08-31 15:00:00,NA,None
+315807,46,MissedShots,NaN,0.695999984741211,0.0470704846084118,Trézéguet,a,7722,DirectFreekick,2019,RightFoot,11676,Crystal Palace,Aston Villa,1,0,2019-08-31 15:00:00,NA,Standard
+315808,47,SavedShot,0.875,0.477999992370605,0.0327952392399311,Trézéguet,a,7722,OpenPlay,2019,Head,11676,Crystal Palace,Aston Villa,1,0,2019-08-31 15:00:00,John McGinn,Chipped
+321230,4,BlockedShot,NaN,0.265,0.0317794382572174,Trézéguet,a,7722,OpenPlay,2019,,11702,Arsenal,Aston Villa,3,2,2019-09-22 15:30:00,Jack Grealish,Pass
+321246,63,SavedShot,0.883000030517578,0.337000007629395,0.103314302861691,Trézéguet,a,7722,OpenPlay,2019,RightFoot,11702,Arsenal,Aston Villa,3,2,2019-09-22 15:30:00,Jack Grealish,Pass
+324190,80,MissedShots,0.780999984741211,NaN,0.0408259965479374,Trézéguet,a,7722,OpenPlay,2019,,11717,Norwich,Aston Villa,1,5,2019-10-05 15:00:00,Marvelous Nakamba,HeadPass
+325578,64,BlockedShot,NaN,0.735,0.0241018868982792,Trézéguet,h,7722,OpenPlay,2019,RightFoot,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,John McGinn,Pass
+326925,34,BlockedShot,0.863000030517578,0.316000003814697,0.019539462402463,Trézéguet,a,7722,OpenPlay,2019,LeftFoot,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,Matt Targett,Cross
+326926,34,BlockedShot,0.855999984741211,0.482000007629395,0.0729674398899078,Trézéguet,a,7722,OpenPlay,2019,LeftFoot,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,NA,Rebound
+326942,85,SavedShot,0.825999984741211,0.696999969482422,0.0434864610433578,Trézéguet,a,7722,OpenPlay,2019,RightFoot,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,Tyrone Mings,TakeOn
+326946,87,BlockedShot,0.863000030517578,0.525999984741211,0.0900858342647552,Trézéguet,a,7722,OpenPlay,2019,,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,Marvelous Nakamba,Pass
+329246,20,Goal,NaN,0.432999992370605,0.442969411611557,Trézéguet,h,7722,SetPiece,2019,RightFoot,11744,Aston Villa,Liverpool,1,2,2019-11-02 15:00:00,John McGinn,Cross
+329249,35,MissedShots,0.966999969482422,0.317999992370605,0.0516024865210056,Trézéguet,h,7722,OpenPlay,2019,RightFoot,11744,Aston Villa,Liverpool,1,2,2019-11-02 15:00:00,Anwar El Ghazi,Cross
+331440,81,BlockedShot,0.870999984741211,0.318999996185303,0.0416033230721951,Trézéguet,a,7722,OpenPlay,2019,,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,Henri Lansbury,Chipped
+331443,91,Goal,0.970999984741211,0.339000015258789,0.0481614209711552,Trézéguet,a,7722,FromCorner,2019,RightFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,NA,None
+334499,43,ShotOnPost,0.883000030517578,NaN,0.0362860821187496,Trézéguet,a,7722,OpenPlay,2019,RightFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,John McGinn,Chipped
+334504,62,BlockedShot,0.873000030517578,0.335999984741211,0.0635428354144096,Trézéguet,a,7722,OpenPlay,2019,RightFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,John McGinn,Pass
+335058,40,Goal,0.954000015258789,0.497999992370605,0.548352479934692,Trézéguet,a,7722,OpenPlay,2019,,11789,Chelsea,Aston Villa,2,1,2019-12-04 19:30:00,Ahmed Elmohamady,Cross
+335060,46,BlockedShot,0.710999984741211,0.415999984741211,0.0106379818171263,Trézéguet,a,7722,OpenPlay,2019,RightFoot,11789,Chelsea,Aston Villa,2,1,2019-12-04 19:30:00,Marvelous Nakamba,TakeOn
+335071,74,BlockedShot,NaN,0.287999992370605,0.0432528369128704,Trézéguet,a,7722,OpenPlay,2019,RightFoot,11789,Chelsea,Aston Villa,2,1,2019-12-04 19:30:00,John McGinn,Pass
+336355,84,MissedShots,0.911999969482422,0.509000015258789,0.114832147955894,Trézéguet,h,7722,OpenPlay,2019,Head,11793,Aston Villa,Leicester,1,4,2019-12-08 14:00:00,Ahmed Elmohamady,Cross
+336356,86,BlockedShot,0.955999984741211,0.681999969482422,0.0412494167685509,Trézéguet,h,7722,OpenPlay,2019,RightFoot,11793,Aston Villa,Leicester,1,4,2019-12-08 14:00:00,NA,None
+338704,77,BlockedShot,0.748000030517578,0.587000007629395,0.058222770690918,Trézéguet,h,7722,DirectFreekick,2019,,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,NA,Standard
+338706,79,SavedShot,0.760999984741211,0.8,0.0329262390732765,Trézéguet,h,7722,DirectFreekick,2019,RightFoot,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,NA,Standard
+338714,93,BlockedShot,0.906999969482422,0.286000003814697,0.0444663651287556,Trézéguet,h,7722,OpenPlay,2019,RightFoot,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,NA,BallRecovery
+339598,13,BlockedShot,0.815,0.430999984741211,0.0536852851510048,Trézéguet,h,7722,OpenPlay,2019,RightFoot,11823,Aston Villa,Norwich,1,0,2019-12-26 15:00:00,Marvelous Nakamba,Pass
+339618,80,BlockedShot,0.91,0.273999996185303,0.0762536749243736,Trézéguet,h,7722,OpenPlay,2019,RightFoot,11823,Aston Villa,Norwich,1,0,2019-12-26 15:00:00,Conor Hourihane,Pass
+351849,85,BlockedShot,0.96,0.313999996185303,0.0588815435767174,Trézéguet,h,7722,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Jack Grealish,TakeOn
+352204,23,BlockedShot,0.903000030517578,0.427000007629395,0.0827000960707664,Trézéguet,h,7722,SetPiece,2019,RightFoot,11873,Aston Villa,Watford,2,1,2020-01-21 19:30:00,Jack Grealish,Cross
+352215,59,MissedShots,0.795,0.741999969482422,0.0191000439226627,Trézéguet,h,7722,OpenPlay,2019,RightFoot,11873,Aston Villa,Watford,2,1,2020-01-21 19:30:00,Matt Targett,Pass
+352816,78,BlockedShot,0.768000030517578,0.327999992370605,0.0111439973115921,Trézéguet,h,7722,OpenPlay,2019,RightFoot,11894,Aston Villa,Tottenham,2,3,2020-02-16 14:00:00,Mbwana Samatta,Chipped
+353016,60,SavedShot,0.860999984741211,0.412999992370605,0.304481506347656,Trézéguet,a,7722,OpenPlay,2019,RightFoot,11908,Southampton,Aston Villa,2,0,2020-02-22 15:00:00,Jack Grealish,Throughball
+365815,95,SavedShot,0.714000015258789,0.527000007629395,0.0433424077928066,Trézéguet,h,7722,DirectFreekick,2019,RightFoot,11933,Aston Villa,Chelsea,1,2,2020-06-21 15:15:00,NA,Standard
+366342,5,MissedShots,0.930999984741211,0.585,0.310439199209213,Trézéguet,a,7722,OpenPlay,2019,LeftFoot,11949,Newcastle United,Aston Villa,1,1,2020-06-24 17:00:00,Ezri Konsa Ngoyo,Cross
+366354,48,MissedShots,0.858000030517578,0.41,0.0214122515171766,Trézéguet,a,7722,OpenPlay,2019,Head,11949,Newcastle United,Aston Villa,1,1,2020-06-24 17:00:00,Anwar El Ghazi,Chipped
+366800,81,MissedShots,0.975999984741211,0.320999984741211,0.0490316115319729,Trézéguet,h,7722,SetPiece,2019,RightFoot,11954,Aston Villa,Wolverhampton Wanderers,0,1,2020-06-27 11:30:00,NA,None
+370217,24,ShotOnPost,0.766999969482422,NaN,0.284719944000244,Trézéguet,h,7722,OpenPlay,2019,RightFoot,11974,Aston Villa,Manchester United,0,3,2020-07-09 19:15:00,NA,BallRecovery
+370752,48,Goal,0.965999984741211,0.41,0.481433391571045,Trézéguet,h,7722,SetPiece,2019,RightFoot,11983,Aston Villa,Crystal Palace,2,0,2020-07-12 13:15:00,NA,None
+370756,58,Goal,0.909000015258789,0.464000015258789,0.412901818752289,Trézéguet,h,7722,OpenPlay,2019,,11983,Aston Villa,Crystal Palace,2,0,2020-07-12 13:15:00,Conor Hourihane,HeadPass
+370757,60,SavedShot,0.85,0.235,0.0372775234282017,Trézéguet,h,7722,OpenPlay,2019,RightFoot,11983,Aston Villa,Crystal Palace,2,0,2020-07-12 13:15:00,Mbwana Samatta,Pass
+371855,13,BlockedShot,0.765,0.597000007629395,0.0255981869995594,Trézéguet,a,7722,OpenPlay,2019,RightFoot,11997,Everton,Aston Villa,1,1,2020-07-16 17:00:00,Matt Targett,Pass
+373038,26,Goal,0.878000030517578,0.345999984741211,0.0387292206287384,Trézéguet,h,7722,FromCorner,2019,RightFoot,12003,Aston Villa,Arsenal,1,0,2020-07-21 19:15:00,Tyrone Mings,BallTouch
+373040,41,SavedShot,0.85,NaN,0.0227233897894621,Trézéguet,h,7722,FromCorner,2019,Head,12003,Aston Villa,Arsenal,1,0,2020-07-21 19:15:00,Jack Grealish,Cross
+373808,1,MissedShots,0.87,0.454000015258789,0.0767083838582039,Trézéguet,a,7722,OpenPlay,2019,,12013,West Ham,Aston Villa,1,1,2020-07-26 15:00:00,John McGinn,HeadPass
+373829,88,SavedShot,0.801999969482422,0.708000030517578,0.0228440277278423,Trézéguet,a,7722,OpenPlay,2019,RightFoot,12013,West Ham,Aston Villa,1,1,2020-07-26 15:00:00,NA,BallRecovery
+378456,49,MissedShots,0.986999969482422,0.407000007629395,0.0524065569043159,Trézéguet,h,7722,SetPiece,2020,RightFoot,14104,Aston Villa,Sheffield United,1,0,2020-09-21 17:00:00,Conor Hourihane,Cross
+378462,76,MissedShots,0.899000015258789,0.357000007629395,0.0779936239123344,Trézéguet,h,7722,OpenPlay,2020,,14104,Aston Villa,Sheffield United,1,0,2020-09-21 17:00:00,Jack Grealish,Chipped
+379967,81,BlockedShot,0.889000015258789,0.303999996185303,0.0411268994212151,Trézéguet,a,7722,SetPiece,2020,RightFoot,14114,Fulham,Aston Villa,0,3,2020-09-28 17:00:00,NA,None
+381505,44,SavedShot,0.793000030517578,0.695,0.0258323736488819,Trézéguet,h,7722,OpenPlay,2020,RightFoot,14466,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,Ollie Watkins,Tackle
+382794,25,MissedShots,0.856999969482422,0.480999984741211,0.0951950997114182,Trézéguet,a,7722,OpenPlay,2020,LeftFoot,14479,Leicester,Aston Villa,0,1,2020-10-18 18:15:00,Jack Grealish,Pass
+383012,25,MissedShots,0.919000015258789,0.430999984741211,0.137143209576607,Trézéguet,h,7722,OpenPlay,2020,RightFoot,14486,Aston Villa,Leeds,0,3,2020-10-23 19:00:00,Ollie Watkins,Pass
+384955,51,SavedShot,0.906999969482422,0.355,0.125042498111725,Trézéguet,h,7722,SetPiece,2020,Head,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Jack Grealish,Cross
+384961,68,BlockedShot,0.906999969482422,0.362999992370605,0.0443343818187714,Trézéguet,h,7722,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Matt Targett,Cross
+384962,70,SavedShot,0.893000030517578,0.367000007629395,0.0405207499861717,Trézéguet,h,7722,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Matt Targett,Chipped
+384964,75,SavedShot,NaN,0.349000015258789,0.0578624159097672,Trézéguet,h,7722,FromCorner,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,NA,None
+386896,33,BlockedShot,0.865999984741211,0.739000015258789,0.041242953389883,Trézéguet,a,7722,OpenPlay,2020,LeftFoot,14505,Arsenal,Aston Villa,0,3,2020-11-08 19:15:00,Douglas Luiz,Pass
+386902,47,SavedShot,NaN,0.286000003814697,0.0661423578858376,Trézéguet,a,7722,OpenPlay,2020,RightFoot,14505,Arsenal,Aston Villa,0,3,2020-11-08 19:15:00,Ross Barkley,Pass
+387355,8,BlockedShot,0.938000030517578,0.28,0.0173570327460766,Trézéguet,h,7722,SetPiece,2020,RightFoot,14515,Aston Villa,Brighton,1,2,2020-11-21 15:00:00,Bertrand Traoré,Cross
+387358,18,MissedShots,0.926999969482422,0.530999984741211,0.5174320936203,Trézéguet,h,7722,OpenPlay,2020,,14515,Aston Villa,Brighton,1,2,2020-11-21 15:00:00,NA,Rebound
+387357,18,BlockedShot,0.911999969482422,0.425,0.34564608335495,Trézéguet,h,7722,OpenPlay,2020,,14515,Aston Villa,Brighton,1,2,2020-11-21 15:00:00,NA,BallTouch
+387362,25,MissedShots,NaN,NaN,0.0197527185082436,Trézéguet,h,7722,FromCorner,2020,RightFoot,14515,Aston Villa,Brighton,1,2,2020-11-21 15:00:00,NA,Aerial
+387364,34,MissedShots,NaN,0.693000030517578,0.0253675393760204,Trézéguet,h,7722,OpenPlay,2020,RightFoot,14515,Aston Villa,Brighton,1,2,2020-11-21 15:00:00,John McGinn,TakeOn
+387373,76,BlockedShot,0.955,0.602999992370605,0.027938598766923,Trézéguet,h,7722,OpenPlay,2020,Head,14515,Aston Villa,Brighton,1,2,2020-11-21 15:00:00,Anwar El Ghazi,Aerial
+387375,86,MissedShots,0.855,0.407000007629395,0.0561762228608131,Trézéguet,h,7722,OpenPlay,2020,RightFoot,14515,Aston Villa,Brighton,1,2,2020-11-21 15:00:00,Ollie Watkins,Dispossessed
+389820,17,BlockedShot,0.868000030517578,0.322999992370605,0.0521204583346844,Trézéguet,a,7722,OpenPlay,2020,RightFoot,14526,West Ham,Aston Villa,2,1,2020-11-30 20:00:00,Jack Grealish,Pass
+389832,60,MissedShots,0.868000030517578,0.449000015258789,0.0314482562243938,Trézéguet,a,7722,OpenPlay,2020,Head,14526,West Ham,Aston Villa,2,1,2020-11-30 20:00:00,Douglas Luiz,Chipped
+389833,62,SavedShot,0.93,0.487000007629395,0.6304572224617,Trézéguet,a,7722,OpenPlay,2020,LeftFoot,14526,West Ham,Aston Villa,2,1,2020-11-30 20:00:00,Ollie Watkins,Pass
+321259,81,SavedShot,0.723000030517578,NaN,0.0163491610437632,Marvelous Nakamba,a,8040,OpenPlay,2019,LeftFoot,11702,Arsenal,Aston Villa,3,2,2019-09-22 15:30:00,Ahmed Elmohamady,Pass
+331425,45,BlockedShot,0.721999969482422,0.412000007629395,0.0138006955385208,Marvelous Nakamba,a,8040,OpenPlay,2019,,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,NA,None
+331429,52,MissedShots,0.750999984741211,0.415999984741211,0.013670246116817,Marvelous Nakamba,a,8040,FromCorner,2019,LeftFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,NA,Aerial
+337069,51,MissedShots,0.676999969482422,0.449000015258789,0.0126025537028909,Marvelous Nakamba,a,8040,OpenPlay,2019,LeftFoot,11810,Sheffield United,Aston Villa,2,0,2019-12-14 15:00:00,John McGinn,Pass
+352218,74,MissedShots,0.755,NaN,0.012261901050806,Marvelous Nakamba,h,8040,OpenPlay,2019,LeftFoot,11873,Aston Villa,Watford,2,1,2020-01-21 19:30:00,NA,Aerial
